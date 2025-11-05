@@ -109,22 +109,19 @@ jobs:
         
     - name: Publicar resultados dos testes
       if: always()
-      uses: dorny/test-reporter@v1
+      uses: dorny/test-reporter@v1.9.1
       with:
-        name: Resultados dos Testes de API
-        path: target/surefire-reports/*.xml
-        reporter: java-junit
+        name: 'Resultados dos Testes de API'
+        path: 'target/surefire-reports/TEST-*.xml'
+        reporter: 'java-junit'
         fail-on-error: false
+        max-annotations: 10
         
     - name: Comentar PR com resultados
       if: github.event_name == 'pull_request'
-      uses: actions/github-script@v6
+      uses: actions/github-script@v7
       with:
         script: |
-          const fs = require('fs');
-          const path = 'target/surefire-reports/TEST-*.xml';
-          
-          // Comentário básico sobre a execução dos testes
           const comment = `## 🧪 Resultados da Execução dos Testes
           
           A suíte de testes automatizados foi executada com sucesso!
@@ -135,8 +132,8 @@ jobs:
           - Logs de execução: Disponível nos artefatos
           
           ✅ **Status:** Execução concluída
-          🔄 **Commit:** ${{ github.sha }}
-          🌐 **Ambiente:** ${{ github.event.inputs.environment || 'dev' }}`;
+          🔄 **Commit:** ${context.sha}
+          🌐 **Ambiente:** ${context.payload.inputs?.environment || 'dev'}`;
           
           github.rest.issues.createComment({
             issue_number: context.issue.number,
@@ -161,17 +158,17 @@ jobs:
         path: allure-report
         
     - name: Deploy do relatório para GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./allure-report
         destination_dir: reports/${{ github.run_number }}
         
     - name: Comentar com link do relatório
-      uses: actions/github-script@v6
+      uses: actions/github-script@v7
       with:
         script: |
-          const reportUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/reports/${{ github.run_number }}/`;
+          const reportUrl = `https://${context.repo.owner}.github.io/${context.repo.repo}/reports/${context.runNumber}/`;
           
           const comment = `## 📊 Relatório Allure Publicado
           
@@ -179,15 +176,15 @@ jobs:
           🔗 [Visualizar Relatório Allure](${reportUrl})
           
           📋 **Informações:**
-          - **Run ID:** ${{ github.run_number }}
-          - **Commit:** ${{ github.sha }}
+          - **Run ID:** ${context.runNumber}
+          - **Commit:** ${context.sha}
           - **Data:** ${new Date().toISOString()}`;
           
           // Criar uma issue com o link do relatório
           github.rest.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            title: `📊 Relatório de Testes - Run #${{ github.run_number }}`,
+            title: `📊 Relatório de Testes - Run #${context.runNumber}`,
             body: comment,
             labels: ['test-report', 'automated']
           });
