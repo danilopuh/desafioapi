@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Testes de Configuração",
+    "description": "Problemas relacionados aos métodos de configuração de teste",
+    "matchedStatuses": ["broken"],
+    "messageRegex": ".*setup.*|.*teardown.*|.*@Before.*|.*@After.*"
+  },
+  {
+    "name": "Falhas de Teste",
+    "description": "Testes que falharam devido a assertions incorretas",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*AssertionError.*|.*assertion.*"
+  },
+  {
+    "name": "Testes Pulados",
+    "description": "Testes que foram ignorados ou pulados",
+    "matchedStatuses": ["skipped"]
+  }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="API Test Suite" verbose="1" parallel="methods" thread-count="3">
+    <parameter name="environment" value="dev"/>
+    
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+    <!-- Configurações globais -->
+    <test name="Smoke Tests" preserve-order="true">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="br.com.desafioapi.tests.UserCrudTest"/>
+            <class name="br.com.desafioapi.tests.AuthenticationTest"/>
+        </classes>
+    </test>
+
+    <test name="Regression Tests" preserve-order="true">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="br.com.desafioapi.tests.UserCrudTest"/>
+            <class name="br.com.desafioapi.tests.UserNegativeTest"/>
+            <class name="br.com.desafioapi.tests.AuthenticationTest"/>
+        </classes>
+    </test>
+
+    <test name="All Tests" preserve-order="false">
+        <classes>
+            <class name="br.com.desafioapi.tests.UserCrudTest"/>
+            <class name="br.com.desafioapi.tests.UserNegativeTest"/>
+            <class name="br.com.desafioapi.tests.AuthenticationTest"/>
+        </classes>
+    </test>
+</suite>

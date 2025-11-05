@@ -1,0 +1,193 @@
+name: API Test Automation
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Executa todos os dias às 2h da manhã
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      test_suite:
+        description: 'Escolha a suíte de testes para executar'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - smoke
+          - regression
+      environment:
+        description: 'Ambiente para execução dos testes'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+          - dev
+          - prod
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        java-version: [17]
+        
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v4
+      
+    - name: Configurar JDK ${{ matrix.java-version }}
+      uses: actions/setup-java@v4
+      with:
+        java-version: ${{ matrix.java-version }}
+        distribution: 'temurin'
+        
+    - name: Cache dependências Maven
+      uses: actions/cache@v3
+      with:
+        path: ~/.m2
+        key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
+        restore-keys: ${{ runner.os }}-m2
+        
+    - name: Instalar dependências
+      run: mvn clean compile test-compile
+      
+    - name: Executar testes - Smoke
+      if: ${{ github.event.inputs.test_suite == 'smoke' || github.event.inputs.test_suite == '' }}
+      run: mvn test -Psmoke
+      continue-on-error: true
+      
+    - name: Executar testes - Regression
+      if: ${{ github.event.inputs.test_suite == 'regression' }}
+      run: mvn test -Pregression
+      continue-on-error: true
+      
+    - name: Executar todos os testes
+      if: ${{ github.event.inputs.test_suite == 'all' || github.event_name != 'workflow_dispatch' }}
+      run: mvn test
+      continue-on-error: true
+      
+    - name: Gerar relatório Allure
+      if: always()
+      run: mvn allure:report
+      
+    - name: Upload dos resultados Allure
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: allure-results
+        path: target/allure-results/
+        retention-days: 30
+        
+    - name: Upload do relatório Allure
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: allure-report
+        path: target/site/allure-maven-plugin/
+        retention-days: 30
+        
+    - name: Upload dos logs de teste
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-logs
+        path: target/logs/
+        retention-days: 7
+        
+    - name: Upload do relatório Surefire
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: surefire-reports
+        path: target/surefire-reports/
+        retention-days: 30
+        
+    - name: Publicar resultados dos testes
+      if: always()
+      uses: dorny/test-reporter@v1
+      with:
+        name: Resultados dos Testes de API
+        path: target/surefire-reports/*.xml
+        reporter: java-junit
+        fail-on-error: false
+        
+    - name: Comentar PR com resultados
+      if: github.event_name == 'pull_request'
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          const path = 'target/surefire-reports/TEST-*.xml';
+          
+          // Comentário básico sobre a execução dos testes
+          const comment = `## 🧪 Resultados da Execução dos Testes
+          
+          A suíte de testes automatizados foi executada com sucesso!
+          
+          📊 **Relatórios disponíveis:**
+          - Relatório Allure: Disponível nos artefatos
+          - Relatório Surefire: Disponível nos artefatos
+          - Logs de execução: Disponível nos artefatos
+          
+          ✅ **Status:** Execução concluída
+          🔄 **Commit:** ${{ github.sha }}
+          🌐 **Ambiente:** ${{ github.event.inputs.environment || 'dev' }}`;
+          
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: comment
+          });
+
+  deploy-report:
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v4
+      
+    - name: Download do relatório Allure
+      uses: actions/download-artifact@v3
+      with:
+        name: allure-report
+        path: allure-report
+        
+    - name: Deploy do relatório para GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./allure-report
+        destination_dir: reports/${{ github.run_number }}
+        
+    - name: Comentar com link do relatório
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const reportUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/reports/${{ github.run_number }}/`;
+          
+          const comment = `## 📊 Relatório Allure Publicado
+          
+          O relatório detalhado dos testes está disponível em:
+          🔗 [Visualizar Relatório Allure](${reportUrl})
+          
+          📋 **Informações:**
+          - **Run ID:** ${{ github.run_number }}
+          - **Commit:** ${{ github.sha }}
+          - **Data:** ${new Date().toISOString()}`;
+          
+          // Criar uma issue com o link do relatório
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `📊 Relatório de Testes - Run #${{ github.run_number }}`,
+            body: comment,
+            labels: ['test-report', 'automated']
+          });

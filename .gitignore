@@ -1,0 +1,53 @@
+# Arquivos de build do Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.metadata/
+
+# Logs
+*.log
+logs/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+
+# Arquivos de configuração local
+config-local.properties
+*.env
+application-local.yml
+application-local.properties
+
+# Resultados de teste temporários
+test-output/
+allure-results/
+screenshots/
+videos/
+*.html
+*.png
+
+# Cache do Maven
+.m2/repository/
+
+# Allure
+.allure/
+allure-report/
+
+# Arquivos temporários do Java
+hs_err_pid*
+replay_pid*
