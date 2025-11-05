@@ -29,12 +29,13 @@ on:
           - prod
 
 permissions:
-  contents: read
+  contents: write
   issues: write
   pull-requests: write
   pages: write
   id-token: write
   checks: write
+  actions: read
 
 jobs:
   test:
@@ -140,6 +141,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: test
     if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     
     steps:
     - name: Checkout código
@@ -157,6 +162,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./allure-report
         destination_dir: reports/${{ github.run_number }}
+        keep_files: true
+        enable_jekyll: false
+        force_orphan: false
         
     - name: Comentar com link do relatório
       uses: actions/github-script@v7
