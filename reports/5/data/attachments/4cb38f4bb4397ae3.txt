@@ -1,0 +1,145 @@
+{
+    "quantidade": 20,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Letícia Negrão",
+            "email": "isabella.modesto@hotmail.com",
+            "password": "jrsmti9c5yb6wgvljye",
+            "administrador": "false",
+            "_id": "7jaAP9fdN8a7vnYN"
+        },
+        {
+            "nome": "Srta. Fábio Casqueira",
+            "email": "liz.gomide@live.com",
+            "password": "getaz1wrtdewyn",
+            "administrador": "false",
+            "_id": "8m52ULltjYQIneRH"
+        },
+        {
+            "nome": "Luna Simão",
+            "email": "otavio.campos@live.com",
+            "password": "gmjz45edn5uod0",
+            "administrador": "false",
+            "_id": "AVryEwNrAFdyvb5l"
+        },
+        {
+            "nome": "Luiz Miguel Hernandes",
+            "email": "isabella.pinheira@live.com",
+            "password": "t9vf7p2tf6a",
+            "administrador": "false",
+            "_id": "BbMRwHNrn9BBbMRz"
+        },
+        {
+            "nome": "Dra. Enzo Gabriel Coutinho",
+            "email": "davilucca.coutinho@live.com",
+            "password": "sg7gz7quqjm31n1k",
+            "administrador": "false",
+            "_id": "GPVHb6fFoYm5VdM2"
+        },
+        {
+            "nome": "Washington de Borba",
+            "email": "guilherme.siqueiro@hotmail.com",
+            "password": "x5v3pz9lzau",
+            "administrador": "false",
+            "_id": "HOMM4K3aJlzATZWg"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "editar_1762302223367@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "KX6Nfjz91kTVGAqN"
+        },
+        {
+            "nome": "Sr. Sophia Xavier",
+            "email": "davilucca.marques@hotmail.com",
+            "password": "mt285lfvopc1j8tg7ot",
+            "administrador": "false",
+            "_id": "LeLMkLEtBPFBmjIn"
+        },
+        {
+            "nome": "Alícia Sá",
+            "email": "juliana.esteves@bol.com.br",
+            "password": "xq1d1f9ycqaubthvbl",
+            "administrador": "false",
+            "_id": "ODlAbbTR1DhA9wVI"
+        },
+        {
+            "nome": "Dr. Davi Aragão",
+            "email": "felicia.teles@live.com",
+            "password": "7thj6b91m301urm",
+            "administrador": "false",
+            "_id": "RyWrb52vcmNW2AkG"
+        },
+        {
+            "nome": "Dr. Lorraine dos Reis",
+            "email": "bianca.filgueira@hotmail.com",
+            "password": "w24ax637",
+            "administrador": "false",
+            "_id": "Y8gYYjxZbtiiTVYa"
+        },
+        {
+            "nome": "Augusto Neves",
+            "email": "yago.madeira@gmail.com",
+            "password": "gmhhk6asw460d0u",
+            "administrador": "false",
+            "_id": "Yhg17JWY4KLkIrlC"
+        },
+        {
+            "nome": "Srta. Pedro Miguel Hermingues",
+            "email": "isabella.vimaranes@live.com",
+            "password": "octn4o46jht8",
+            "administrador": "false",
+            "_id": "YvkF8rD6hGb3nA2N"
+        },
+        {
+            "nome": "Pietro do Prado",
+            "email": "fabricio.daveiga@hotmail.com",
+            "password": "nj2p1whip1i",
+            "administrador": "false",
+            "_id": "b9huEreUz5Vuk21e"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "teste_1762302223017@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "fmlWYXZciZILnYfv"
+        },
+        {
+            "nome": "Kenny Lueilwitz",
+            "email": "Minerva_Considine90@gmail.com",
+            "password": "Tw5hdZQTMJNyLyh",
+            "administrador": "true",
+            "_id": "gI0WtXbQYtCIZMtN"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "user_1762302222327@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "icx0QzZWlI0wnMs2"
+        },
+        {
+            "nome": "Usuário Contrato QA",
+            "email": "contrato_1762302222843@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "mcOTx8FrzZKv2YwC"
+        },
+        {
+            "nome": "Fernanda Meireles Jr.",
+            "email": "fernanda.moreira@live.com",
+            "password": "0km6rqyz4zjxkk4",
+            "administrador": "false",
+            "_id": "uaX31Wi5g8tKHwdB"
+        }
+    ]
+}
