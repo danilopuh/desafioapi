@@ -16,6 +16,12 @@ Este projeto contém uma suíte completa de testes automatizados para a API REST
 
 ## Visão Geral
 
+### Status do Projeto
+- ✅ **52 testes automatizados** executando com sucesso
+- ✅ **Relatórios Allure** configurados e funcionais
+- ✅ **Pipeline CI/CD** ativo no GitHub Actions
+- ✅ **Deploy completo** no GitHub: [github.com/danilopuh/desafioapi](https://github.com/danilopuh/desafioapi)
+
 ### API Testada
 - **Base URL:** https://serverest.dev
 - **Documentação:** https://serverest.dev/#/
