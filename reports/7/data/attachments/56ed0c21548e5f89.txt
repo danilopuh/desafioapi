@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Arthur Henrique Sais",
+            "email": "oliver.brum@hotmail.com",
+            "password": "taw9edvmzi4xy",
+            "administrador": "false",
+            "_id": "7j6bBG68T8QTNsh2"
+        },
+        {
+            "nome": "Isabela Fontinhas Jr.",
+            "email": "elisio.braga@yahoo.com",
+            "password": "4qbk50ik7zoozmhyxa5",
+            "administrador": "false",
+            "_id": "8MYD1kIl1Grs6z8U"
+        },
+        {
+            "nome": "Sophie Caldeira",
+            "email": "luiza.rodrigues@live.com",
+            "password": "dqdmtq0v45zc3ebg",
+            "administrador": "false",
+            "_id": "SoeSo9ejSgjCPUR5"
+        },
+        {
+            "nome": "Alessandra Ornelas",
+            "email": "tiago.gabeira@bol.com.br",
+            "password": "9ghrl5vsyi8uiwsc8",
+            "administrador": "false",
+            "_id": "ZuUgZmpDuB23kLiF"
+        },
+        {
+            "nome": "Maria Alice Álvares Filho",
+            "email": "luizgustavo.videira@live.com",
+            "password": "ngja9fndustk90bpvtq",
+            "administrador": "false",
+            "_id": "kQ316731NRZTAGnS"
+        },
+        {
+            "nome": "Usuário QA Carrinho",
+            "email": "qa_1762398978435@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vwwHoFlWcpcsiHUr"
+        }
+    ]
+}
