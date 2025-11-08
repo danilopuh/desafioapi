@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luiz Teles",
+            "email": "mariaeduarda.conceicao@live.com",
+            "password": "twmql0w7j1je4gqv",
+            "administrador": "false",
+            "_id": "3lvTdupOHQn5Pctw"
+        },
+        {
+            "nome": "Eloah da Silva",
+            "email": "joaofelipe.espinhosa@live.com",
+            "password": "4zxzwf01jwz",
+            "administrador": "false",
+            "_id": "7fQm3Dm6NNycs46o"
+        },
+        {
+            "nome": "Garotinho",
+            "email": "mrios@example.org",
+            "password": "xerecasfarm",
+            "administrador": "true",
+            "_id": "JMLMxdWap5pVjwGM"
+        },
+        {
+            "nome": "Amanda Rolim",
+            "email": "joaoluca.domingues@yahoo.com",
+            "password": "saywh28vbqr60",
+            "administrador": "false",
+            "_id": "NkobYd9SWGCFMIKg"
+        },
+        {
+            "nome": "Yuri Lobos Filho",
+            "email": "francisco.paes@gmail.com",
+            "password": "7ja8t1p1",
+            "administrador": "false",
+            "_id": "boDHYh1FdUtlJWpX"
+        },
+        {
+            "nome": "Elvira Bogan",
+            "email": "Tyler.Collier40@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "jep7xkUx2G5yN7xL"
+        },
+        {
+            "nome": "Lucas Bouças",
+            "email": "bruna.ouriques@gmail.com",
+            "password": "vj390ok81pxzspuuyc1",
+            "administrador": "false",
+            "_id": "p5FhH3dJD2wLgUu9"
+        },
+        {
+            "nome": "Júlia Pimenta",
+            "email": "felicia.carneiro@hotmail.com",
+            "password": "6exgznr1tmdbx0mf",
+            "administrador": "false",
+            "_id": "qSDELwcF9rfU11DE"
+        }
+    ]
+}
