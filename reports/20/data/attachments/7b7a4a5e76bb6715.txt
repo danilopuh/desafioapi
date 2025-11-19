@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dra. Isabel Laranjeira",
+            "email": "feliciano.ferraco@gmail.com",
+            "password": "g3g8c5rewkkil9",
+            "administrador": "false",
+            "_id": "2zPqOc0l0SFHgmbD"
+        },
+        {
+            "nome": "Camila Laranjeira",
+            "email": "marcia.moreira@gmail.com",
+            "password": "iy2719jxyuz3izvq",
+            "administrador": "false",
+            "_id": "CPozj4InDGnp8nt0"
+        },
+        {
+            "nome": "Carla Amoreira",
+            "email": "ruan.ramos@live.com",
+            "password": "pl0n1cmsbbt",
+            "administrador": "false",
+            "_id": "WJN6sQcs6lPfuok8"
+        },
+        {
+            "nome": "Maitê Duarte",
+            "email": "mathias.filgueira@gmail.com",
+            "password": "3dx6tk14mg9ufeht299",
+            "administrador": "false",
+            "_id": "WxzWFpREOch4B46p"
+        },
+        {
+            "nome": "Srta. Miguel Mendes",
+            "email": "joaosamuel.reis@live.com",
+            "password": "scasmoaa",
+            "administrador": "false",
+            "_id": "okZp2NDWYR4DGSsg"
+        },
+        {
+            "nome": "Gustavo Macieira",
+            "email": "enrico.chaves@bol.com.br",
+            "password": "ljk240ab3",
+            "administrador": "false",
+            "_id": "tKmolX155zcBWo7y"
+        },
+        {
+            "nome": "Wilbur Marks",
+            "email": "Zechariah_Fay22@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "wF47QUb09jnCeNUX"
+        },
+        {
+            "nome": "TestUser",
+            "email": "test@example.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "y69zLytSp1jjrvka"
+        }
+    ]
+}
