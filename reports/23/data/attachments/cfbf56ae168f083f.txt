@@ -1,0 +1,96 @@
+{
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sr. Enzo Thiago Martins",
+            "email": "daniel.batista@gmail.com",
+            "password": "x5tetqj3qy16y",
+            "administrador": "false",
+            "_id": "6oO2akC16H7kXlMr"
+        },
+        {
+            "nome": "Roman Prohaska",
+            "email": "roman.prohaska@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "9GpSxnQdwWItiJMU"
+        },
+        {
+            "nome": "Leonardo Veles Filho",
+            "email": "lucca.caseira@gmail.com",
+            "password": "wuzje7z29",
+            "administrador": "false",
+            "_id": "B4zflsVgH2d6TqZc"
+        },
+        {
+            "nome": "Dean Lindgren",
+            "email": "dean.lindgren14@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "C6CmihmVyII8jcYw"
+        },
+        {
+            "nome": "Célia de Lins Filho",
+            "email": "theo.deassuncao@hotmail.com",
+            "password": "hic65lyg",
+            "administrador": "false",
+            "_id": "EIGVFvPES8cq6m0Y"
+        },
+        {
+            "nome": "Homer Simpsons",
+            "email": "homer@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GYCRCmG8jxiPVWQL"
+        },
+        {
+            "nome": "Lívia Marcondes Neto",
+            "email": "fabricia.ambrosio@bol.com.br",
+            "password": "13ur12m2ujjwjvinsv",
+            "administrador": "false",
+            "_id": "O1eN7cy5caWiMMBX"
+        },
+        {
+            "nome": "Jonas",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "T709Y6KaOYEwCiKu"
+        },
+        {
+            "nome": "Lindsey Larson",
+            "email": "Sabrina_Schoen59@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "l3MKz1T8TntVMBd5"
+        },
+        {
+            "nome": "William Dickinson",
+            "email": "william_dickinson85@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "pmFEtpiklpddIKu1"
+        },
+        {
+            "nome": "Maria Cecília Coutinho Jr.",
+            "email": "pedrotobias.daaldeia@gmail.com",
+            "password": "g75otzx8h0z25",
+            "administrador": "false",
+            "_id": "tWEwndcRGIse7kD5"
+        },
+        {
+            "nome": "Marquise Gutmann",
+            "email": "marquise_gutmann88@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zyDPqvoKGJyFOLhu"
+        }
+    ]
+}
