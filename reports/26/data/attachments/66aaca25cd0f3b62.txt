@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 3945",
+            "email": "Jardel3945@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "2pDWpSkXbXS5af1d"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 1391",
+            "email": "Jardel1391@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4ontxp6M07UVClaJ"
+        },
+        {
+            "nome": "Usuário Admin",
+            "email": "usuario.admin@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "5mPF94RsJUiVJUVJ"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "user_1764039124815@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "7bal68U5vBqmXobE"
+        },
+        {
+            "nome": "João Lucas Garcez",
+            "email": "anaclara.gabeira@hotmail.com",
+            "password": "8bp3xcaq",
+            "administrador": "false",
+            "_id": "81M0fxRvvNCpBWSs"
+        },
+        {
+            "nome": "Usuario8787",
+            "email": "user8787@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Ab8YMI9qBYkkVvOy"
+        },
+        {
+            "nome": "Usuario4226",
+            "email": "user4226@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "CHFY8kuPH8haLODE"
+        },
+        {
+            "nome": "Usuario5386",
+            "email": "user5386@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "D78ZQNw5HgKrOBEC"
+        },
+        {
+            "nome": "Usuario1002",
+            "email": "user1002@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ETlqRqiS1oQKBdHA"
+        },
+        {
+            "nome": "Usuario6114",
+            "email": "user6114@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Joo3u65LtNfWJxWK"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 2334",
+            "email": "Jardel2334@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "JtCaeccwMeBgqWZ2"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 2577",
+            "email": "Jardel2577@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Jz0vGxWSsjZLjC1c"
+        },
+        {
+            "nome": "Usuário Contrato QA",
+            "email": "contrato_1764039127640@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "KwObANEnRdxuQzJD"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 4215",
+            "email": "Jardel4215@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "L6z0Tr92jrpVikHz"
+        },
+        {
+            "nome": "Usuário Excluir",
+            "email": "excluir_1764039122810@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "MgBI9StfCbpoNNdQ"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 3973",
+            "email": "Jardel3973@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "MijjEjrEN7P7w1zH"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "editar_1764039222273@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "OQzNjHGTvKdVxpaq"
+        },
+        {
+            "nome": "Jardel Jorge Aguiar 6730",
+            "email": "Jardel6730@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VZDkUdqhF32r01Gt"
+        },
+        {
+            "nome": "Usuario2192",
+            "email": "user2192@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "X3VUUhMU930kC05d"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "teste_1764039222061@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "XqZbNaPDL52gKyoe"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "editar_1764039127869@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "YNQpfAKfDI42k6oB"
+        },
+        {
+            "nome": "Michael Maggio",
+            "email": "Fanny_Johns@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "bMUKtC9qsHajDegN"
+        },
+        {
+            "nome": "Usuário Contrato QA",
+            "email": "contrato_1764039221958@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "e8tch5fZrQhmNABk"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "teste_1764039127734@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "eHeAknDmDK4fIehy"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "user_1764039221657@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "es8Bs85D0wj7TguR"
+        },
+        {
+            "nome": "Usuario8295",
+            "email": "user8295@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "lfEXKWJRY7Mxy0oT"
+        }
+    ]
+}
