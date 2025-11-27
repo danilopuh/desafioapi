@@ -1,0 +1,292 @@
+{
+    "quantidade": 41,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuário Atualizado",
+            "email": "1764212070610-update@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "1lhSFf2lYmpKxLwP"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764209878303@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "1nsbw1JKp3EhP6qD"
+        },
+        {
+            "nome": "JAIRO",
+            "email": "dalmannjb@gmail.com",
+            "password": "rgs281JBD###",
+            "administrador": "true",
+            "_id": "5TS2kQysSPl3i0iY"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764213161928@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6VdcFkzNb07Rwtkd"
+        },
+        {
+            "nome": "Vicky Keebler",
+            "email": "Brandi_Graham@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "75UJCAC4ssVnsuj2"
+        },
+        {
+            "nome": "Usuário Postman",
+            "email": "1764211730585@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "B0rDLy1Po6Yv96ks"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764212910646@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BPMR9IWexziH0Dxz"
+        },
+        {
+            "nome": "Sofia Pereira",
+            "email": "otaviohungriamigrbn4t@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "D1lfl1qy0ihftszL"
+        },
+        {
+            "nome": "Teste PUT Atualizado",
+            "email": "1764209332693@teste.com",
+            "password": "abcd",
+            "administrador": "true",
+            "_id": "DIX3K1cCQhkRpdDm"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764209621882@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "DRnS77FxHSo2feSR"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764207474073@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "F4p930ob9JVWnnVG"
+        },
+        {
+            "nome": "Delphi Boy",
+            "email": "delphiboy@gmail.com",
+            "password": "delphi",
+            "administrador": "true",
+            "_id": "HjPETUhEYJuLbItD"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "JNxKnPGTLGOWdhFl"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764209325341@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "MZWaXn0d5oikMIog"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764207477613@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "NdbXFejoQvc6qr1T"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764209329746@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "QA9mWInOJI1ZPOIC"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "QPgGlgD25OQnH1b4"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764209333068@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "RzkM9K7D9xKxoAeh"
+        },
+        {
+            "nome": "Lorena Raia",
+            "email": "anacecilia.daterra@gmail.com",
+            "password": "7kt1j8a9etluf",
+            "administrador": "false",
+            "_id": "ThdWJpEHkoexR8ww"
+        },
+        {
+            "nome": "Teste PUT Atualizado",
+            "email": "1764207480442@teste.com",
+            "password": "abcd",
+            "administrador": "true",
+            "_id": "U62GwKFbFo1ExUWP"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764210148851@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "YEKYmlOXS1EBrxu0"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764209630147@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "e58ugyIP3flllrm7"
+        },
+        {
+            "nome": "Usuário Duplicado",
+            "email": "teste@qa.com.br",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ewqoErxc1RBCUZWA"
+        },
+        {
+            "nome": "Teste",
+            "email": "1764210141564@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "fwGpT5W4IvQDI45u"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764209626358@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "hLoITHPKX7GCpe3C"
+        },
+        {
+            "nome": "Sofia Vieira",
+            "email": "marinadiasmigrbeht@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "iOnqrIJLhe5FKE7o"
+        },
+        {
+            "nome": "Pietro Rocha",
+            "email": "eduarda.aparicio@yahoo.com",
+            "password": "otuodayle7j",
+            "administrador": "false",
+            "_id": "j0ATjXd4drRn6E98"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764212919215@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jLLN0jMQwEwk0pBo"
+        },
+        {
+            "nome": "Teste PUT Atualizado",
+            "email": "1764209629886@teste.com",
+            "password": "abcd",
+            "administrador": "true",
+            "_id": "jXV4yBb1vz7H9g0w"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764213060105@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jZJuI2F9VM6QwtLD"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764210145893@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "o3iphzqSOFVXHVC6"
+        },
+        {
+            "nome": "Teste GET_ID",
+            "email": "1764210054299@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "oMrvYkDwCNV7Jdcm"
+        },
+        {
+            "nome": "Rafael Dias",
+            "email": "joanasilvamigrbpdq@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ovIdxML1OY9E6WIR"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764213006889@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "p1ZDuc3JyB80fr1n"
+        },
+        {
+            "nome": "luiz",
+            "email": "bernadoluizfernando@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "rppqWJGAGxD7UZLr"
+        },
+        {
+            "nome": "Teste erro",
+            "email": "1764207480655@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "uUowQ7CCvRGVt8Vt"
+        },
+        {
+            "nome": "Teste PUT Atualizado",
+            "email": "1764210148487@teste.com",
+            "password": "abcd",
+            "administrador": "true",
+            "_id": "va6pUPxcMR3fVES7"
+        },
+        {
+            "nome": "Usuario Teste 1764207019886",
+            "email": "teste1764207019886@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "vkVKGkO1OS7aQTfm"
+        },
+        {
+            "nome": "Patricia de Lins",
+            "email": "kaique.custodio@bol.com.br",
+            "password": "a89db1tbi9",
+            "administrador": "false",
+            "_id": "zCPLCksHNDgnRMG4"
+        },
+        {
+            "nome": "Usuário Novo QA",
+            "email": "usuario1764213144524@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "zjngTW53wgYOD2ra"
+        }
+    ]
+}
