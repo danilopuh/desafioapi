@@ -1,0 +1,110 @@
+{
+    "quantidade": 15,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "password": "1234",
+            "email": "user.1764989853679@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Teste",
+            "_id": "F3dsPojGQxnrBfSc"
+        },
+        {
+            "nome": "Vinícius Rezende Neto",
+            "email": "mariaisis.nunes@yahoo.com",
+            "password": "kgd3o0a6hh",
+            "administrador": "false",
+            "_id": "G5mz0BB5zukjulPj"
+        },
+        {
+            "nome": "Ray DuBuque",
+            "email": "Toni37@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "JQIqE3eV93bKt0lw"
+        },
+        {
+            "nome": "Luiz Miguel de Lins",
+            "email": "mariaalice.nunes@bol.com.br",
+            "password": "xadeg8umcnxdupibr",
+            "administrador": "false",
+            "_id": "K85TL3wTpJ4sbDfz"
+        },
+        {
+            "nome": "Dra. Levi Assumpção",
+            "email": "milena.daconceicao@bol.com.br",
+            "password": "xqdnq0deyl",
+            "administrador": "false",
+            "_id": "NPSIPOUkPkTwXKeu"
+        },
+        {
+            "password": "1234",
+            "email": "user.1764989848028@qa.com",
+            "administrador": "true",
+            "nome": "Fluxo Teste",
+            "_id": "YB9CPa8RGnVaXqhI"
+        },
+        {
+            "password": "1234",
+            "email": "teste_parallel_2_851b0c9a-3f2a-4d69-9d9a-6dc2af603d31@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Paralelo main",
+            "_id": "aroDf4WHVPxL0FjU"
+        },
+        {
+            "nome": "João Luca Rolim",
+            "email": "mariafernanda.ramires@bol.com.br",
+            "password": "wuwz5a3fy1sxxazm",
+            "administrador": "false",
+            "_id": "ePTyJ8ycyHKROmTT"
+        },
+        {
+            "nome": "Karla Araújo",
+            "email": "maya.roseira@bol.com.br",
+            "password": "bkhzam4hyxxv",
+            "administrador": "false",
+            "_id": "fSM13dgm4rTgyszV"
+        },
+        {
+            "nome": "Silas Rolim Neto",
+            "email": "isaac.paes@hotmail.com",
+            "password": "hxfsf7hiden2bqr5c4",
+            "administrador": "false",
+            "_id": "saQBKWXOdFfy3EcZ"
+        },
+        {
+            "password": "1234",
+            "email": "teste_parallel_1_abea56df-9c64-4f32-bf41-638ffe913aa1@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Paralelo main",
+            "_id": "sq694XMNx7Fh4yev"
+        },
+        {
+            "password": "1234",
+            "email": "user.1764989850665@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Teste Soft Assert",
+            "_id": "u14dJD0qkl9pgOPG"
+        },
+        {
+            "password": "1234",
+            "email": "teste_parallel_3_c68ca883-a0f9-4cb8-a602-d8193cacc41a@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Paralelo main",
+            "_id": "wxbkR2iiVY9RWqLs"
+        },
+        {
+            "password": "1234",
+            "email": "teste_parallel_4_da08b618-b6fa-47f4-8f7c-a96d18fe07ea@qa.com",
+            "administrador": "true",
+            "nome": "Usuario Paralelo main",
+            "_id": "zv0VY8qXswJZ5sTU"
+        }
+    ]
+}
