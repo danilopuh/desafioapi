@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Ms. Tyrone Wolff",
+            "email": "Samantha.Hilpert@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "I3WY6YJoi28efjdt"
+        },
+        {
+            "nome": "bob",
+            "email": "bob@bobo.com",
+            "password": "bobo123",
+            "administrador": "false",
+            "_id": "QxSjwZXed093xGqx"
+        },
+        {
+            "nome": "Patricia Sanches",
+            "email": "davilucca.hermingues@bol.com.br",
+            "password": "mha3m0hv7k06o",
+            "administrador": "false",
+            "_id": "WqHHHIT2A8XgGmMn"
+        },
+        {
+            "nome": "Gael Lessa",
+            "email": "marcia.passarinho@hotmail.com",
+            "password": "z0cwn3kegbte",
+            "administrador": "false",
+            "_id": "hGTty1OBLdmhTQEv"
+        },
+        {
+            "nome": "Helena Ribeiro",
+            "email": "daviluiz.cavalcanti@gmail.com",
+            "password": "t2tqbcbhv65tabck0g",
+            "administrador": "false",
+            "_id": "jCca3tk5P3hPpK8r"
+        },
+        {
+            "nome": "Vinicius Brum Neto",
+            "email": "janaina.barbosa@gmail.com",
+            "password": "d6uazlpfk4yod4gv",
+            "administrador": "false",
+            "_id": "oe8Oskx5aljpbmRL"
+        },
+        {
+            "nome": "Sr. Clara Álvares",
+            "email": "carla.delara@gmail.com",
+            "password": "efggn3p7",
+            "administrador": "false",
+            "_id": "rbdW2dmCJVrsXVGi"
+        }
+    ]
+}
