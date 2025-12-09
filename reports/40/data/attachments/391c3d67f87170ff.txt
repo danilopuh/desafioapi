@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Laura Chaves",
+            "email": "alessandra.soeira@live.com",
+            "password": "4aa4uazi1cr",
+            "administrador": "false",
+            "_id": "7T9ZkU5jn2HWZTYq"
+        },
+        {
+            "nome": "Floyd Klocko",
+            "email": "Maggie_Kuhic23@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "IJrmqaWlZwjF7DOH"
+        },
+        {
+            "nome": "Davi Luiz Solimões Neto",
+            "email": "melissa.carreira@hotmail.com",
+            "password": "mfd17t5o34t49k0",
+            "administrador": "false",
+            "_id": "McM4muW7SAbGIwFH"
+        },
+        {
+            "nome": "Daniel Assumpção Neto",
+            "email": "marcelo.guterres@live.com",
+            "password": "mklag40tw9nuam1",
+            "administrador": "false",
+            "_id": "OdemHhvZKFbQNKjF"
+        },
+        {
+            "nome": "Dra. Luana Santana",
+            "email": "marcela.siqueiro@yahoo.com",
+            "password": "lr6agqtky37az1zdz6",
+            "administrador": "false",
+            "_id": "W5JFWHcOLoyK9ZI3"
+        },
+        {
+            "nome": "Patricia Sanches",
+            "email": "bento.datena@bol.com.br",
+            "password": "evthoqnoib1jh5e0",
+            "administrador": "false",
+            "_id": "mKmAqpG2e4zLfEbA"
+        },
+        {
+            "nome": "Homer Simpsons",
+            "email": "homer@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zer5L3Q6c0Bg2P7j"
+        }
+    ]
+}

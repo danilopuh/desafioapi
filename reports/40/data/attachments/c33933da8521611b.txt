@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Floyd Klocko",
+            "email": "Maggie_Kuhic23@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "IJrmqaWlZwjF7DOH"
+        },
+        {
+            "nome": "Homer Simpsons",
+            "email": "homer@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zer5L3Q6c0Bg2P7j"
+        }
+    ]
+}
