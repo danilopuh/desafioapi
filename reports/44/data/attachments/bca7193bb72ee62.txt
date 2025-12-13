@@ -1,0 +1,138 @@
+{
+    "quantidade": 19,
+    "usuarios": [
+        {
+            "nome": "Leonardo Beltrano",
+            "email": "teste@qa.com.br",
+            "password": "inicio123",
+            "administrador": "true",
+            "_id": "14Lf7K9vO2eG6R6c"
+        },
+        {
+            "nome": "Leonardo Beltrano",
+            "email": "teste12@qa.com.br",
+            "password": "inicio123",
+            "administrador": "true",
+            "_id": "1KNl3OVfifb04htP"
+        },
+        {
+            "nome": "User Test",
+            "password": "1234",
+            "email": "login.403206db-b403-4706-b986-c5fe474eef3c@qa.com",
+            "administrador": "true",
+            "_id": "AkB5PgXebHPoMr7W"
+        },
+        {
+            "nome": "User Test",
+            "password": "1234",
+            "email": "login.91fe50a5-d9d9-4a83-8b88-f1ca975bb27e@qa.com",
+            "administrador": "true",
+            "_id": "EMyCxssigLGRNeqp"
+        },
+        {
+            "nome": "Usuario Paralelo ForkJoinPool-1-worker-1",
+            "password": "1234",
+            "email": "parallel_2_67690dbc-2828-4779-9ada-dfc59f70cb11@qa.com",
+            "administrador": "true",
+            "_id": "FnybHkW1bFylJo3M"
+        },
+        {
+            "nome": "Fluxo Teste",
+            "password": "1234",
+            "email": "user.1765592588528@qa.com",
+            "administrador": "true",
+            "_id": "HHNwbZBNGOsw8uSb"
+        },
+        {
+            "nome": "User Test",
+            "password": "1234",
+            "email": "login.97030bc8-d1b0-4c48-8459-5a9370f04d3f@qa.com",
+            "administrador": "true",
+            "_id": "I5upKwaoTPXIS8l4"
+        },
+        {
+            "nome": "Usuario Paralelo ForkJoinPool-1-worker-12",
+            "password": "1234",
+            "email": "parallel_1_c0d7b113-f993-4a1d-b49e-2139e27d0a8a@qa.com",
+            "administrador": "true",
+            "_id": "OIEVLzep6vWzpRWZ"
+        },
+        {
+            "nome": "usuario 8551",
+            "email": "user.1765592588526@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "SKU97vGtPW1AStg5"
+        },
+        {
+            "nome": "Soft Test",
+            "password": "1234",
+            "email": "user.1765592590264@qa.com",
+            "administrador": "true",
+            "_id": "WSmvsAcai4Fgbm5g"
+        },
+        {
+            "nome": "Márcio Quarteira",
+            "email": "bernardo.moreno@gmail.com",
+            "password": "801rz88947rp0",
+            "administrador": "false",
+            "_id": "XPQQLFLJbMwX1Zdt"
+        },
+        {
+            "nome": "Usuario Paralelo ForkJoinPool-1-worker-10",
+            "password": "1234",
+            "email": "parallel_3_9d79c801-dc55-4ee8-8320-57f868323008@qa.com",
+            "administrador": "true",
+            "_id": "fKam1r6LGcFDbDhX"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "h1rdpgZ2iMvJtKc8"
+        },
+        {
+            "nome": "Eva",
+            "email": "fulano@qa.com",
+            "password": "pistol",
+            "administrador": "true",
+            "_id": "h8r6YEjb4TBmYUFj"
+        },
+        {
+            "nome": "User Test",
+            "password": "1234",
+            "email": "login.d83cd6f7-81dd-474b-affa-408c9f8319fc@qa.com",
+            "administrador": "true",
+            "_id": "jjIxFkh0cqNI8LGo"
+        },
+        {
+            "nome": "User Test",
+            "password": "1234",
+            "email": "login.861c5197-3cd2-452d-ae84-31312c3758f4@qa.com",
+            "administrador": "true",
+            "_id": "nKY551mozqlo8Bls"
+        },
+        {
+            "nome": "Leonardo Beltrano",
+            "email": "teste2@qa.com.br",
+            "password": "inicio123",
+            "administrador": "true",
+            "_id": "nbqJ13ykYgtKIDWU"
+        },
+        {
+            "nome": "Emanuel Halvorson",
+            "email": "Amelie23@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "ti3R3Lsa7LiQ3DvL"
+        },
+        {
+            "nome": "Usuario Paralelo ForkJoinPool-1-worker-4",
+            "password": "1234",
+            "email": "parallel_4_67e67a8f-0187-4804-a23d-d17144423723@qa.com",
+            "administrador": "true",
+            "_id": "z357TwxCylJpkLkQ"
+        }
+    ]
+}
