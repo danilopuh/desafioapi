@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Felipe Caseira",
+            "email": "dalila.barbosa@yahoo.com",
+            "password": "rxr625qqjqte05c",
+            "administrador": "false",
+            "_id": "3mkZwghfiwbSR8M5"
+        },
+        {
+            "nome": "Marcela Vieira",
+            "email": "theo.quaresma@yahoo.com",
+            "password": "z5gsle5zq4uryo2e",
+            "administrador": "false",
+            "_id": "8jUkb6iIxURw7GoW"
+        },
+        {
+            "nome": "Theo da Mata",
+            "email": "natalia.rios@bol.com.br",
+            "password": "xxwz2pdw19a",
+            "administrador": "false",
+            "_id": "CmGorDUF2mjeFRXn"
+        },
+        {
+            "nome": "Larissa Simão Filho",
+            "email": "joaoluca.cardoso@hotmail.com",
+            "password": "mavd0hl6bkrrkpin",
+            "administrador": "false",
+            "_id": "WcdwsePERHea7ure"
+        },
+        {
+            "nome": "test",
+            "email": "test@test.com",
+            "password": "test1234",
+            "administrador": "false",
+            "_id": "YgSimhtYlMgBWafH"
+        },
+        {
+            "nome": "test",
+            "email": "test1@test.com",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "YtYYCO2ggpcrTrlu"
+        },
+        {
+            "nome": "Kenny Farrell",
+            "email": "Laury11@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "gtk0N5nJRaD7Lo1c"
+        },
+        {
+            "nome": "César Castanho",
+            "email": "miguel.franco@hotmail.com",
+            "password": "4yu2uryrx6t4e",
+            "administrador": "false",
+            "_id": "iAwpGXTlHHtH0AZ5"
+        }
+    ]
+}
