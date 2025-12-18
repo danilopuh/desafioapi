@@ -1,0 +1,180 @@
+{
+    "quantidade": 25,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Anderson Rosa Manchini",
+            "email": "andersonrmanchini@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5Xu82OW2xGslYeeY"
+        },
+        {
+            "nome": "user_72049",
+            "email": "user_1766026907073@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "9btAKDEt4K8ETaq3"
+        },
+        {
+            "nome": "Marcia Monteira Filho",
+            "email": "marcia.delara@gmail.com",
+            "password": "8tmp6x78",
+            "administrador": "false",
+            "_id": "9hBdT9iHROcqOzY0"
+        },
+        {
+            "nome": "Enzo Miguel Resende",
+            "email": "gabrielly.rolim@bol.com.br",
+            "password": "5n6aecoqk0db73",
+            "administrador": "false",
+            "_id": "B0uXVZ39guqqtLN8"
+        },
+        {
+            "nome": "Clara Rezende Neto",
+            "email": "thomas.barbosa@hotmail.com",
+            "password": "o2iiatj2cyv1",
+            "administrador": "false",
+            "_id": "Ca1DUWqv6BfQdnCy"
+        },
+        {
+            "nome": "user_93692",
+            "email": "user_1766027850422@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "CttUOF3H8JqVvad7"
+        },
+        {
+            "nome": "Douglas Muniz",
+            "email": "d.muniz97@outlook.com",
+            "password": "Reichenbach97@",
+            "administrador": "false",
+            "_id": "DdXSj5U79yRS57nY"
+        },
+        {
+            "nome": "user_29930",
+            "email": "user_1766027540326@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "GCwKYiPtKQlpTpg9"
+        },
+        {
+            "nome": "user_86420",
+            "email": "user_1766027703954@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "OEmAioejZqHYhYBm"
+        },
+        {
+            "nome": "user_39678",
+            "email": "user_1766026898251@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "R6MY9rz7cW6WiP4g"
+        },
+        {
+            "nome": "Vinícius Beltrão Jr.",
+            "email": "thiago.martins@gmail.com",
+            "password": "7sof495s0",
+            "administrador": "false",
+            "_id": "RCq0Xtu83s9R9ve0"
+        },
+        {
+            "nome": "user_43571",
+            "email": "user_1766027842379@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "Wmourl58vq4VwhhA"
+        },
+        {
+            "nome": "Dr. Otávio Carvalheira",
+            "email": "isabella.ramires@gmail.com",
+            "password": "8h4jjvowczlpe",
+            "administrador": "false",
+            "_id": "Y1Mupqig2OmIh2qE"
+        },
+        {
+            "nome": "user_90250",
+            "email": "user_1766028172442@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "YqebOZO0EV8wsPpT"
+        },
+        {
+            "nome": "Mathias Moreira",
+            "email": "antonio.ferreira@yahoo.com",
+            "password": "z4qk0y7vtj40",
+            "administrador": "true",
+            "_id": "akwlUfY7XkcR3iG1"
+        },
+        {
+            "nome": "Márcia Carvalheira",
+            "email": "luana.dasilveira@bol.com.br",
+            "password": "ba2vubp7px7qhx",
+            "administrador": "false",
+            "_id": "bTK92EX8Q5tmSjlT"
+        },
+        {
+            "nome": "Dra. Leonardo Hermingues",
+            "email": "mathias.carneiro@gmail.com",
+            "password": "ne5l37gubffh",
+            "administrador": "false",
+            "_id": "bXDe1c3pY0PIsD6o"
+        },
+        {
+            "nome": "Gladys Herzog",
+            "email": "Reuben36@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "d7gAlDNfbSXNsBnx"
+        },
+        {
+            "nome": "user_72974",
+            "email": "user_1766027711867@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "dEj99Lwaz7GZsbO3"
+        },
+        {
+            "nome": "user_28471",
+            "email": "user_1766027264918@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "iaXhsTBkINIpwW21"
+        },
+        {
+            "nome": "user_37932",
+            "email": "user_1766027532684@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "j3AAyJbwfJ2ABPrK"
+        },
+        {
+            "nome": "Carolina Roriz",
+            "email": "valentina.ximenes@hotmail.com",
+            "password": "o6f6jlp4bkr9y1q",
+            "administrador": "false",
+            "_id": "one8pxnvlMSxmwFk"
+        },
+        {
+            "nome": "user_47358",
+            "email": "user_1766027272781@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "s9UQlqGbYfrGZ7D0"
+        },
+        {
+            "nome": "user_46696",
+            "email": "user_1766028164317@qabrazil.com",
+            "password": "password123",
+            "administrador": "true",
+            "_id": "zU3qlVjKGhtMSDBO"
+        }
+    ]
+}
