@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dr. Cecília Gomes",
+            "email": "alessandra.bomdia@live.com",
+            "password": "ukbrammi15p7dcc51l",
+            "administrador": "false",
+            "_id": "1fKFyW6K5ffHsHFw"
+        },
+        {
+            "nome": "Miguel Assumpção",
+            "email": "joaoluca.damadureira@yahoo.com",
+            "password": "efw3oj3108d8",
+            "administrador": "false",
+            "_id": "9gERp58r1QOebY7X"
+        },
+        {
+            "nome": "Srta. Ana Cecília Leiria",
+            "email": "danilo.custodio@yahoo.com",
+            "password": "zyryd1uz",
+            "administrador": "false",
+            "_id": "YoNa2NBft7JDuSGJ"
+        },
+        {
+            "nome": "Sirineu Castanho",
+            "email": "anacecilia.rios@live.com",
+            "password": "9yrnijhv56o",
+            "administrador": "false",
+            "_id": "bdC5x0sr6gpUl7st"
+        },
+        {
+            "nome": "Emilly Teles",
+            "email": "lucas.veloso@bol.com.br",
+            "password": "84vck26kjug3ud4xqp",
+            "administrador": "false",
+            "_id": "dTUmbmRSeDwDvljp"
+        },
+        {
+            "nome": "Igor Limeira",
+            "email": "beatriz.limeira@gmail.com",
+            "password": "n65o4jd4vw",
+            "administrador": "false",
+            "_id": "uV4XndfrIxUK82Ws"
+        }
+    ]
+}
