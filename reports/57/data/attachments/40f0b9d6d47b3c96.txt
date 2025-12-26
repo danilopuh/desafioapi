@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sr. Margarida Domingues",
+            "email": "mariajulia.henriques@bol.com.br",
+            "password": "rssrl0ywau6zainq",
+            "administrador": "false",
+            "_id": "7c4XbpvxfjjmiVO4"
+        },
+        {
+            "nome": "Dra. Giulia Vasques",
+            "email": "mariacecilia.braga@gmail.com",
+            "password": "dlwqx5x1h8",
+            "administrador": "false",
+            "_id": "9JAYW908KnJTKFV1"
+        },
+        {
+            "nome": "John Smith",
+            "email": "john.smith.test@example.com",
+            "password": "SecurePass123!",
+            "administrador": "false",
+            "_id": "DRMRDDruD9AOYH1S"
+        },
+        {
+            "nome": "Terry Hartmann",
+            "email": "Marcelo_Runolfsdottir1@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "IBAtg9z5qepkJJUe"
+        },
+        {
+            "nome": "Yago Bulhões",
+            "email": "allana.solimoes@hotmail.com",
+            "password": "vjsgr0tvx9rjjb76",
+            "administrador": "false",
+            "_id": "TOQZZNwS6abNvJjz"
+        },
+        {
+            "nome": "Bernardo Fontinhas",
+            "email": "marcia.ferreira@gmail.com",
+            "password": "x7ywiyz7dcyl1pn9ej",
+            "administrador": "false",
+            "_id": "mv27bDzKss7S7Si7"
+        }
+    ]
+}

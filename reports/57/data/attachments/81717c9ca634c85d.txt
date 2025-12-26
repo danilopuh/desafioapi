@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "John Smith",
+            "email": "john.smith.test@example.com",
+            "password": "SecurePass123!",
+            "administrador": "false",
+            "_id": "DRMRDDruD9AOYH1S"
+        },
+        {
+            "nome": "Terry Hartmann",
+            "email": "Marcelo_Runolfsdottir1@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "IBAtg9z5qepkJJUe"
+        }
+    ]
+}
