@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sara Barros",
+            "email": "mariacecilia.lessa@yahoo.com",
+            "password": "9o6ma0kz1cuikygqv",
+            "administrador": "false",
+            "_id": "5x63rulOJYbwjGyq"
+        },
+        {
+            "nome": "Yango Barata",
+            "email": "alicia.sanches@bol.com.br",
+            "password": "eirpbmngo4xjzj9gt",
+            "administrador": "false",
+            "_id": "DixlT17r9ZM1GUWN"
+        },
+        {
+            "nome": "Maria Vitória Domingues Neto",
+            "email": "isadora.xavier@gmail.com",
+            "password": "pg04ji9jzkjm5c0",
+            "administrador": "false",
+            "_id": "HW4w4YlJug0CEzOD"
+        },
+        {
+            "nome": "Sra. Ana Lívia da Madureira",
+            "email": "pedro.datena@bol.com.br",
+            "password": "fm50b0d16",
+            "administrador": "false",
+            "_id": "IN5ZPpxfvnLfaeZY"
+        },
+        {
+            "nome": "Ralph Hoeger",
+            "email": "Cara85@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "O6rZjy0T0eRiYCg0"
+        },
+        {
+            "nome": "Maria Eduarda Rêgo",
+            "email": "paulo.galvao@bol.com.br",
+            "password": "0wkeib35dtgbdm5khv",
+            "administrador": "false",
+            "_id": "aIKiWQgsaLdfSBaH"
+        }
+    ]
+}
