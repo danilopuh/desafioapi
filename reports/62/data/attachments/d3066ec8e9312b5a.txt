@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "João Miguel Aroeira Jr.",
+            "email": "anaclara.ferraco@gmail.com",
+            "password": "xij56kgf9ybce6",
+            "administrador": "false",
+            "_id": "BeXKEQL4MAj6sxj2"
+        },
+        {
+            "nome": "Liz Franco",
+            "email": "gabrielly.oliveira@yahoo.com",
+            "password": "ewmyqcrvr8plat0t",
+            "administrador": "false",
+            "_id": "HDpaUh4lSSEm6EAe"
+        },
+        {
+            "nome": "Dra. João Samuel Siqueiro",
+            "email": "talita.aragao@bol.com.br",
+            "password": "94cuq13uk",
+            "administrador": "false",
+            "_id": "Tf3mdyuAcGC45JIQ"
+        },
+        {
+            "nome": "Lara Mangueira Neto",
+            "email": "igor.desa@live.com",
+            "password": "qfpwhwdqp",
+            "administrador": "false",
+            "_id": "WtW4PVytefApsN64"
+        },
+        {
+            "nome": "Sirineu Fontinhas Filho",
+            "email": "felix.bittencourt@live.com",
+            "password": "lbqpo8hzoua2stc0vt",
+            "administrador": "false",
+            "_id": "Xvucp6mw8V3gMTIE"
+        },
+        {
+            "nome": "Benjamin Viana",
+            "email": "salvador.barreto@live.com",
+            "password": "1s8wmvxvjcra9nuuog",
+            "administrador": "false",
+            "_id": "pFGkzt43LAmUluwU"
+        }
+    ]
+}
