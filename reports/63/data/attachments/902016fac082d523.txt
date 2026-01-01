@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Calebe Pedroso",
+            "email": "rebeca.marcondes@live.com",
+            "password": "l6vbs3uuw0148hdv",
+            "administrador": "false",
+            "_id": "KvQz5NSjWPhS7XQP"
+        },
+        {
+            "nome": "Dra. Manuela Longuinho",
+            "email": "marialuiza.marcondes@live.com",
+            "password": "necuy8q2n",
+            "administrador": "false",
+            "_id": "L1q4dsn9YqQxkukA"
+        },
+        {
+            "nome": "Sra. Aurora Junqueira",
+            "email": "heloisa.antunes@yahoo.com",
+            "password": "et1yyyfoawihs5b",
+            "administrador": "false",
+            "_id": "MywpT2cSfmoDQLDw"
+        },
+        {
+            "nome": "Gabriela Vasques",
+            "email": "silas.barreto@gmail.com",
+            "password": "e7nd046w0y6hrdu3yk",
+            "administrador": "false",
+            "_id": "koIGDQzrKnYVzfF9"
+        },
+        {
+            "nome": "Dr. Maria Isis Garcês",
+            "email": "mariasophia.bonfim@hotmail.com",
+            "password": "ej6koe0f0pqwo1f81",
+            "administrador": "false",
+            "_id": "lPADKnXgt8DwluuM"
+        },
+        {
+            "nome": "Frederick Lang",
+            "email": "Melba1@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "vMJEB11Z3FKryUk4"
+        }
+    ]
+}
