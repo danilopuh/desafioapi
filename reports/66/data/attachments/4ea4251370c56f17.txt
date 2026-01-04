@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dr. Bento da Fonseca",
+            "email": "luizgustavo.costa@bol.com.br",
+            "password": "sa03qif8h8bvr",
+            "administrador": "false",
+            "_id": "AhgMQS3K4GtiEDNd"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Cko1jVLhEdltzuKl"
+        },
+        {
+            "nome": "Enrico Soares",
+            "email": "tiago.custodio@live.com",
+            "password": "xhim4wt4",
+            "administrador": "false",
+            "_id": "ENPJlM39pKxNh2tX"
+        },
+        {
+            "nome": "Darrel O'Connell",
+            "email": "Gladys_Gislason@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "LNGFsvdHviuSlBiz"
+        },
+        {
+            "nome": "Lavínia Alves",
+            "email": "isadora.esteves@hotmail.com",
+            "password": "n8j4xz33o9x96s",
+            "administrador": "false",
+            "_id": "We776aQdcpC9oHsK"
+        },
+        {
+            "nome": "Cary_Koss",
+            "email": "Cordie81@hotmail.com",
+            "password": "D_X21zPJwL1cPu1",
+            "administrador": "true",
+            "_id": "dFH8knkPwuo2g5Bt"
+        },
+        {
+            "nome": "Antônio Hernandes",
+            "email": "paula.pereira@bol.com.br",
+            "password": "8ynhndzncschiqbdql",
+            "administrador": "false",
+            "_id": "i8MQXN2YqFRBQezj"
+        },
+        {
+            "nome": "Emanuel Fontes Neto",
+            "email": "mercia.leiria@bol.com.br",
+            "password": "u7fzkp3h",
+            "administrador": "false",
+            "_id": "okVbQ30GsgavhKGP"
+        },
+        {
+            "nome": "Maria Vitória dos Reis",
+            "email": "warley.galego@live.com",
+            "password": "v8bqfcgj9",
+            "administrador": "false",
+            "_id": "owTlCk9fzZTegy2j"
+        }
+    ]
+}
