@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Agatha Cavalcanti",
+            "email": "allana.almeida@gmail.com",
+            "password": "dmg59xxco10p",
+            "administrador": "false",
+            "_id": "1cYQV0PFvCaw5UCM"
+        },
+        {
+            "nome": "Juliana Vieira",
+            "email": "beatriz.meireles@yahoo.com",
+            "password": "ozugut7yjznv",
+            "administrador": "false",
+            "_id": "2CJ6pMLer014aKZA"
+        },
+        {
+            "nome": "Kléber Veles",
+            "email": "luizmiguel.soeira@hotmail.com",
+            "password": "fr3wtbd4zwspfsoc8h",
+            "administrador": "false",
+            "_id": "54CNejK0vsFRqSU3"
+        },
+        {
+            "nome": "Norberto Hernandes",
+            "email": "anabeatriz.bentes@yahoo.com",
+            "password": "cai07492b2ny9gajx",
+            "administrador": "false",
+            "_id": "VnWwB3tL1VU8r63E"
+        },
+        {
+            "nome": "Maria Alice Carreira",
+            "email": "dalila.roseira@bol.com.br",
+            "password": "cj78xc6x",
+            "administrador": "false",
+            "_id": "aAZY5F6KZzOTOXZw"
+        },
+        {
+            "nome": "Melissa Simões",
+            "email": "joaquim.quaresma@live.com",
+            "password": "gviru4btw2qjh1w3fr",
+            "administrador": "false",
+            "_id": "mLoUfuBHEOVnhQzK"
+        }
+    ]
+}
