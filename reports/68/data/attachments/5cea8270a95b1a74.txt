@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "admin1767669716039@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "17NEwWrY3QrhnxWo"
+        },
+        {
+            "nome": "Srta. Catarina Silva",
+            "email": "agatha.almada@hotmail.com",
+            "password": "wk3fzjc2m3dnbsc",
+            "administrador": "false",
+            "_id": "23vMQcuHWLjwA4iY"
+        },
+        {
+            "nome": "Warley Aragão Filho",
+            "email": "luizmiguel.rios@hotmail.com",
+            "password": "vzipvsf7b9cz0",
+            "administrador": "false",
+            "_id": "4BkvLXW4x5yfWoAZ"
+        },
+        {
+            "nome": "eu",
+            "email": "euqa@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "5WhXcpTYrYFLdtRl"
+        },
+        {
+            "nome": "eu",
+            "email": "euqa@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "6F8ZC2apSL3wgRVA"
+        },
+        {
+            "nome": "Test User",
+            "email": "test_user@test.com",
+            "password": "testpassword",
+            "administrador": "true",
+            "_id": "7rlyqihqgnqCmBOd"
+        },
+        {
+            "nome": "Usuario de Teste",
+            "email": "usuario5@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "9F760d0tvKDRj51K"
+        },
+        {
+            "nome": "João Felipe Santos",
+            "email": "natalia.espinheira@bol.com.br",
+            "password": "nmr2py2rs",
+            "administrador": "false",
+            "_id": "DQdyRqJL0ZYfLnl8"
+        },
+        {
+            "nome": "Edith Larkin",
+            "email": "Webster_Schmidt@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "EIzXpTtBoqUucQEO"
+        },
+        {
+            "nome": "Fulano da Silva!",
+            "email": "especial1767669427722@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "G1tRfElgYJ5rrcMe"
+        },
+        {
+            "nome": "Warley Moura",
+            "email": "mariah.peres@live.com",
+            "password": "6m38ps7qug6vp9ax",
+            "administrador": "false",
+            "_id": "GkhnrgTXfKIAXuhw"
+        },
+        {
+            "nome": "Fulano da Silva!",
+            "email": "especial1767669685153@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "JMChX52yOsfBnng2"
+        },
+        {
+            "nome": "Vitor",
+            "email": "vitorqa@teste.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "KomuqxSn0tGagk9y"
+        },
+        {
+            "nome": "Fulano da Silva!",
+            "email": "especial1767669735517@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "LVxLkB56IJMJn6aI"
+        },
+        {
+            "nome": "Qwerty",
+            "email": "qwerty@qwerty.com",
+            "password": "1",
+            "administrador": "false",
+            "_id": "NSQbiDFEcP5Wv4UF"
+        },
+        {
+            "nome": "Emanuel Veloso",
+            "email": "alessandra.damota@bol.com.br",
+            "password": "fzzdvf5c",
+            "administrador": "false",
+            "_id": "Ne19zJCj5E4oDjwK"
+        },
+        {
+            "nome": "Fulano da Silva!",
+            "email": "especial1767668777754@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "P138uAFyKkts263N"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "admin1767669666165@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "PfRCFctCiWeuSxQ6"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "admin1767668091400@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "RNMiPHcUvjvex84k"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "admin1767668753582@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "RxJwFKNIVGAIltqN"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "admin1767669405009@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "TCL5gIXNUKHiBmha"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "curta1767668116841@teste.com",
+            "password": "12",
+            "administrador": "false",
+            "_id": "XVOTgDAGX5VU7GUe"
+        },
+        {
+            "nome": "Dra. Breno Ribeiro",
+            "email": "liz.marques@yahoo.com",
+            "password": "d0k54qalacipn",
+            "administrador": "false",
+            "_id": "a2dVxOSAxeJZVDSf"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "duplicado@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "alsV2YMEcrnVkGYs"
+        },
+        {
+            "nome": "Fulano da Silva!",
+            "email": "especial1767668123052@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ce7g8qvazP2jei29"
+        },
+        {
+            "nome": "eu",
+            "email": "euqa@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "tXNOkuRqtIXHvTaU"
+        }
+    ]
+}
