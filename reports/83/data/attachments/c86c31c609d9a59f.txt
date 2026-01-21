@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "alber korsten",
+            "email": "korsten@carrefour.com",
+            "password": "carrefour123",
+            "administrador": "true",
+            "_id": "Pu0WdcpB5D98ZWbz"
+        },
+        {
+            "nome": "Marcela Carneiro",
+            "email": "norberto.xavier@live.com",
+            "password": "97jllhf8dvo49",
+            "administrador": "false",
+            "_id": "T0WbfNycV8f3ry9c"
+        },
+        {
+            "nome": "Maria Vitória Solimões",
+            "email": "morgana.barros@hotmail.com",
+            "password": "3hxdqupjz4x75x1y99",
+            "administrador": "false",
+            "_id": "gRaOjimE3Oc5DcOy"
+        },
+        {
+            "nome": "Fabrícia da Rosa Jr.",
+            "email": "tertuliano.simao@live.com",
+            "password": "2cx723qf",
+            "administrador": "false",
+            "_id": "njKxhI9Ny5j1Wuac"
+        },
+        {
+            "nome": "Félix Vidal",
+            "email": "mariafernanda.ambrosio@hotmail.com",
+            "password": "g630xsy6c",
+            "administrador": "false",
+            "_id": "x1dxrfgyF6LnqQkw"
+        },
+        {
+            "nome": "Aline Novaes",
+            "email": "roberto.veloso@hotmail.com",
+            "password": "wu0ro5zzn24a",
+            "administrador": "false",
+            "_id": "zuh0tFDY5JKplZS1"
+        }
+    ]
+}
