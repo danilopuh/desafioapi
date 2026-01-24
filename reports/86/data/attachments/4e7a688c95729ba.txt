@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Davi Ludmer da Bandeira",
+            "email": "calebe.quaresma@bol.com.br",
+            "password": "ixa5bub2u8",
+            "administrador": "false",
+            "_id": "3SW8yQLKeGdit3aM"
+        },
+        {
+            "nome": "Tomás Cerqueira",
+            "email": "enrico.dabarra@live.com",
+            "password": "ph4bu8k4",
+            "administrador": "false",
+            "_id": "6Rh9EUkQYzV58GDa"
+        },
+        {
+            "nome": "Amanda Galego",
+            "email": "carloseduardo.pinto@hotmail.com",
+            "password": "o0bgnlcb",
+            "administrador": "false",
+            "_id": "Jagpg3WEBJboXDsC"
+        },
+        {
+            "nome": "Laura Figueira Filho",
+            "email": "paulo.dosreis@hotmail.com",
+            "password": "i4pa1nlh5vylb",
+            "administrador": "false",
+            "_id": "JypMX9KCGxHGlakv"
+        },
+        {
+            "nome": "Benício Siqueira",
+            "email": "joaofelipe.fernandes@bol.com.br",
+            "password": "iokqamodwwu9",
+            "administrador": "false",
+            "_id": "dln0n4QCRRvIDiLG"
+        },
+        {
+            "nome": "João Luca Moreira",
+            "email": "anaclara.caseira@gmail.com",
+            "password": "tjmmuvlw1a",
+            "administrador": "false",
+            "_id": "inJ0ex7gz2rvWWon"
+        }
+    ]
+}
