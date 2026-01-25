@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "João Pedro de Oliveira",
+            "email": "hugo.vasques@bol.com.br",
+            "password": "60ec1wqwa",
+            "administrador": "false",
+            "_id": "762glfDeT4EscR30"
+        },
+        {
+            "nome": "Breno Videira",
+            "email": "luna.diegues@live.com",
+            "password": "y9faoar6",
+            "administrador": "false",
+            "_id": "ECGh2tgC0u8tNVxN"
+        },
+        {
+            "nome": "Louise Pinheira",
+            "email": "mathias.gomide@live.com",
+            "password": "jr9nt6myla8d1",
+            "administrador": "false",
+            "_id": "I28PT5QwQHl6Tp9k"
+        },
+        {
+            "nome": "Bruna Silveira Filho",
+            "email": "roberta.soeira@bol.com.br",
+            "password": "ubzvbiquv",
+            "administrador": "false",
+            "_id": "Iv0DgxzcxQYKdivT"
+        },
+        {
+            "nome": "Ana Laura Castanheira",
+            "email": "camila.guterres@yahoo.com",
+            "password": "6jdv4859sx",
+            "administrador": "false",
+            "_id": "bDymEptzshVcQG4X"
+        }
+    ]
+}

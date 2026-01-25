@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "João Pedro de Oliveira",
+            "email": "hugo.vasques@bol.com.br",
+            "password": "60ec1wqwa",
+            "administrador": "false",
+            "_id": "762glfDeT4EscR30"
+        },
+        {
+            "nome": "Lara Batista Neto",
+            "email": "sophie.daterra@yahoo.com",
+            "password": "6ul79dt59y5h9coldlj",
+            "administrador": "false",
+            "_id": "BG1nfl0ICsXaPdD1"
+        },
+        {
+            "nome": "Henrique Jesus Neto",
+            "email": "milena.resende@hotmail.com",
+            "password": "sv9dnlu0u",
+            "administrador": "false",
+            "_id": "DvjOXkem8DDps6k7"
+        },
+        {
+            "nome": "Breno Videira",
+            "email": "luna.diegues@live.com",
+            "password": "y9faoar6",
+            "administrador": "false",
+            "_id": "ECGh2tgC0u8tNVxN"
+        },
+        {
+            "nome": "Louise Pinheira",
+            "email": "mathias.gomide@live.com",
+            "password": "jr9nt6myla8d1",
+            "administrador": "false",
+            "_id": "I28PT5QwQHl6Tp9k"
+        },
+        {
+            "nome": "Bruna Silveira Filho",
+            "email": "roberta.soeira@bol.com.br",
+            "password": "ubzvbiquv",
+            "administrador": "false",
+            "_id": "Iv0DgxzcxQYKdivT"
+        }
+    ]
+}
