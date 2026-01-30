@@ -1,0 +1,390 @@
+{
+    "quantidade": 55,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sicrano da Silva",
+            "email": "sicrano@qa.com.br",
+            "password": "teste321",
+            "administrador": "true",
+            "_id": "1PNsN7r0S1AeQ099"
+        },
+        {
+            "nome": "Isabela de Borba",
+            "email": "isabel.darocha@hotmail.com",
+            "password": "0wkafhoin",
+            "administrador": "false",
+            "_id": "1xpyjmmg8LMumrNu"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769730809487_jsmabb6u@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "2PulhQMOFdk8VBJj"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+5bc45a0e-e9b9-4fb7-bd54-baf7a24ef49c@email.com",
+            "_id": "4wnqyJfNZZu9ntqu"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769733785356_6c06p9mk@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "6PjrrY7cY4UYz13i"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+c9a42ab0-73e7-49da-a448-8a7af2c5fd22@email.com",
+            "_id": "85g1LzUJujzWQG3H"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+dc6921fb-29da-4a65-b6d6-24f45c83b339@email.com",
+            "_id": "A6SQUKvEs4aQs21h"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+c6ab685e-aa85-465d-8285-96598d1cc489@email.com",
+            "_id": "B3xh4BUqcnxeJibX"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769733741295_3f2d77367692f8@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "Emzl4YSsFSw0ab4b"
+        },
+        {
+            "administrador": "true",
+            "email": "colton.schmitt@hotmail.com",
+            "nome": "Miss Clarence Satterfield",
+            "password": "password",
+            "_id": "FgKSUlEuqi5CBXeU"
+        },
+        {
+            "administrador": "true",
+            "email": "reiload@gmail.com",
+            "nome": "full_name",
+            "password": "password",
+            "_id": "GKr1O2LZBK5lDe4r"
+        },
+        {
+            "nome": "Easter",
+            "email": "Easter@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GhVR3wHvsljr7cOg"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769733783278_77ec4700d3e978@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "JG0XPdy9eELLIwMU"
+        },
+        {
+            "nome": "PabloPatrick02",
+            "email": "PabloPradoQA10@qa.com.br",
+            "password": "PabloPatrick123",
+            "administrador": "true",
+            "_id": "JWBTgFqeTyVCLrZl"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769740216@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "Jz05owcBsjmFAVAF"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste669284@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "K4ekUAX7d6CohlcV"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+62abc1b1-a4a2-4880-a387-2024e83e6f2b@email.com",
+            "_id": "K5oBtnh6UPwBmQAq"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769734560252_1a55e2be1ceb6@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "KZzvfGgULoceqDpq"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769734563@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "Knlq5zT4F2kb3G62"
+        },
+        {
+            "nome": "Ana Sophia Videira",
+            "email": "lorenzo.dafontoura@yahoo.com",
+            "password": "x3pijaupi1h",
+            "administrador": "false",
+            "_id": "KoBc8iW8kvnvA4Ef"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769732977@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "LMXIO79lMN7Ws2aA"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste859805@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "Mukw4qnu2EXOtkPV"
+        },
+        {
+            "nome": "Lillie",
+            "email": "Lillie@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "OGFbUZsIb1ICCyy9"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769731785@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "OK2GLdJuUNtxFfsc"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769740970652_kehtit@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "PEVVGKihnjikp7PP"
+        },
+        {
+            "administrador": "true",
+            "email": "rene.franecki@hotmail.com",
+            "nome": "Tanja Kiehn II",
+            "password": "password",
+            "_id": "PMDcLSypx9hofHxE"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769741056@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "QBwiqbE4SUFvTZjo"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769741017@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "TOPa68M2GBZ2zVC8"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769741041720_eb6r1x@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "USRlL9AnyrEJJQ3Y"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769730864488_57c2nshv@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "WXuhD4Y6rIHM2Nf4"
+        },
+        {
+            "nome": "PabloTesteQA",
+            "email": "PabloPradoTesteQA@qa.com.br",
+            "password": "PabloPatrick123",
+            "administrador": "true",
+            "_id": "X5z59JuiWcl4vDAj"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769734562069_9tmf2qjt@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "YFSWo1d6h8P21wcm"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+c998745f-e291-4ce1-934d-8535f1342346@email.com",
+            "_id": "ZK2VAL6uVvEz2ESY"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769741956@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "ZQSswGIUsqCIjgXo"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769733786@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "bCilZVq9Wg7NEmzu"
+        },
+        {
+            "nome": "PabloPatrick01",
+            "email": "PabloPradoQA01@qa.com.br",
+            "password": "PabloPatrick123",
+            "administrador": "true",
+            "_id": "duTxEHlxIZGqpwCj"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769740835@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "duizS00JtsecNu1t"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769735652@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "eplS1i85H9ZK2UNq"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "teste309537@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "fLDgoDsIShwDVIcS"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769741975@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "faYGvuyq4d6yvtoV"
+        },
+        {
+            "administrador": "true",
+            "email": "lionel.kling@gmail.com",
+            "nome": "Devona Lang",
+            "password": "password",
+            "_id": "gmRqCUkzOLzbHNTq"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+299267ee-f4ae-4fcf-9591-fed8046d30be@email.com",
+            "_id": "haqAEOHrhY0fSBJj"
+        },
+        {
+            "nome": "Teste Update Inexistente",
+            "email": "inexistente1769741122@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "i5VMVZm60QjglmtJ"
+        },
+        {
+            "password": "12345678",
+            "administrador": "true",
+            "nome": "Fulano da Silva",
+            "email": "user+febb3332-2ab8-4078-8a97-b4cc6d87b0c4@email.com",
+            "_id": "ibaSRVQXLyll3RSO"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769735650150_61441b9edd3948@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "k3uLNNI0zMXLBaZd"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769739008420_mngwjt@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "mVo9ysvCR5YemvHC"
+        },
+        {
+            "nome": "Sra. Ian Godinho",
+            "email": "vinicius.goncalves@hotmail.com",
+            "password": "ls2d4zmqjet9dt",
+            "administrador": "false",
+            "_id": "n80FG8Qf3UEDXQWq"
+        },
+        {
+            "nome": "Ígor Paiva Filho",
+            "email": "mariahelena.cachoeira@yahoo.com",
+            "password": "hsdc4tdz3",
+            "administrador": "false",
+            "_id": "nhTxwIOVmWKe13J4"
+        },
+        {
+            "nome": "Calebe Filgueira",
+            "email": "eduarda.simao@bol.com.br",
+            "password": "v5g5jyknqeec152fj5m",
+            "administrador": "false",
+            "_id": "nkfn9AzJaqSlEtd4"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste702760@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "o4RK96sei6cVrkUK"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste_1769739545459_8vsgrq@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "o5lT3D8BUcv6m2XD"
+        },
+        {
+            "nome": "Teste API",
+            "email": "teste857924@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "tkX3BV7HVFD2W5OU"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769732975836_7dycx98l@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "yVv54B0x3gAyXGQG"
+        },
+        {
+            "nome": "Usuario Atualizado",
+            "email": "teste_1769731026718_x0uv5axx@qa.com",
+            "password": "example123",
+            "administrador": "true",
+            "_id": "zZBCfVJjYG9u3cCb"
+        }
+    ]
+}
