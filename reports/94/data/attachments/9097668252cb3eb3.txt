@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Eduardo Brum Jr.",
+            "email": "fernanda.madeira@yahoo.com",
+            "password": "0bqrg6dp",
+            "administrador": "false",
+            "_id": "1OdV7Evf0KNhWI8r"
+        },
+        {
+            "nome": "Márcio Porteira",
+            "email": "daviludmer.filgueira@gmail.com",
+            "password": "y1p4feqlivaab1xd",
+            "administrador": "false",
+            "_id": "C9OMNKYR6ypvPv31"
+        },
+        {
+            "nome": "Cauã Corrêa Jr.",
+            "email": "analuiza.ramires@yahoo.com",
+            "password": "onw1pyauzgp9xh",
+            "administrador": "false",
+            "_id": "Fiwu3Ol7YKQnv9XB"
+        },
+        {
+            "nome": "Mariah Geraldes",
+            "email": "alice.saraiva@yahoo.com",
+            "password": "jhlila78fhu7",
+            "administrador": "false",
+            "_id": "J3uWocQFUPWifTG1"
+        },
+        {
+            "nome": "Ayla Galvão",
+            "email": "aline.crespo@live.com",
+            "password": "qv20dfdqd",
+            "administrador": "false",
+            "_id": "WhtdFbC0c3oG7yjn"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "XNxSV2UjAfZckkCt"
+        },
+        {
+            "nome": "Belinda Douglas",
+            "email": "Hester10@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "wKz3MzX1RuvcSYMj"
+        },
+        {
+            "nome": "Deneval Espinhosa",
+            "email": "eduarda.souza@live.com",
+            "password": "4ojfwdvij28fxf3gd",
+            "administrador": "false",
+            "_id": "wvWy6IEbOHGxvBsb"
+        }
+    ]
+}
