@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Pietro Guedes",
+            "email": "joaosamuel.jesus@live.com",
+            "password": "sazaggxmn0i0f69vga",
+            "administrador": "false",
+            "_id": "5NNjKZx0zbzTMIQX"
+        },
+        {
+            "nome": "Helena Godins",
+            "email": "isis.junqueira@yahoo.com",
+            "password": "6svh49soqvfyi1pckjw",
+            "administrador": "false",
+            "_id": "EtGLsOlPjJbqBoUj"
+        },
+        {
+            "nome": "Camila Meira Jr.",
+            "email": "yango.custodio@yahoo.com",
+            "password": "edz60j21o5kkgsz81",
+            "administrador": "false",
+            "_id": "L9Us1Gh6ozJq53xS"
+        },
+        {
+            "nome": "Dr. Elisa Ambrósio",
+            "email": "sirineu.veloso@live.com",
+            "password": "o7sqqgmo",
+            "administrador": "false",
+            "_id": "u876gZ1cI1xU9RN8"
+        },
+        {
+            "nome": "Enzo Gabriel Pedroso",
+            "email": "davimiguel.braga@gmail.com",
+            "password": "jg9bwt9b3",
+            "administrador": "false",
+            "_id": "uMcI9FIQXdlpKquX"
+        },
+        {
+            "nome": "Mike Strosin",
+            "email": "Paul_Dibbert52@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "xdZcfMtbjnNYF75J"
+        }
+    ]
+}
