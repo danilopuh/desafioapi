@@ -1,0 +1,124 @@
+{
+    "quantidade": 17,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Trace.Champlin",
+            "email": "Jordane60@hotmail.com",
+            "password": "667409085",
+            "administrador": "true",
+            "_id": "1HaXkC389QTihloM"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "21dU1dPOFRYaqpjT"
+        },
+        {
+            "nome": "Fulano fevereiro 2026",
+            "email": "fulanofevereiro2026@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "40Rofp7IhepEzdvj"
+        },
+        {
+            "email": "testaexclus�o7@email.com.br",
+            "password": "teste",
+            "nome": "Teste de Exclus�o",
+            "administrador": "true",
+            "_id": "AAhU28hEBW76tLXD"
+        },
+        {
+            "nome": "Zita.Herman97",
+            "email": "Sandra43@gmail.com",
+            "password": "667718428",
+            "administrador": "true",
+            "_id": "DJA7SgnMRZqwsK4O"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "teste156983@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "FXQNGprYcEQe6tVJ"
+        },
+        {
+            "nome": "Clark40",
+            "email": "Camron.Skiles@yahoo.com",
+            "password": "708002182",
+            "administrador": "true",
+            "_id": "FdecgVAsi9uQobkz"
+        },
+        {
+            "nome": "Automacao Testes",
+            "email": "desafio-carrefour-jess@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "MhtZOoLf69D2v24K"
+        },
+        {
+            "nome": "Felipe Da Silva",
+            "email": "feelipe_07@hotmail.com",
+            "password": "Fds3468#",
+            "administrador": "false",
+            "_id": "XB6cKPt1yXQJsyRV"
+        },
+        {
+            "nome": "Fay19",
+            "email": "Kolby.Dare@gmail.com",
+            "password": "802743290",
+            "administrador": "true",
+            "_id": "YECFIUSbnua8URPD"
+        },
+        {
+            "nome": "Arjun_Schmitt9",
+            "email": "Werner.Lemke48@hotmail.com",
+            "password": "355936796",
+            "administrador": "true",
+            "_id": "g6EMi3syVSnS4rYz"
+        },
+        {
+            "nome": "Rubye",
+            "email": "testes_87465@qateste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ip2g4a2r7MGecOux"
+        },
+        {
+            "nome": "Amy Bernier",
+            "email": "Rupert_Zboncak@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "kBBxvMakbsMnDDrU"
+        },
+        {
+            "nome": "test_success@test.com",
+            "email": "test_success@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "lxtXj8DZtU8bAgwu"
+        },
+        {
+            "nome": "Dasia18",
+            "email": "Clotilde_Kutch96@hotmail.com",
+            "password": "078735069",
+            "administrador": "true",
+            "_id": "uN9O0oO7O2SVzp0F"
+        },
+        {
+            "nome": "Antonia da Fronteira",
+            "email": "camila.damota@bol.com.br",
+            "password": "2z3pkd9ceokvh",
+            "administrador": "false",
+            "_id": "weV5JvWa6b8X8nHl"
+        }
+    ]
+}
