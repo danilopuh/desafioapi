@@ -1,0 +1,201 @@
+{
+    "quantidade": 28,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Reinaldo Mateus Rossetti",
+            "email": "ida.oconnell@hotmail.com",
+            "password": "reiload$123#",
+            "administrador": "true",
+            "_id": "4ub3DlfwKpdboZYW"
+        },
+        {
+            "nome": "Shizuko Balistreri",
+            "email": "jenice.gibson@gmail.com",
+            "password": "b9a8exe4ffg",
+            "administrador": "true",
+            "_id": "Ag71VRXhmGQGtatO"
+        },
+        {
+            "nome": "Mr. Frank Lueilwitz",
+            "email": "clarence.christiansen@gmail.com",
+            "password": "iuhnkxmxue0kpiz",
+            "administrador": "true",
+            "_id": "DfUGk7HXqdxuHLos"
+        },
+        {
+            "nome": "Complex User",
+            "email": "valentin.rice@yahoo.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "ITBAX37TKmytoBAt"
+        },
+        {
+            "nome": "Cart User",
+            "email": "cart.user.1771297520767@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "ITJzIvIcKgHlkfJn"
+        },
+        {
+            "nome": "Rafael Soares",
+            "email": "carlos.aparicio@yahoo.com",
+            "password": "4bzizz65bzci0o",
+            "administrador": "false",
+            "_id": "KEkhMXL8lybn57r4"
+        },
+        {
+            "nome": "User With Cart",
+            "email": "betty.fritsch@hotmail.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "Ov6wAxGUqKxviqsx"
+        },
+        {
+            "nome": "User 1",
+            "email": "manuel.reichel@yahoo.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "PmEVVxPHd4u23j3Z"
+        },
+        {
+            "nome": "User 1",
+            "email": "claire.rolfson@hotmail.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "QBPD3spCO6NmkeSe"
+        },
+        {
+            "nome": "User With Cart",
+            "email": "lajuana.littel@yahoo.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "RcOykABnDxLUf1Rv"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771297276519@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "RnNJMTy1czCC20pZ"
+        },
+        {
+            "nome": "Cart User",
+            "email": "cart.user.1771297291352@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "RwleydTBHCM9avjy"
+        },
+        {
+            "nome": "Cart User",
+            "email": "cart.user.1771297274552@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "T8XMgb7hoXqsQr5t"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771297311887@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "VhGBTrjA97iJ35Fs"
+        },
+        {
+            "nome": "Reinaldo Mateus Rossetti",
+            "email": "jamie.runte@hotmail.com",
+            "password": "reiload$123#",
+            "administrador": "true",
+            "_id": "XEUZLfswgMmDUBME"
+        },
+        {
+            "nome": "Arthur Henrique Moniz",
+            "email": "luiz.daterra@live.com",
+            "password": "3lvmev1wn",
+            "administrador": "false",
+            "_id": "XihwXavF9aerdPFo"
+        },
+        {
+            "nome": "Reinaldo Mateus Rossetti",
+            "email": "wilbert.littel@hotmail.com",
+            "password": "reiload$123#",
+            "administrador": "true",
+            "_id": "YApqCjg7DLq8p96U"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771297296442@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "YT7YphYauiBsEWVE"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771297293908@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "aaW3tqGzu06Q94jV"
+        },
+        {
+            "nome": "Complex User",
+            "email": "hong.weimann@gmail.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "ecAEGmCB1T60lvrB"
+        },
+        {
+            "nome": "Ryan Gonçalves",
+            "email": "davimiguel.cardoso@bol.com.br",
+            "password": "1p28cjtl",
+            "administrador": "false",
+            "_id": "g00u03Paf6QlzLkh"
+        },
+        {
+            "nome": "User 1",
+            "email": "malinda.bosco@hotmail.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "g8WKsXMD89Ljvw5o"
+        },
+        {
+            "nome": "Regex Test",
+            "email": "test.regex.1771297301629@example.com",
+            "password": "StrongPassword@123",
+            "administrador": "false",
+            "_id": "lZRQ0ltbDrg9iTn2"
+        },
+        {
+            "nome": "Non Admin User",
+            "email": "non.admin.1771297522753@example.com",
+            "password": "SenhaSegura@123",
+            "administrador": "false",
+            "_id": "qx56PPP3diNX4OnL"
+        },
+        {
+            "nome": "Reinaldo Mateus Rossetti",
+            "email": "marinda.langworth@hotmail.com",
+            "password": "reiload$123#",
+            "administrador": "true",
+            "_id": "szRnPxi2LrK7m7E2"
+        },
+        {
+            "nome": "Mrs. Giuseppina Wiza",
+            "email": "nancie.watsica@yahoo.com",
+            "password": "84dno5algde81",
+            "administrador": "true",
+            "_id": "u8UkesbKIC0IBZZm"
+        },
+        {
+            "nome": "Arthur Henrique da Cruz",
+            "email": "clara.bittencourt@bol.com.br",
+            "password": "1y1hls8y2fr7xkmr4",
+            "administrador": "false",
+            "_id": "w2WljOWfXVQrXRyz"
+        }
+    ]
+}
