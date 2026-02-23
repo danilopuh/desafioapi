@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maya Fontinhas Neto",
+            "email": "elisio.pereira@yahoo.com",
+            "password": "a902pgbu",
+            "administrador": "false",
+            "_id": "Ce0rZvWE3PvR1OCP"
+        },
+        {
+            "nome": "Dr. Bobby Boyer",
+            "email": "Francis.Harber@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "Fr3N72WUGoGcCN65"
+        },
+        {
+            "nome": "Enzo Geraldes",
+            "email": "arthur.hernandes@hotmail.com",
+            "password": "klrjy5gduui1rbycr0j",
+            "administrador": "false",
+            "_id": "NZld6yPAZT8yvRFr"
+        },
+        {
+            "nome": "Larissa Rios",
+            "email": "gael.lima@live.com",
+            "password": "djbo8p6t9lt8uw",
+            "administrador": "false",
+            "_id": "ca70xnoM8ze3Flek"
+        },
+        {
+            "nome": "Lívia Melo Jr.",
+            "email": "gael.moura@live.com",
+            "password": "31w6rdpts",
+            "administrador": "false",
+            "_id": "o6nlmxPt6IUApqy5"
+        },
+        {
+            "nome": "Augusto Barros",
+            "email": "francisca.aguiar@live.com",
+            "password": "pvv4jki970c",
+            "administrador": "false",
+            "_id": "wvMjgDtYNNA3cvvS"
+        }
+    ]
+}
