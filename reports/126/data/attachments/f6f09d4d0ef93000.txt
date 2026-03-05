@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Enzo Miguel da Rosa",
+            "email": "marcia.peixoto@live.com",
+            "password": "q8hdzdt9i3s93brt00",
+            "administrador": "false",
+            "_id": "4gdJastDw2OWu7Od"
+        },
+        {
+            "nome": "Laura Crespo",
+            "email": "joaosamuel.regueira@hotmail.com",
+            "password": "jfj8e55urw15neirxy",
+            "administrador": "false",
+            "_id": "6g3zxS2Jwx0FigjF"
+        },
+        {
+            "nome": "Enzo Thiago Rêgo",
+            "email": "mercia.crespo@gmail.com",
+            "password": "yc8kh5t1waqpvurfl",
+            "administrador": "false",
+            "_id": "MAEevBgV9O6Ek6nK"
+        },
+        {
+            "nome": "Sr. Isis Saraiva",
+            "email": "livia.roriz@yahoo.com",
+            "password": "17x201a5kgoa",
+            "administrador": "false",
+            "_id": "bsFRbn3mvGoSqYlM"
+        },
+        {
+            "nome": "Aline Teixeira",
+            "email": "elisa.almeida@yahoo.com",
+            "password": "6aycc6eg",
+            "administrador": "false",
+            "_id": "d2C9SZO1hrnXUgKe"
+        },
+        {
+            "nome": "Rudolph White",
+            "email": "Clemmie28@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "rT1NUlgEOnT4zwJG"
+        }
+    ]
+}
