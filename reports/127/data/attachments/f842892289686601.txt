@@ -1,0 +1,1475 @@
+{
+    "quantidade": 210,
+    "usuarios": [
+        {
+            "nome": "User 1772757474977",
+            "email": "user17727574749772587@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "0H5HeaavWgNpmkDg"
+        },
+        {
+            "nome": "Colin Schowalter III",
+            "email": "cody11@gmail.com",
+            "password": "goiUtSn7my",
+            "administrador": "true",
+            "_id": "0LgNdZ09I6e3mOMu"
+        },
+        {
+            "nome": "Hubert Kilback",
+            "email": "admin1772764061650@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "0T450QeAOQuciIXS"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Eva_Bartoletti45@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "0o9Txm2EnWVTyGrL"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+6fd52e43-23ee-436b-abe4-9df8f36c44f2@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "0qu7yavlq8ZWMJ75"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772763196491.27369@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "1nNM0k3sOt1yyA6s"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772761557917.89533@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "1tYy0O7lky0UKD72"
+        },
+        {
+            "nome": "Meire Rebouças Filho",
+            "email": "gabriel.nunes@yahoo.com",
+            "password": "7386sxdp",
+            "administrador": "false",
+            "_id": "2Tyq934sRoaoQN26"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste@teste.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "2pSZIBiwE47FYIni"
+        },
+        {
+            "nome": "User 1772757477137",
+            "email": "user17727574771377926@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "2ryHYfHwgIl7ZL6b"
+        },
+        {
+            "nome": "Stella Xavier",
+            "email": "analuiza.daaldeia@gmail.com",
+            "password": "ur6hnib5oj5",
+            "administrador": "false",
+            "_id": "2yvgnWrPJyw8pPoL"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Debra.Leffler84@hotmail.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "3Fk75weMyOK3bRND"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772759341424.88723@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "4WpZcwWNpbCrOKjl"
+        },
+        {
+            "nome": "Larry Herman",
+            "email": "Cletus.Cronin19@hotmail.com",
+            "password": "na0IqN0a",
+            "administrador": "true",
+            "_id": "4jdy5kHgpyzT9yA1"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772761788100.42933@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "4nSu4OnyVib7a3Je"
+        },
+        {
+            "nome": "User 1772757477736",
+            "email": "user17727574777361866@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "4tRSEFfKfLST8LhS"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772762525378.31033@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "5KnKTbnev29I5Gio"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772750638455@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "5lAQEPFrv6fvG2fY"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "6l4aMQgeBVuRVnA3"
+        },
+        {
+            "nome": "Sandra Bergstrom",
+            "email": "claude12@gmail.com",
+            "password": "PbByygLRi1",
+            "administrador": "true",
+            "_id": "6posxDpyjt1J5won"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772763044474.79169@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "75KzyyqtlF8uD0De"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763632378@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "7JY5RGApGmEOSU18"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772750219765.92131@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "7Y4xOOX3vF4rTreo"
+        },
+        {
+            "nome": "Theo borges",
+            "email": "tufa@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "88cu09JhL8PQPfg4"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Wilmer49@hotmail.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "8j3lRixhY6quSC48"
+        },
+        {
+            "nome": "Eduardo da Mata Jr.",
+            "email": "enzogabriel.danobrega@hotmail.com",
+            "password": "yqy8xy1v",
+            "administrador": "false",
+            "_id": "8n8uHztw2IvA3p5z"
+        },
+        {
+            "nome": "Walisson",
+            "email": "JWSANT2@GMAIL.COM",
+            "password": "WAli23030@",
+            "administrador": "false",
+            "_id": "8z03M0W6uDaQlqFD"
+        },
+        {
+            "nome": "Ruby Steuber",
+            "email": "Eric6@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "90E4jxYIHdVGwX2v"
+        },
+        {
+            "nome": "User 1772757476293",
+            "email": "user17727574762935457@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "9hlfJMOCqNwj2Y5b"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772761564778.61727@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "9taH2xsOwVBkKUFn"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "usuario.teste.ui@qa.com.br",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "AbdBL7BUd1PzoNHi"
+        },
+        {
+            "nome": "Cart User",
+            "email": "api.carts.user.1772750168447.57909@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "B0tS1CqZWfbGmaCB"
+        },
+        {
+            "nome": "Cecil Feil V",
+            "email": "qa.1772763691562@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "B9RyqSvB86pdK0v7"
+        },
+        {
+            "nome": "Mack Dickens",
+            "email": "qa1772762367885@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "BSBYhbSLBwpJDp4Q"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772764056081@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "BY4GapBEenNLVAlD"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772763392093.21785@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "BaMBaiAz3LtfmSGV"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772763398729.50942@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "C3yI6RRZbDeKCj3H"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772759813859.5210@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "C6nNMS3jjfPgbt5i"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763736450@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "CLqtrJO08Sst8zOR"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772754372238@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "DKr1DdfNtlqWK33q"
+        },
+        {
+            "nome": "Dr. Israel Kutch",
+            "email": "ernie_roberts@hotmail.com",
+            "password": "Y7HQ6iCSl9",
+            "administrador": "true",
+            "_id": "DrW9ABGZv7J0JjRz"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "dddd@qa.com.br",
+            "password": "123",
+            "administrador": "true",
+            "_id": "E9HSvvNYzefkQ48W"
+        },
+        {
+            "nome": "Cart User",
+            "email": "api.carts.user.1772750180555.10921@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "ECcvq2Jb78REiwFq"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "nonadmin1772756526843@qa.com.br",
+            "administrador": "false",
+            "password": "teste@123",
+            "_id": "Ee6YVOa0gcbI3cJ2"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "nonadmin1772757089395@qa.com.br",
+            "administrador": "false",
+            "password": "teste@123",
+            "_id": "FeBhYMRusftD8xkd"
+        },
+        {
+            "nome": "Terri Zulauf",
+            "email": "qa1772763608124@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "Fi6RCXh2VjAwRok1"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772757085668@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "FrwRj9n00oW3Ifwr"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Verner32@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "GZXw0rRhQcziXAoA"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772762312326.62672@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "HCQCywltvIIMkmLS"
+        },
+        {
+            "nome": "Duplicate API User",
+            "email": "api.duplicate.1772749879242.47389@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "HnCkgLkmdKs0nI8t"
+        },
+        {
+            "nome": "Maria Alice da Gama",
+            "email": "yango.darosa@live.com",
+            "password": "9cds2u6j",
+            "administrador": "false",
+            "_id": "HolNpcV0mPHSESZr"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Juanita89@hotmail.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "IDTsoeNV57yGORNl"
+        },
+        {
+            "nome": "Patricia Galvão",
+            "email": "barbara.santos+test_ce669385@qa.com",
+            "password": "dko8ql3xvk7m",
+            "administrador": "true",
+            "_id": "IMNK6pDpQbvpmhz7"
+        },
+        {
+            "nome": "Dewey Barton PhD",
+            "email": "qa.1772764041266@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "IwebNobALINgauve"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772749888136.50510@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "JBIq6xjQcfF7P84e"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772763037908.29670@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "JEimIpPRN7AZdeWB"
+        },
+        {
+            "nome": "Barry Koch III",
+            "email": "megane48@hotmail.com",
+            "password": "Nv3QdIBG41",
+            "administrador": "false",
+            "_id": "JWWvwyhp8NbuKXOt"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772761775058.2631@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "JeMwp7dDeJZLqE2Y"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772751057748@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "KDQtrQE7c0DZdFUV"
+        },
+        {
+            "nome": "Mrs. Jenny Greenfelder",
+            "email": "jillian.windler55@yahoo.com",
+            "password": "DkVZks1r3B",
+            "administrador": "true",
+            "_id": "KRqHjmEpObHhIry1"
+        },
+        {
+            "nome": "Fulano da Silva 1",
+            "email": "beltrano1@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "LsYnlAXRi7jpmffH"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "admin.teste.ui@qa.com.br",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "MH4uA1sTJC6H1BBP"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772750300126@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "MNssCGKdSoTbh76C"
+        },
+        {
+            "nome": "Jared Marvin",
+            "email": "bertrand2@gmail.com",
+            "password": "4SgrEQlOUq",
+            "administrador": "true",
+            "_id": "MZ8TCcE0h3O4KQFk"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772750522199@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "NWYVWdjpzh7OW5VN"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772762546356.57049@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "Nbs4DFSU3EWyz4PI"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763633673@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "NbyigjGQFHnDDmcL"
+        },
+        {
+            "nome": "Malcolm Jacobs",
+            "email": "qa.1772763691996@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "O1Ubc09SmRhc0dnV"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772762087087.45776@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "OJjaaUEdK7s3wlHh"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772765701451.1994@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "OXnbt78q3MfRVmhp"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Tony66@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "ObizZIv68ORV1pEJ"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+8ffdc5f9-bd89-4e21-9977-a3d34060bc3c@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "P1r7Bsl1ioIJ4Mh4"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772766161068.61616@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "PISBtkdQEqI0MiI7"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+18dc643b-e45e-4b84-bc65-2d55b7c24b72@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "PUYhFeMgAJ2QQSH9"
+        },
+        {
+            "nome": "Grace Bartell-Rau",
+            "email": "Lilliana.Schulist36@gmail.com",
+            "password": "JVw1rRCC",
+            "administrador": "true",
+            "_id": "PmqcQAlFvvgsqsqj"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763719823@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "QFLjATbRM3giP7BA"
+        },
+        {
+            "administrador": "true",
+            "email": "chase.kuhn@yahoo.com",
+            "nome": "Frank Blanda",
+            "password": "password",
+            "_id": "QWftUJyZfcn7ZWaA"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Bud.Marks85@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "QabZ9v44gzVMNoV6"
+        },
+        {
+            "nome": "Ms. Hazel O'Kon",
+            "email": "moriah.prosacco@hotmail.com",
+            "password": "P6dD0ENLnH",
+            "administrador": "true",
+            "_id": "QiqNlJw4Hhiz37hT"
+        },
+        {
+            "nome": "API Automation User",
+            "email": "api.create.1772749878776.71214@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "RLlGjLA824qoVc8W"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772754375355@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "RMpF0EFpJ5vEja40"
+        },
+        {
+            "nome": "Robert Rivera Update",
+            "email": "wesleykennedy@example.com",
+            "password": "w(7Dd6VWT^",
+            "administrador": "true",
+            "_id": "RouLollFA7BQMgIF"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772761544786.76081@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "STvAIK5O3ME0CyIj"
+        },
+        {
+            "nome": "Kristine Hayes",
+            "email": "cory_langworth-stanton@gmail.com",
+            "password": "JlqQshmrTq",
+            "administrador": "true",
+            "_id": "TVdmSwaZ1vgHlU1H"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763732306@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "TbtKmnkiCrfhUq3u"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Alison_Fahey@yahoo.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "Toy3l6HQ7XwSq9QU"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772750001418.6483@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "U5Bww1PIq7Khw3X7"
+        },
+        {
+            "nome": "Darla Simonis",
+            "email": "Perry.Reichel@hotmail.com",
+            "password": "y8Gd6Mks",
+            "administrador": "true",
+            "_id": "U6qoddFlccS5EnJG"
+        },
+        {
+            "nome": "Tracy Willis",
+            "email": "vazquezerin@example.com",
+            "password": "Gu_11XiZ!p",
+            "administrador": "true",
+            "_id": "U8k13x8n6V4nZ8S2"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772761794742.94725@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "UGkmC31FD9rT1Pv2"
+        },
+        {
+            "nome": "Ms. Myrtle Littel",
+            "email": "pedro84@hotmail.com",
+            "password": "DGrqSoXyN4",
+            "administrador": "true",
+            "_id": "UUO1V7uHgUHiTaOx"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772763985619.62096@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "VBvw8TVpaCYnsXpt"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772764081501@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "VDxrJ2CcEd5iwPs6"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763733586@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "Vr8o5UrtEAcXVUFE"
+        },
+        {
+            "nome": "Eva Schmitt",
+            "email": "samson.murphy39@gmail.com",
+            "password": "xsx_W6V3uo",
+            "administrador": "false",
+            "_id": "Vs9MfKyIn14bvyll"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772764005465.44114@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "W3OWkDoDaXRg10dS"
+        },
+        {
+            "nome": "Juan put",
+            "email": "juan3cd99bef-a5e2-4192-90b7-cb5a56dfe7c9@gmail.com",
+            "password": "nuevo",
+            "administrador": "false",
+            "_id": "WBbjGckN2SUl75uH"
+        },
+        {
+            "nome": "Jean Ritchie",
+            "email": "eric.kertzmann48@yahoo.com",
+            "password": "UXZrYFegxl",
+            "administrador": "true",
+            "_id": "WJk1Vd187B51tYjr"
+        },
+        {
+            "nome": "John Scott",
+            "email": "noah50@example.com",
+            "password": "83WkO^Sq&4",
+            "administrador": "true",
+            "_id": "WeZ197igLgfaFCrC"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772750013975.54600@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "Wn5ldLnxr5xuLP7d"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772751056667@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "WpGuuKRuZptXZZ7H"
+        },
+        {
+            "nome": "Conflicto",
+            "email": "conflict+18b1c76f-26ca-4ee9-a360-390bf6aa882f@gmail.com",
+            "password": "pass",
+            "administrador": "false",
+            "_id": "WptTwANRPxYrtRq4"
+        },
+        {
+            "nome": "Angel Parisian",
+            "email": "jaren_prosacco@gmail.com",
+            "password": "tO1P_dRGM_",
+            "administrador": "true",
+            "_id": "WxBhakP4FH0A24zh"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum+1772749663347@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "XBNXQdRrbiy9twk9"
+        },
+        {
+            "nome": "Juan put",
+            "email": "juancb14818e-5d4f-47a0-b73c-b06c272b322f@gmail.com",
+            "password": "nuevo",
+            "administrador": "false",
+            "_id": "XpUUkQYn4JtpsYwl"
+        },
+        {
+            "nome": "Reginald Walker",
+            "email": "abbey.kuhn50@hotmail.com",
+            "password": "3nBv68B8qO",
+            "administrador": "false",
+            "_id": "XqrEzZDhfyqIo5mS"
+        },
+        {
+            "nome": "Luz Runolfsdottir",
+            "email": "qa.1772763691016@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "Z01dvqDcvnuf8XY3"
+        },
+        {
+            "nome": "Agnes Crooks",
+            "email": "qa1772763714564@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "Z71eOXG01T1Udohm"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772763210733.2871@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "ZaCYOPWTmry2qrp8"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763636288@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "ZbK8x3LYRfM0VHwK"
+        },
+        {
+            "nome": "Jeffery Ryan",
+            "email": "qa.1772764039482@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "Ze2JUmghvjFyuOTZ"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan21chavez2003@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "a81wq59MHcF5MQxp"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772761198305.26975@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "aObyeTSWV1fYc6D0"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772750523297@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "avoyOD1s727mmS1D"
+        },
+        {
+            "nome": "Bernice Nikolaus",
+            "email": "qa1772763647735@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "bXzDvZVsBWRqLOl6"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772749943768.30970@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "bZZI3IFz03EBeyX8"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772762299214.75475@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "bn9r5sSvlw5xO1AG"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Sid69@gmail.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "buuuSeZIT8zBDWXe"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772762318971.75461@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "c5Lh8LLosaZ9t5YN"
+        },
+        {
+            "nome": "Gina Glover",
+            "email": "Roger7@hotmail.com",
+            "password": "YbcQIiux",
+            "administrador": "true",
+            "_id": "cRKu7HviB8n6TdYw"
+        },
+        {
+            "nome": "User CRUJ",
+            "email": "usuario.cruj@execmplo.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ce8QVFVsgokmAWYZ"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772761178683.76546@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "cvDDZuLmjY0Jf6nK"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772759820640.71332@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "d18qGZPmpgOMa5QE"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772750201022.20987@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "d91MHnXTIE2KCt99"
+        },
+        {
+            "nome": "Felix Parker",
+            "email": "annabelle_bode@gmail.com",
+            "password": "sued5Mi0jB",
+            "administrador": "true",
+            "_id": "dI0nTxhQPDH85G29"
+        },
+        {
+            "nome": "User 1772757477734",
+            "email": "user17727574777348576@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "dqe5HZsyHtXRMp6H"
+        },
+        {
+            "nome": "User 1772757473664",
+            "email": "user17727574736641423@test.com",
+            "password": "Test@1234",
+            "administrador": "true",
+            "_id": "e6X6TDuovlQ6HCFD"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "nonadmin1772751052819@qa.com.br",
+            "password": "comum@123",
+            "administrador": "false",
+            "_id": "eCvLgTsEq2rGSEOI"
+        },
+        {
+            "nome": "Ana Vitória Espinhosa Neto",
+            "email": "allana.taveira@hotmail.com",
+            "password": "ktieldro40y8rxjy",
+            "administrador": "false",
+            "_id": "eLSidssILuartSyB"
+        },
+        {
+            "nome": "Cart User",
+            "email": "api.carts.user.1772750058655.74729@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "eQPuF7TUiFb53jJb"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772749950502.9008@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "eSKSHjbt0MsBJlsa"
+        },
+        {
+            "nome": "User 1772757477127",
+            "email": "user1772757477127115@test.com",
+            "password": "Test@1234",
+            "administrador": "false",
+            "_id": "ekqXdTFoTnxjJXiq"
+        },
+        {
+            "nome": "Darrell Schmitt",
+            "email": "qa1772764076755@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "f5VJQcwTKWRd3bLO"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772757086246@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "fMbVDyod3zUAyQWf"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772750020680.7593@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "fihLEnQQl5iNMDSp"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772762066404.32270@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "fj6Wcm9kcyRkxSsm"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772757092677@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "fp56aum6BVBBNhuT"
+        },
+        {
+            "nome": "Julio Cesar",
+            "email": "qa_test@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "g4R9dSN85KxcmBiz"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772759326680.50716@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "gFnsWlYGUknThaO2"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gVmAaQA2KpTrfmQc"
+        },
+        {
+            "administrador": "true",
+            "email": "alden.windler@hotmail.com",
+            "nome": "Elliott Stehr",
+            "password": "password",
+            "_id": "h2SOon1pwyO0xG6U"
+        },
+        {
+            "nome": "Caroline Spencer",
+            "email": "Brionna_Upton@yahoo.com",
+            "password": "9jhoObGr",
+            "administrador": "true",
+            "_id": "h7jndrVzWvDyxZwB"
+        },
+        {
+            "nome": "Cart User",
+            "email": "api.carts.user.1772749869677.3487@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "hrdWcqsQPg2GtPid"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "user1772756530216@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "htq1r0Fvtn07DLDJ"
+        },
+        {
+            "administrador": "true",
+            "email": "reiload@gmail.com",
+            "nome": "full_name",
+            "password": "password",
+            "_id": "i45bxuEtykrHxKSy"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+ff80e91e-7c36-44e3-b3b7-b44b95345406@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "i5DAXVM9fML7wwdw"
+        },
+        {
+            "nome": "Jane Padberg",
+            "email": "qa.1772764040835@test.com",
+            "password": "12345678",
+            "administrador": "true",
+            "_id": "iIpazZIeP3f8C2PY"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772754378009@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "iP0iMuZM2zgdydPY"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+636a9bcf-ddb5-40ba-b925-d79d40c4dcf8@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "iVUtjC9QdNtbqu0G"
+        },
+        {
+            "nome": "Andre Renner",
+            "email": "demetris_haley7@hotmail.com",
+            "password": "K7VUy3ueid",
+            "administrador": "true",
+            "_id": "isTyiuCGKmkX182h"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772756530783@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "ix6ywncmTK2Tj6dc"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772758528110.79476@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "jQYaQUSoJ6Or06Xw"
+        },
+        {
+            "administrador": "true",
+            "email": "charles.collins@yahoo.com",
+            "nome": "Garret Mosciski",
+            "password": "password",
+            "_id": "jppNl3Fsr0cqRpUW"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772762538981.61738@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "jsTlQs6AahwEDYGu"
+        },
+        {
+            "nome": "NuevoNombre",
+            "email": "pardito@gmail.com",
+            "password": "nuevoPass123",
+            "administrador": "false",
+            "_id": "junaNmypc5Vt41Uk"
+        },
+        {
+            "nome": "Gerardo Kreiger",
+            "email": "sharon.vonrueden34@hotmail.com",
+            "password": "Pi95bcCABM",
+            "administrador": "false",
+            "_id": "kBBJ3uqumwt9xeFe"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Henrietta93@hotmail.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "kMA1EnWwQztPGY9S"
+        },
+        {
+            "nome": "Kelley Renner DVM",
+            "email": "margarete64@yahoo.com",
+            "password": "2S425FosWz",
+            "administrador": "false",
+            "_id": "l7GtX9YOY1wPKYvh"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772759800181.84647@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "lOxLPOHbSw0wX8dr"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772766033599.71003@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "lPjWKtxbKxxs7DYt"
+        },
+        {
+            "nome": "Tammy Jacobs",
+            "email": "markus40@yahoo.com",
+            "password": "pun4CE7dRY",
+            "administrador": "true",
+            "_id": "lRBG46J67Bvgx29J"
+        },
+        {
+            "nome": "Tonya Haley",
+            "email": "Stone_OKeefe30@yahoo.com",
+            "password": "RVovR957",
+            "administrador": "true",
+            "_id": "lbxxPGe7YnhdHUbM"
+        },
+        {
+            "nome": "Opal Beatty MD",
+            "email": "Jordon48@yahoo.com",
+            "password": "7XVCmwAA",
+            "administrador": "true",
+            "_id": "m7A0usawk1uEwyEO"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772761191734.28255@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "mJhzaZ3uLSihMXcw"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772758551382.3902@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "mZIJ3pRqPjKigXp5"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772750090393.45792@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "mcTydraBRYyJAYt7"
+        },
+        {
+            "nome": "Frontend Regular User",
+            "email": "api.user.1772758608691.62568@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "nDSLSFubcROq1DRl"
+        },
+        {
+            "nome": "Roberta Pimentel",
+            "email": "roberta.pimentel02@gmail.com",
+            "password": "dudu23142",
+            "administrador": "false",
+            "_id": "nGSFvUZdtAlacwIe"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "nonadmin1772757082406@qa.com.br",
+            "administrador": "false",
+            "password": "teste@123",
+            "_id": "nR3QOrWr35y9OouT"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772750639530@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "nubIs9rqyNRuc7a3"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Stephen84@gmail.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "oE7NBD7mUOiRGdmJ"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772758971143.43288@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "oHMaEI5usENHydmq"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772765693825.45565@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "oI1Di5xYJedHeNTv"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Darin22@yahoo.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "p9KJyv61hYBhahDl"
+        },
+        {
+            "nome": "Usuario Teste UI",
+            "email": "Adonis_Leffler@yahoo.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "pKQ9ujRIb8s34UlQ"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+6b58e182-b76b-409f-88df-4a1734e6cc18@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qelwrN9cJftysPOu"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772759348174.77276@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "qodn0G2a0u9xuJBp"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "getuser1772757093213@qa.com.br",
+            "administrador": "true",
+            "password": "teste@123",
+            "_id": "rFdOsqa7xBEWZsZG"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772762080358.57663@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "rGLrsQUNXUA9r44I"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Kathryn.Treutel@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "rxIhr7naBUjUZlic"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772750225446.72258@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "sBEdmwxenjyX2wYE"
+        },
+        {
+            "nome": "João Coutinho",
+            "email": "sirineu.alves@hotmail.com",
+            "password": "0hamtbb3sbtmi22ty",
+            "administrador": "false",
+            "_id": "sDKrqh48hQWVonpW"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772750083697.98913@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "scSYrH63gKF0QuN7"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772764053389@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "sk1s4fiuZ8BmSN9X"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772763024202.72084@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "ssD3srky7Txjr0Qm"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772758963742.55472@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "swFPqt7MsDuwPUfg"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Griffin54@gmail.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "tfkpkbvDUo8SyuKF"
+        },
+        {
+            "nome": "Kara Rosenbaum",
+            "email": "oral.bradtke@hotmail.com",
+            "password": "N5C3JtqqXX",
+            "administrador": "true",
+            "_id": "tgkkeJXT4rnUPCDp"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763651473@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "u7lYEdKKHA60PkHE"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772763378558.52241@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "u8i5wpbY4Ld00STB"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772763998630.45710@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "uCyWEgxBSsK668YW"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+4682539b-0352-4c5c-b6c5-4e6a38cbf3e7@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "uJQRxZE9xH4gZTSb"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772764050317@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "vMvwiBVvYqYKMkZq"
+        },
+        {
+            "nome": "Enzo Miguel Xavier",
+            "email": "beatriz.fontinhas+test_ce669385@qa.com",
+            "password": "el125h1pc58",
+            "administrador": "false",
+            "_id": "vOFuXbQTmNQg9zsS"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772758948738.21542@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "vuD2Tp7Wb1WcZxiu"
+        },
+        {
+            "nome": "Maria Eduarda Souza",
+            "email": "isis.fontes+test_ce669385@qa.com",
+            "password": "bfocughuehdifd",
+            "administrador": "true",
+            "_id": "wYpO1DlbKnzOLmwn"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "usuario.teste@qa.com.br",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "wwRfWsTQLoWpC8AR"
+        },
+        {
+            "nome": "Renan borges",
+            "email": "renanborgessti@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "xAjzlWg05Rff26RO"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum+1772760757513@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "xJGYparkgpxUQLv2"
+        },
+        {
+            "nome": "Existing Frontend User",
+            "email": "frontend.duplicate.1772763217761.89596@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "xupKe4DaxZrNrdKW"
+        },
+        {
+            "nome": "Juan Chavez Saldaña",
+            "email": "juan+d2ce8477-12e6-4eaf-8952-41a60e08f798@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "yHOZl6X8yDTSTrck"
+        },
+        {
+            "nome": "Margie Davis",
+            "email": "cecil3@gmail.com",
+            "password": "hy78rSH39x",
+            "administrador": "false",
+            "_id": "yQ5wiJY7SbLmwDru"
+        },
+        {
+            "nome": "Admin Teste UI",
+            "email": "Dixie43@yahoo.com",
+            "password": "admin@123",
+            "administrador": "true",
+            "_id": "yTmtd5h30k9Cyni9"
+        },
+        {
+            "nome": "Frontend User",
+            "email": "frontend.register.1772758544532.97801@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "ygB1IJbFiMiS5NrD"
+        },
+        {
+            "nome": "Admin Created User",
+            "email": "frontend.admin.user.1772750070531.12561@qa.com",
+            "password": "Test@123",
+            "administrador": "false",
+            "_id": "ynvU6W2n1mGSuDSH"
+        },
+        {
+            "nome": "QA Shopper",
+            "email": "shopper1772764070266@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "z4a0liDMNea2k8La"
+        },
+        {
+            "nome": "Patsy Schumm",
+            "email": "Solon_Kunde44@yahoo.com",
+            "password": "0VNEEFdl",
+            "administrador": "true",
+            "_id": "zOGGAV0Upq9SazFS"
+        },
+        {
+            "nome": "Roberta",
+            "email": "roberta@gmail.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "zXcK712C5EPII0lx"
+        },
+        {
+            "nome": "QA Test User",
+            "email": "qa1772763614837@test.com",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "zksIAgJpufzwlD8p"
+        }
+    ]
+}
