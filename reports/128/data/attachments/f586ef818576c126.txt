@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Maria Silva",
+            "email": "maria1@teste.com",
+            "password": "teste3",
+            "administrador": "false",
+            "_id": "0ZV35zjAvR9x0lZy"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Silva",
+            "email": "maria@teste.com",
+            "password": "teste3",
+            "administrador": "true",
+            "_id": "6r3EKcjRjifSDk7Q"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "A7QWqidbDo5IP8Je"
+        },
+        {
+            "nome": "Pedro Tobias Pires",
+            "email": "carolina.aragao@hotmail.com",
+            "password": "j70yabcxfijlc",
+            "administrador": "false",
+            "_id": "ALthiiTDCRx0a1jm"
+        },
+        {
+            "nome": "mi da mi",
+            "email": "midalu@gmail.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "M4vHWPRn4Vg3ntLs"
+        },
+        {
+            "nome": "Mária Silva",
+            "email": "maria2@teste.com",
+            "password": "teste3",
+            "administrador": "false",
+            "_id": "Phk5bH7zPjIUl5YN"
+        },
+        {
+            "nome": "jasmim",
+            "email": "theflowerjasmim@gmail.com",
+            "password": "verdeplanta27",
+            "administrador": "false",
+            "_id": "f33iFueyp7D8KUQc"
+        },
+        {
+            "nome": "Jack",
+            "email": "jack@gmail.com",
+            "password": "pucminas",
+            "administrador": "false",
+            "_id": "s5ZNrYDJN78UFv8t"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa1.com.br",
+            "password": "teste3",
+            "administrador": "true",
+            "_id": "zblPuIJ0dBWJadVx"
+        }
+    ]
+}
