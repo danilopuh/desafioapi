@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Isadora Campos Neto",
+            "email": "mariahelena.viana@bol.com.br",
+            "password": "zm0tszshck55dm",
+            "administrador": "false",
+            "_id": "7QZwItrt7tdP1Sqq"
+        },
+        {
+            "nome": "Ana Laura Rameira Jr.",
+            "email": "augusto.brites@yahoo.com",
+            "password": "uy05uvuxai",
+            "administrador": "false",
+            "_id": "81dZca6opMi84QC7"
+        },
+        {
+            "nome": "Luan Bernardes",
+            "email": "roberto.castro@gmail.com",
+            "password": "dhglz46xqlqrl3",
+            "administrador": "false",
+            "_id": "AzFt3eITOBbqGYaD"
+        },
+        {
+            "nome": "Heitor Carvalho",
+            "email": "mariafernanda.caseira@gmail.com",
+            "password": "m44i0bw9oyi",
+            "administrador": "false",
+            "_id": "MaeEumuXJqBh1G6a"
+        },
+        {
+            "nome": "Clarice da Veiga Jr.",
+            "email": "felipe.pereira@gmail.com",
+            "password": "lhnmywc8yyzgf88w2h",
+            "administrador": "false",
+            "_id": "V0HS8EZfdIx2vaKj"
+        },
+        {
+            "nome": "Henrique Pinto",
+            "email": "fabricio.bomdia@live.com",
+            "password": "m7155vglheyhhw",
+            "administrador": "true",
+            "_id": "VYmMuiwRkPDQRcx5"
+        },
+        {
+            "nome": "Giovanna Ramos Filho",
+            "email": "yuri.monteira@hotmail.com",
+            "password": "e0qxchof2tfscpr2f0",
+            "administrador": "true",
+            "_id": "gCjrGBkuf3EnWNnu"
+        },
+        {
+            "nome": "Roberto Caldeira",
+            "email": "antonella.esteves@yahoo.com",
+            "password": "8ipznp4p1d5brrt",
+            "administrador": "false",
+            "_id": "hVsCJ0ynshzFqM9t"
+        },
+        {
+            "nome": "Aline Rocha Filho",
+            "email": "joaovitor.castanheira@hotmail.com",
+            "password": "j9gppmu4bw",
+            "administrador": "false",
+            "_id": "pKLoeqmdjb4qivox"
+        },
+        {
+            "nome": "Sr. Lorena Laranjeira",
+            "email": "noah.goulart@hotmail.com",
+            "password": "0pjresce89tkhb4la",
+            "administrador": "false",
+            "_id": "q1IxL01uH1x9btNO"
+        }
+    ]
+}
