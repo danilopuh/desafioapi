@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sra. Valentina Amoreira",
+            "email": "daviludmer.henriques@hotmail.com",
+            "password": "va2lbp1tbu1w5kc7u",
+            "administrador": "false",
+            "_id": "1vN3V3qJfgwyVSGG"
+        },
+        {
+            "nome": "Fabiano Morais",
+            "email": "sophia.esteves@live.com",
+            "password": "s56jixpyybbag2jzk25",
+            "administrador": "false",
+            "_id": "3Gs4OwIulselY0Dl"
+        },
+        {
+            "nome": "João Samuel da Fonseca",
+            "email": "augusto.junqueira@yahoo.com",
+            "password": "jd63e7ylyq5g",
+            "administrador": "false",
+            "_id": "FrqJVoNOsBEWoCNa"
+        },
+        {
+            "nome": "Srta. Lucas Gabriel Farias",
+            "email": "rafaela.barreira@live.com",
+            "password": "lgkgdkl44nt",
+            "administrador": "false",
+            "_id": "YnVdyg7IbrkELlx0"
+        },
+        {
+            "nome": "Eric Trantow",
+            "email": "Wendell97@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "Yx0aEt3Q63JwsFK7"
+        },
+        {
+            "nome": "Many",
+            "email": "many@lume.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "jXW6sQ4VE4UAn1gO"
+        },
+        {
+            "nome": "Ana Lívia Ramires",
+            "email": "tomas.dorneles@hotmail.com",
+            "password": "mw7dpw0oz6kmvi",
+            "administrador": "false",
+            "_id": "lnVHJTCauUxYGz41"
+        }
+    ]
+}
