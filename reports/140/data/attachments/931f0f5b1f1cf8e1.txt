@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Rex Schulist",
+            "email": "Marcella75@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "HUmSPuJrVScgARfa"
+        },
+        {
+            "nome": "Antonia Rezende",
+            "email": "tomas.esteves@yahoo.com",
+            "password": "enjnoo5c1m5a4rbm1b",
+            "administrador": "false",
+            "_id": "PYlhguftEfr8Gaou"
+        },
+        {
+            "nome": "Fulanos da Silva",
+            "email": "beltranos@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RbxbFAGxkbmpDPJA"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa-1@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TvrQ15CzhjKsfQ6C"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa-2@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "jAttBMRajrXroW07"
+        },
+        {
+            "nome": "Sra. Allana Figueira",
+            "email": "analuiza.dabandeira@bol.com.br",
+            "password": "4day1059yp",
+            "administrador": "false",
+            "_id": "u0CepbfikWXiPIyY"
+        },
+        {
+            "nome": "Bento Martins",
+            "email": "elisio.sales@gmail.com",
+            "password": "filaax6m",
+            "administrador": "false",
+            "_id": "uMYXoNgjV9ywY5Um"
+        },
+        {
+            "nome": "Dr. Samuel Silveira",
+            "email": "alicia.castanho@gmail.com",
+            "password": "x9u6ew2u2amrmmx1",
+            "administrador": "false",
+            "_id": "zoiZtJhJw50hRdcA"
+        }
+    ]
+}
