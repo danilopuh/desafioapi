@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Admin QA",
+            "email": "admin_1773975823865_0.3674771144486233@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "0dUISnFtC59lDh25"
+        },
+        {
+            "nome": "Elisa Diegues",
+            "email": "eloah.coqueiro@bol.com.br",
+            "password": "kaiv9yxvfz",
+            "administrador": "false",
+            "_id": "swVM3W3KvILUAOWl"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Admin QA",
+            "email": "admin_1773975819033_0.4376597158948576@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "35RwMudkE7URxOaA"
+        },
+        {
+            "nome": "Levi Velasques",
+            "email": "henry.peixoto@gmail.com",
+            "password": "62qr7guxlm4jhm",
+            "administrador": "false",
+            "_id": "e2S7A20JFkOanTy3"
+        }
+    ]
+}
