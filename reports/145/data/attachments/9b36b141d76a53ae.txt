@@ -1,0 +1,376 @@
+{
+    "quantidade": 53,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774321076043@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "16Oer3qjFYCVIxTy"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320166636@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "3MP6IqXq0BYrm1eE"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316129254@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "4VWoXLwuK9vJf5AQ"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316542940@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "7R2pKaO2HQ7FB8K2"
+        },
+        {
+            "nome": "Fábio Melo",
+            "email": "julia.ribeira@gmail.com",
+            "password": "t4i709f68",
+            "administrador": "false",
+            "_id": "7Xa8VdSNWsuaiftN"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321374563@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "7kn9yDgZzLezIZY4"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321375713@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "Cm6aGA4nsjKpsENc"
+        },
+        {
+            "nome": "Dra. Carlos Eduardo Santana",
+            "email": "bryan.ramires@bol.com.br",
+            "password": "el7uxa4fl",
+            "administrador": "false",
+            "_id": "Jwrza3EKjo3b0TDx"
+        },
+        {
+            "nome": "Kauê Soeira",
+            "email": "rafaela.roseira@live.com",
+            "password": "ikuvaq2w",
+            "administrador": "false",
+            "_id": "Kj6VHHR5VO3tIXCp"
+        },
+        {
+            "nome": "Leão Pereira",
+            "email": "leao1605232@qa.com.br",
+            "password": "123mudar",
+            "administrador": "true",
+            "_id": "OZWcQJM2oxnmGwaZ"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774321335188@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "PYS1ldlt3ODAZ145"
+        },
+        {
+            "nome": "Usuario PUT Nuevo",
+            "email": "luz.qa.1774320486792@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "QaCRYIycxZMFWtKY"
+        },
+        {
+            "nome": "Luz QA Actualizada",
+            "email": "luz.qa.updated.1774316131693@mail.com",
+            "password": "NuevaClave123",
+            "administrador": "false",
+            "_id": "R1l8alo57e80xf5R"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316127298@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "Yb7OsFQSDgvjNWt7"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320971943@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "YkxSbSzgPbLfCgFz"
+        },
+        {
+            "nome": "Leão Pereira",
+            "email": "leao123@qa.com.br",
+            "password": "123mudar",
+            "administrador": "true",
+            "_id": "ZKxcYtPGTF6lLVY0"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320375125@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "ZnyXUU2LXIYVO1NV"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321428176@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "aZh6htn9pAl0fJGM"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320917091@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "bsxUFvgAlnai4k2P"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774321274507@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "buieqcIKdmLyVEOK"
+        },
+        {
+            "nome": "Arthur Gabriel Meira",
+            "email": "yuri.galego@yahoo.com",
+            "password": "u7inwlocai6mdym",
+            "administrador": "false",
+            "_id": "cyWKMv6ov3hBiQeN"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "dCK5mhjWoWsmv8ti"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320538365@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "dkZ1facWTgx24zuq"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316132929@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "ePTTXltRpCft6Vkj"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "teste_3655@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "eg0OIMyrDQZ0KBTy"
+        },
+        {
+            "nome": "Ismael Von",
+            "email": "Sarina.Schmidt@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "ezbCfOmoA0eaLSnM"
+        },
+        {
+            "nome": "Usuário Teste Cypress",
+            "email": "usuario_1774318371050@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "fS6UoIVBZGAodBmw"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774317755427@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "g4PDMgWG5aQ7IUui"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316547009@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "gjozX1eW6HlbVLO8"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321194031@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "jENN8G8rGUYOoj5i"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316538782@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "jgVw4VomwzrPOWMW"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321259401@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "jnAZKKbn3dTnkSkM"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316965603@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "kEjYeEWJ7oN5DBVY"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321261336@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "kcjhgfPelNSriuJH"
+        },
+        {
+            "nome": "Leão Pereira",
+            "email": "leao1605@qa.com.br",
+            "password": "123mudar",
+            "administrador": "true",
+            "_id": "l1qcafMK6YbP6iz5"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774317723667@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "lZAa1Aj8Go60nMNI"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316130471@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "mJlyTqW44bVvl0Ew"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321195292@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "mvYaSfNxn7xBl3LU"
+        },
+        {
+            "nome": "Usuário Teste Cypress",
+            "email": "usuario_1774318377672@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "oyflv4UcQun7zJo8"
+        },
+        {
+            "nome": "Sr. Davi Luiz Rebouças",
+            "email": "valentina.vidal@yahoo.com",
+            "password": "5clk1r8wuyjov863wf2",
+            "administrador": "false",
+            "_id": "p9yRysN1H7eNeQJn"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320648497@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "pNXfdMOkInDAMGMt"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774317135201@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "qHMRS8Bu5Yit9h8y"
+        },
+        {
+            "nome": "Luz QA Actualizada",
+            "email": "luz.qa.updated.1774316544954@mail.com",
+            "password": "NuevaClave123",
+            "administrador": "false",
+            "_id": "ryBJ4FjwKZuuyV7G"
+        },
+        {
+            "nome": "Leão Pereira",
+            "email": "leao@qa.com.br",
+            "password": "123mudar",
+            "administrador": "true",
+            "_id": "s2PENtJnbBg08clp"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "teste_7009@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tDhddURRZ1V8pHrG"
+        },
+        {
+            "nome": "rodrigo",
+            "email": "rodrigohsfonseca@gmail.com",
+            "password": "646622",
+            "administrador": "false",
+            "_id": "tI17DJY9MGyhUGWJ"
+        },
+        {
+            "nome": "Fulaninho",
+            "email": "Fulaninho@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "v7DhgaIZmaLNSihV"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774316541737@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "wGhDV1OQHGj99WT1"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320674932@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "wPnKMI4uJYc4UlFl"
+        },
+        {
+            "nome": "Luz QA",
+            "email": "luz.qa.1774321426331@mail.com",
+            "password": "Test1234",
+            "administrador": "true",
+            "_id": "x6szukcXgNe6Nm1C"
+        },
+        {
+            "nome": "Comprador Cypress",
+            "email": "comprador_1774320522925@teste.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "xY43FdDPb2MXCho3"
+        },
+        {
+            "nome": "Gabriel Pauletti",
+            "email": "sdafasdfdfs@gmail.com",
+            "password": "dsfasaasddsa@ghmail.com",
+            "administrador": "false",
+            "_id": "yZFy5puuVOSu3aBG"
+        }
+    ]
+}
