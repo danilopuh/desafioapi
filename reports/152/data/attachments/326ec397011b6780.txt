@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dennis Block",
+            "email": "Anderson.Rowe69@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "938BpaUnhGtt0XcZ"
+        },
+        {
+            "nome": "Davi Lucas Albuquerque",
+            "email": "djalma.rameira@yahoo.com",
+            "password": "j2njxrcj",
+            "administrador": "false",
+            "_id": "IZhZ20ohcOx62EtL"
+        },
+        {
+            "nome": "ian Fernandes",
+            "email": "ianfer@gmail.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "ieP9IEN05QbQS607"
+        },
+        {
+            "nome": "João Guilherme Taveira",
+            "email": "fernanda.sais@bol.com.br",
+            "password": "8ak72fye6koc",
+            "administrador": "false",
+            "_id": "nOKrLPz6wRKwOlmL"
+        },
+        {
+            "nome": "Ian Fernandes",
+            "email": "ianfernandes.contato@gmail.com",
+            "password": "Lolo2801",
+            "administrador": "false",
+            "_id": "siKlWVP3ZEFW6HMd"
+        },
+        {
+            "nome": "Isabela Cristina",
+            "email": "isabela@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "thvkDB1NyYwNHmBW"
+        }
+    ]
+}

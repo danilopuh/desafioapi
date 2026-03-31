@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dr. Lucas Ramalho",
+            "email": "celia.coutinho@yahoo.com",
+            "password": "3hb6c1virbk",
+            "administrador": "false",
+            "_id": "2pbrSdFmaKUNnoqY"
+        },
+        {
+            "nome": "Dennis Block",
+            "email": "Anderson.Rowe69@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "938BpaUnhGtt0XcZ"
+        },
+        {
+            "nome": "Sr. Yago Meira",
+            "email": "janaina.crespo@hotmail.com",
+            "password": "n25j2yow0d5t",
+            "administrador": "false",
+            "_id": "amd1r7jmZ5qSVqzd"
+        },
+        {
+            "nome": "ian Fernandes",
+            "email": "ianfer@gmail.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "ieP9IEN05QbQS607"
+        },
+        {
+            "nome": "João Guilherme Taveira",
+            "email": "fernanda.sais@bol.com.br",
+            "password": "8ak72fye6koc",
+            "administrador": "false",
+            "_id": "nOKrLPz6wRKwOlmL"
+        },
+        {
+            "nome": "Ian Fernandes",
+            "email": "ianfernandes.contato@gmail.com",
+            "password": "Lolo2801",
+            "administrador": "false",
+            "_id": "siKlWVP3ZEFW6HMd"
+        },
+        {
+            "nome": "Isabela Cristina",
+            "email": "isabela@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "thvkDB1NyYwNHmBW"
+        },
+        {
+            "nome": "Elisa Hernandes Filho",
+            "email": "anavitoria.damota@bol.com.br",
+            "password": "1r08q79eu33q1120drb",
+            "administrador": "false",
+            "_id": "vqUUJBQ1YbXg9kCS"
+        }
+    ]
+}
