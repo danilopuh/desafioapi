@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Miguel Editado",
+            "email": "edit_315d2dec-ed56-44cd-9cf5-1dbce395dc8d@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_94216849-c225-4fb0-b56d-daebee96cfd6@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "29w96ICbxm3T3hId"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_5b544d42-40c4-4045-9927-788c0fdc3688@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7TaXLFTtOPqTjb3g"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_87a490dc-0feb-482c-b578-d2486170a7c8@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "C0zrl8ZN3Jw92ZSz"
+        },
+        {
+            "nome": "Víctor Domingues",
+            "email": "mercia.marques@gmail.com",
+            "password": "fdrkirxrnd54e",
+            "administrador": "false",
+            "_id": "Gj6inwuY50gIKeLT"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_47f7b34f-f63b-494e-8147-6f16c47dfa21@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "g5lvxHrDuzbLHSPf"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_55c5d0c4-3495-44c1-9e0c-1bd9b9f815fb@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "m9WzkuE6gmWv04ML"
+        },
+        {
+            "nome": "Miguel QA",
+            "email": "miguel_731564a0-3d36-4da5-9303-41e0b099db00@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "mozSaJyR5SYhT90C"
+        },
+        {
+            "nome": "Audrey Hudson IV",
+            "email": "Genesis.Bechtelar1@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "sPYicJ1OCBu46cpp"
+        }
+    ]
+}
