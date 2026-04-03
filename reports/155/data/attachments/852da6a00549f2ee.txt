@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Yago Brum",
+            "email": "alessandra.melo@live.com",
+            "password": "6paw4h3ipij64rbk88",
+            "administrador": "false",
+            "_id": "KfPXNeIAkOXpsz8X"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "rateste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TnwpfUMKN0HvQ6bw"
+        }
+    ]
+}

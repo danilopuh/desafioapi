@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "João Gabriel Dias",
+            "email": "julio.ramos@hotmail.com",
+            "password": "srtbnumc27",
+            "administrador": "false",
+            "_id": "2tCKNS5updc0WOY7"
+        },
+        {
+            "nome": "Clara Fogaça",
+            "email": "yago.souza@yahoo.com",
+            "password": "mi2l0rx4esekvcq3s",
+            "administrador": "false",
+            "_id": "7cWgFtVs7LBNXeIG"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "rateste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TnwpfUMKN0HvQ6bw"
+        },
+        {
+            "nome": "Henry Aparício Filho",
+            "email": "hugo.rameira@bol.com.br",
+            "password": "00l7o6ek5grwtykv",
+            "administrador": "false",
+            "_id": "Ttl57RIiTCGXuIm9"
+        },
+        {
+            "nome": "Davi Ludmer Siqueiro",
+            "email": "patricia.soares@yahoo.com",
+            "password": "aq567d71g",
+            "administrador": "false",
+            "_id": "YJFSeUDPNYG0UbC1"
+        },
+        {
+            "nome": "Alícia Ramalho Filho",
+            "email": "patricia.bomdia@live.com",
+            "password": "krzjfhr7xh",
+            "administrador": "false",
+            "_id": "nxoaS0RN9y8fKkcj"
+        },
+        {
+            "nome": "Theodora",
+            "email": "alva.ferry@yahoo.com",
+            "password": "wugtdeqeyt",
+            "administrador": "true",
+            "_id": "uln3G8tQ4ikPbh6z"
+        }
+    ]
+}
