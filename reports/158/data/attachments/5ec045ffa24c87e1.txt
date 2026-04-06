@@ -1,0 +1,572 @@
+{
+    "quantidade": 81,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_ebfbae2a-1de5-4e48-9922-0880fb11b4be@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1Lwo2kBga1f0n8ir"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_61929e4d-5476-4d2c-b37c-7acfe3d35b2c@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1mLZJAmAhaufuOqZ"
+        },
+        {
+            "nome": "Usuario Lidia",
+            "email": "user_3f942505-1549-4a6e-a126-5a57a94ae5aa@test.com",
+            "password": "newpass",
+            "administrador": "false",
+            "_id": "4QSrN6A2kwbgmU3d"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_798c49ac-7c08-4e86-8470-661bb56a6f74@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4T3gOxxqwFt0ZicN"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_b16cccd3-3ee1-435c-b91d-c7a5bb4affa6@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5Nadx6NjBHQtfJY9"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_cc8f8357-c312-441f-bf4c-9e768acc8f3b@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6qumQpT2FOGkjwyM"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_64574eef-35e9-43a4-822d-0a6c13e77fd4@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "74nxXIHMkyt4kHH8"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_04f44e68-94b6-4c23-8616-33180f8123b7@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7CmFk0WuGLpQc5q7"
+        },
+        {
+            "nome": "Ayla da Cunha Filho",
+            "email": "vitorhugo.vimaranes@gmail.com",
+            "password": "u29v3ul0kw7fxu0h",
+            "administrador": "false",
+            "_id": "7cAIjkx58ycswUu5"
+        },
+        {
+            "nome": "Laura Beltrão",
+            "email": "guilherme.coqueiro@bol.com.br",
+            "password": "mnly3zqwoi5wbjt1p",
+            "administrador": "false",
+            "_id": "80rNSnaeVu1YZzx2"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_ce5269bb-ebbc-4408-857e-a31bb22b653e@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "8g3hHrLL4CWu99Zf"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_485ca20a-7489-4197-b26f-b28c5c0b8356@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "AcdhSdMbvDQmL4v8"
+        },
+        {
+            "administrador": "true",
+            "email": "reiload@gmail.com",
+            "nome": "full_name",
+            "password": "password",
+            "_id": "AkipYyzx61w9V1BQ"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_a76fe6ae-e3be-4b64-80e1-723df85840b5@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BxDyzA9ZGeGsY9UI"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_d30fcd49-d06c-4d30-a7f1-2f53614141f8@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "D4sYebQAO5xjcofj"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_b20ae389-3914-4137-ba54-fd8601024852@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "E0Gv4diH2mjsmWkZ"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_4883fe6d-e3c7-4419-a017-0b6eea41a560@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "EL7ohoVMdJpEBM5a"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_6ef5b333-5541-43b8-ab24-f7c0511a6dc4@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "EyEHMSudxunTZ6Kc"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_8ec6b823-ebd9-44e0-aa5d-5e9c25fa1b77@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "FYr2IDnvpLM1Ghkg"
+        },
+        {
+            "nome": "Isabella Freitas",
+            "email": "ricardo.datena@gmail.com",
+            "password": "4mpk8vhntug",
+            "administrador": "false",
+            "_id": "HL0qnaOMHImO80uj"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_f6e1d4e3-2b05-431b-b192-487ac8b0b07f@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "HSj3btgvCTdgr1CZ"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_79a7c92b-ce78-4652-88ee-0f8c23438166@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "JEFtj3IdVIKdd0cS"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_4103c822-d639-4b6a-b698-dd56c1c59341@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KRAbKEQdus1HTWf3"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_04923024-d1c7-47de-b8b1-cd797b23e086@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "L1obDwszvG3e4KG1"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_5147d956-a273-4923-9264-0bbc9663bbac@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "LeW9APNHKOXxcozS"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_01590905-8315-40d3-8110-b43428faf187@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Lq5Xr6wy1BSjEg0W"
+        },
+        {
+            "administrador": "true",
+            "email": "krista.reinger@yahoo.com",
+            "nome": "Kelsi Waters",
+            "password": "password",
+            "_id": "MX8jPB4fs90g25X4"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_3db9c977-39ea-4003-b857-7aa864dae389@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "MbA4riowK0h4zeub"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_a2106ae1-0eb6-478c-8f3c-ed65a24ecf6b@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "N1Y5WuEoBMuC0lpO"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_3bdef5c2-a28d-48bd-9479-b67b5932203b@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Ndu5zdmJqWp5nSmu"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_42160c15-309e-4b48-9003-83d99986cf32@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "P27B2SE7sYslhzbP"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_b1344fde-3f1a-4c41-9784-8fb43c033bc2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "PlRSdWWeFSBvU1pr"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_29779672-0117-42bf-a8db-fb707a00faec@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "PrgzX8peLjwqVkqq"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_99739226-41e5-429d-a365-1cdc3cc7c4c6@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Q9sik4idAQw1TNQm"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_a9ab6919-12c5-45ff-a107-d34eb0c26d37@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "QO5zbq6kLJ88CG1v"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_5d5e4f43-f38f-4d9f-a1ef-88eedecad022@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "RcZxtx9iSprCiL2S"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_ee38fc9a-e237-4003-972b-0114df5010fb@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "UT06QvPejakPqizP"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_3ba03f6f-808a-4f05-8496-4f33d82f1e0d@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Uk2MQIcCRSm0wi0i"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_ab976011-14bc-4e76-809b-4d161e1f5001@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VQEj7m5vXmCGq1KF"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_137cb3be-a0b6-4e19-926c-337e1b4dc33c@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Waf4kGFhpFGiJraK"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_a2dafaa9-f645-4c50-b4be-072854bee3de@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "X6gmGZHIzglWoGms"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_bfd8fcbc-eabc-4cf4-b065-21f8ba298c11@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "XvOezwFug6gLO8SP"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_f4114215-dfb3-46b6-84a2-a48920f8f17b@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Zj1y26LgocShP9Kb"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "aJs7m0eD0gIAPO5s"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_0b54f243-9e37-4cd9-9dd3-eaef9b6751cf@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "dSlCLzjKuQ1GiYlQ"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_00ccd53e-f99c-46ee-b9a6-9cb9e8b8762c@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "dYFgpB5186Rbd67d"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_3ad14808-a651-4196-86e2-b95ae0680bda@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "eJvAgfBb3DTj9jKt"
+        },
+        {
+            "nome": "Usuario Karate1",
+            "email": "user_0c795ba6-867c-44aa-8e48-73b4e7c421cf@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "eKWhDCdYUUNxREHM"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_efcca986-d7d6-44fa-b1e4-5ca892968afa@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "egM79StO0Jnwa4Su"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_e19bdad8-47d4-44ac-b646-1531a0f01b88@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "f0KWtA1knZw5vBUu"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_0969f487-0017-45b7-ad05-389de27a36ec@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "fM1YFx7hU3KNdIGG"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_960671d3-78fc-4ae5-9c2f-49b7e1caa670@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "g6q0x7Mv2jtj4Ptv"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_fc76c982-2358-4848-af5c-f0b709bea682@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "gkgf9LmTJV78W9o0"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_fe9ef89c-2378-49be-8156-06198d656cd5@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hiT0CCQjjuiKC5Mp"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_938a6d76-2583-4803-ab59-7a1c876dda46@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ibxq49U7o2GtwCuA"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_63733058-155f-4774-a357-8718993926ea@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "iv1Ie5j4NNCxwprZ"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_a36d1315-4fda-4c84-94c2-5bcc0eb06bd7@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jXtXH4b6Zc97ai8W"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_d84dac78-112e-4fb5-b4f3-541c63a73515@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jb3mwuFuXUsiTOfx"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_fdf1baa4-4e3a-42de-96f3-1da57dac5989@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "k7Fveg4r0AUpTFgI"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_8ecc55b9-4d7d-4e2a-a405-25c0e6eba6a5@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "luFx8atMt74qhoEc"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_e61f6ad0-3a05-47b8-8a5b-818d1a6f4069@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "mtK251ns8TFKnL81"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_048d887f-32ea-4592-a02d-1bd9be124436@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "oeRL02IsuF5lSyqF"
+        },
+        {
+            "nome": "Hélio Antena Neto",
+            "email": "isaac.rezende@bol.com.br",
+            "password": "rjafzn8uqnt77b",
+            "administrador": "false",
+            "_id": "opf4LVz8mkYg3f8H"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_ee62f16d-ee21-44da-bd07-bd33dc5b188e@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "p3CDSYU695OkVW2b"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_a7f16271-8f12-4798-b689-73db23809a26@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "pKgORysUT7tc4UvL"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_0b85f41a-81cf-48e5-9a1e-4e9511411256@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "pyi7RAyMc3iQrF5s"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_a0383c69-9829-45aa-b414-23d2b1bc9573@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qOw12lkLK8U9dedK"
+        },
+        {
+            "nome": "Laís Palmeira",
+            "email": "pedromiguel.ribeira@gmail.com",
+            "password": "dhfnokavvq2j882",
+            "administrador": "false",
+            "_id": "qQoMhte0EEIzygZN"
+        },
+        {
+            "administrador": "true",
+            "email": "daniell.larkin@yahoo.com",
+            "nome": "Ara Baumbach",
+            "password": "password",
+            "_id": "qYy3zuNiU1YU5UYk"
+        },
+        {
+            "nome": "Usuario Karate1",
+            "email": "user_4f055e08-01a2-4476-a21a-837eec80d731@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "quUPM9k9cIZoob2S"
+        },
+        {
+            "nome": "Norma Anderson",
+            "email": "Muriel.Mohr@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "rl60it8NgzlM1yQs"
+        },
+        {
+            "nome": "Teste 310320266",
+            "email": "teste310320266@email.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tSRmdBeDlVuYPzeF"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_4a2214d4-132b-48e3-a532-c9bbf028fa4b@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "uTDGGBOxg4LClBZs"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_f99e126c-619d-4c12-939a-968041c7c0d0@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wOeGe4qf29ZP2aUy"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_c26a8a44-875d-4035-922b-709cfd6a5297@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wmyNmPjl47mA0u66"
+        },
+        {
+            "nome": "Hugo Updated",
+            "email": "updated_afca0f23-5083-4748-99a2-b475e7055310@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wzwnqiVU3rZbVPK8"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_4cd719f3-e285-48b8-84e0-31d1cf3659fe@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "yG7Ghk3m8jyHGmuM"
+        },
+        {
+            "administrador": "true",
+            "email": "sergio.heller@hotmail.com",
+            "nome": "Kerry Weissnat",
+            "password": "password",
+            "_id": "yhjYtiiKGwBDy9FJ"
+        },
+        {
+            "nome": "Hugo",
+            "email": "duplicado_c90f327b-649d-4c32-b39d-16ebe0a33f0e@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "z9SLU97xjMLE4yrs"
+        },
+        {
+            "nome": "Hugo Ramos",
+            "email": "hugo_63e679fb-8687-4745-9df5-78f3bcd1f2d7@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "zXBM7mGdpDtne1hU"
+        }
+    ]
+}
