@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Amanda Leiria",
+            "email": "deneval.viana@live.com",
+            "password": "oltrwlj8k6h8sjhmtr",
+            "administrador": "false",
+            "_id": "Bvu3KPZv99lcGKvh"
+        },
+        {
+            "nome": "Marcelo Macieira Filho",
+            "email": "mariahelena.daaldeia@live.com",
+            "password": "f4ksi23ftn8cm57",
+            "administrador": "false",
+            "_id": "VDEdmOUCGzPVkSXN"
+        },
+        {
+            "nome": "Sr. Beatriz Corte",
+            "email": "rafael.rezende@yahoo.com",
+            "password": "rg610lo5oloa07",
+            "administrador": "false",
+            "_id": "blAb1zJC7sXZiHo4"
+        },
+        {
+            "nome": "Warren Roberts",
+            "email": "Josiah_Bernier@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "dq66qAiLOGN81R5W"
+        },
+        {
+            "nome": "Isaac Pinto",
+            "email": "mariasophia.pedroso@hotmail.com",
+            "password": "nxkd0fgbonich",
+            "administrador": "false",
+            "_id": "tXZFanw3dPq57dK7"
+        },
+        {
+            "nome": "Yago Batista Filho",
+            "email": "mercia.dacruz@bol.com.br",
+            "password": "9u06ma9z0g",
+            "administrador": "false",
+            "_id": "xGLdHYbCin3dQL2s"
+        }
+    ]
+}

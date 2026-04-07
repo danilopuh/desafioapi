@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Calebe Gentil",
+            "email": "vinicius.conceicao@yahoo.com",
+            "password": "b9narhwn9p8eyji",
+            "administrador": "false",
+            "_id": "2q9ijejmHslLXtXq"
+        },
+        {
+            "nome": "Warren Roberts",
+            "email": "Josiah_Bernier@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "dq66qAiLOGN81R5W"
+        }
+    ]
+}
