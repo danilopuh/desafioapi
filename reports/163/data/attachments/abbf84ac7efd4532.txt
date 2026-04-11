@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Theo Brum",
+            "email": "gabriel.novaes@hotmail.com",
+            "password": "evqhk4949fngl",
+            "administrador": "false",
+            "_id": "8EsitEZ7JqLHclp6"
+        },
+        {
+            "nome": "Núbia Vieira Neto",
+            "email": "aline.cachoeira@gmail.com",
+            "password": "bvwqik0uxg",
+            "administrador": "false",
+            "_id": "EwhYigq9LZ6Oo00X"
+        },
+        {
+            "nome": "Clifton Feest",
+            "email": "Doris20@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "NEjhWpnozxadOHru"
+        },
+        {
+            "nome": "Eduardo Rolim",
+            "email": "perola.oliveira@yahoo.com",
+            "password": "8vj5eaxml8rtv1n2",
+            "administrador": "false",
+            "_id": "WPv7dJAgoRXTrAVT"
+        },
+        {
+            "nome": "Fabrícia da Luz",
+            "email": "joaopedro.roseira@hotmail.com",
+            "password": "ipng06ml5hqv1yt",
+            "administrador": "false",
+            "_id": "cRuQduKjRprQF0XC"
+        },
+        {
+            "nome": "Ayla Marcondes Neto",
+            "email": "paula.casqueira@hotmail.com",
+            "password": "7nl8fc0imxhe2axz3",
+            "administrador": "false",
+            "_id": "d9XdU5sJDU7XN3AM"
+        },
+        {
+            "nome": "Arthur Henrique Sá",
+            "email": "rafaela.antena@bol.com.br",
+            "password": "oduw1c6x9",
+            "administrador": "false",
+            "_id": "sIki49i6o4QkzE6C"
+        }
+    ]
+}
