@@ -1,0 +1,334 @@
+{
+    "quantidade": 47,
+    "usuarios": [
+        {
+            "nome": "Usuario Actualizado",
+            "email": "usuarioactualizado@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test29626@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "1BRgliBnYcToX5UG"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_536666fa-9152-4c6f-8285-71543c0cea72@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1Ea8HJdQJr8WrmQX"
+        },
+        {
+            "nome": "Fernando",
+            "email": "Update4@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "1OP88eGzspK0satR"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test58592@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "3UhYroR9aAJY0i78"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test81822@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "43YcfwsRR19t2Bbr"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_a354e7e1-af4c-4d13-843a-9607895b2ede@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4HuCW4dGBTCCZNFc"
+        },
+        {
+            "nome": "katherine",
+            "email": "Update@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "4x48jpHJ65T4gCWT"
+        },
+        {
+            "nome": "Aaron1",
+            "email": "Fer35@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "6OmP0rf4LAEbKGm9"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa123@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "71G4m7R2kAZ0OWEI"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test21943@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "7kxUqbX0rqlDshjb"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "updated4323@qa.com",
+            "password": "newpass123",
+            "administrador": "false",
+            "_id": "91gSdLOCibR7WECR"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_f5e12fe5-a654-4bdf-9eed-fda75eb1b7fc@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "9KMHgmY2UkTku2cr"
+        },
+        {
+            "nome": "Tester",
+            "email": "teste@email.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "AiTiMjbGlcTrJjXm"
+        },
+        {
+            "nome": "Marilyn Will",
+            "email": "Kaylie.Bednar42@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "CK73zpFUONukx8bN"
+        },
+        {
+            "nome": "Otro",
+            "email": "otro75592@qa.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "DH5NA1KL88Dt1gKm"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba2@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "DztmM3xuTtm8TIDs"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "E5iJuXdmOLWwB9JE"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba1@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "EbZzvkc5cdAF5HQz"
+        },
+        {
+            "nome": "Otro",
+            "email": "otro54911@qa.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "IHXp0DvgZRG61Ymt"
+        },
+        {
+            "nome": "Dr. Alfonso Franey",
+            "email": "Martin55@gmail.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "IVZderWoCQ7BG1nv"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_bf3f9e74-c41a-4a32-bc8d-2eafc5ff5be7@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "IW31YfP8lnUPb5Ym"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba19@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "IejBG5RS1ZBJWk0k"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_23cb6546-ece1-43bc-873f-f0a486de0f30@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "IkMDm3irLkVqIZe8"
+        },
+        {
+            "nome": "katherine",
+            "email": "fulano@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "MEj45JR2YpIcTRS4"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "Ody5qtwRwElDQUQ5"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba3@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "T924cxN7v89cmlNF"
+        },
+        {
+            "nome": "Wilson Rath I",
+            "email": "Karina.Marquardt22@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "TKbGzKV6Yfn9iagI"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "updated71150@qa.com",
+            "password": "newpass123",
+            "administrador": "false",
+            "_id": "UMUFt7s7580YyJsJ"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test61415@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "URryXP6pHAjmm4PT"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "WBiIxDoSkLlfb6oF"
+        },
+        {
+            "nome": "Nuevo Usuario",
+            "email": "nuevo33249@qa.com",
+            "password": "pass123",
+            "administrador": "true",
+            "_id": "WigXvCVHrgm2KkPM"
+        },
+        {
+            "nome": "Brett Rempel",
+            "email": "Kayley.Casper78@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "YAL8xqj0sstvBdkL"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test90682@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "cVD89ZpxddBToIn3"
+        },
+        {
+            "nome": "Nuevo Usuario",
+            "email": "nuevo56791@qa.com",
+            "password": "pass123",
+            "administrador": "true",
+            "_id": "dHFgGVxqKS6YrVi2"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test32085@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "dw6SsJpmLzu8ipTq"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test20223@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "f11TIREeuNZOLBDS"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test79600@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "h71LoBOgYzHre6xa"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test63895@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "iehrvcpGfj5yZcTB"
+        },
+        {
+            "nome": "Maria",
+            "email": "maria@email.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "jARsQf7o7fxlt6I1"
+        },
+        {
+            "nome": "stefany",
+            "email": "Katherine@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jdn3FZcrTB5dKwZQ"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test63416@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "jz1DseCV6RvDIbXv"
+        },
+        {
+            "nome": "Kauê Palmeira",
+            "email": "mariasophia.moreira@hotmail.com",
+            "password": "mk25u6g92182y1r",
+            "administrador": "false",
+            "_id": "qRwFuqUzfV3GVQyQ"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "test74139@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "sHAq1Mr9h6JqMLh7"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_557d64b3-d99e-4dda-8b34-5f85c66966d1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tl9UcV4QfwcDZ9Cx"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "usuarioqa_4b54c7e3-ffdf-4d33-aa2f-af8d9f454636@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wLVlvMCKFxO9wrgL"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "usuarioactualizado_b8b74d6c-ba9e-46d9-8285-c09cc88abcc9@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "xKKjtJgMenqHepBq"
+        }
+    ]
+}
