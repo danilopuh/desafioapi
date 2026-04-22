@@ -1,0 +1,96 @@
+{
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "2C9hqpylK1HADUi8"
+        },
+        {
+            "nome": "Alejandra",
+            "email": "Actualizar@pacifico.com",
+            "password": "111111",
+            "administrador": "true",
+            "_id": "8uTja8cZGStnPLPh"
+        },
+        {
+            "nome": "Leonard Botsford DVM",
+            "email": "Layla48@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "8vT6SEY2224f53BZ"
+        },
+        {
+            "nome": "Warley Menendes",
+            "email": "mariacecilia.rodrigues@live.com",
+            "password": "3cf553wstvrxhax9",
+            "administrador": "false",
+            "_id": "ALKvE1IhuU9moEgC"
+        },
+        {
+            "nome": "Carlos",
+            "email": "Test3@pacifico.com",
+            "password": "111111",
+            "administrador": "true",
+            "_id": "DeooEgvYxgqYOM6M"
+        },
+        {
+            "nome": "Rodrigo Garcez Filho",
+            "email": "isis.albuquerque@live.com",
+            "password": "896x7iuqkxzt",
+            "administrador": "false",
+            "_id": "Ig7yp6aGoTa7rili"
+        },
+        {
+            "nome": "Claudia",
+            "email": "Alejandra1@pacifico.com",
+            "password": "111111",
+            "administrador": "true",
+            "_id": "OBibKWjQHjV6oH3J"
+        },
+        {
+            "nome": "teste novo nome",
+            "email": "meusovos@gmail.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "XH9OpG5fz2jpjUwk"
+        },
+        {
+            "nome": "Ana Cecília Mendanha",
+            "email": "jose.guterres@bol.com.br",
+            "password": "ak4hdk1t606",
+            "administrador": "false",
+            "_id": "Yyp0oh2Ld40WYj2S"
+        },
+        {
+            "nome": "Elísio Rios",
+            "email": "danilo.melo@gmail.com",
+            "password": "klkmxmii1t42kv2r1o",
+            "administrador": "false",
+            "_id": "gd1nsFCfgf7l15Cn"
+        },
+        {
+            "nome": "Novo usuário",
+            "email": "usuario-admin@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "ncBusIAsHBuRl7pp"
+        },
+        {
+            "nome": "Pedro Quaresma",
+            "email": "sara.dacunha@yahoo.com",
+            "password": "y5nm4p1a6ritn",
+            "administrador": "false",
+            "_id": "sehIVO6wdHOU2rF4"
+        }
+    ]
+}
