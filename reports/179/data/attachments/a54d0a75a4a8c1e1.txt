@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Luiz Gustavo Castanho",
+            "email": "natalia.lobos@live.com",
+            "password": "6cnajl48",
+            "administrador": "false",
+            "_id": "2C55ZEugzdgJetBk"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "Bj8rS6F0CLaoL8gp"
+        },
+        {
+            "nome": "Ana Cecília Aguiar",
+            "email": "sirineu.moraes@gmail.com",
+            "password": "3lkv0my7z5ehb6",
+            "administrador": "false",
+            "_id": "TfWKAQTecDiiObGq"
+        },
+        {
+            "nome": "Bruna Guedes Jr.",
+            "email": "adriana.darosa@hotmail.com",
+            "password": "88nnsr2vuwgh9zl",
+            "administrador": "false",
+            "_id": "alXG99Lbak51kfyw"
+        },
+        {
+            "nome": "Jaime Mohr",
+            "email": "Fleta_Kozey@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "gMBABZ18rY8EDL6b"
+        },
+        {
+            "nome": "Malu Laranjeira Filho",
+            "email": "norberto.franco@yahoo.com",
+            "password": "tm5oq7ahcfohg6",
+            "administrador": "false",
+            "_id": "naQdolXHqQzJ0q27"
+        },
+        {
+            "nome": "Luna Crespo",
+            "email": "felipe.dosreis@hotmail.com",
+            "password": "nexwbeif8zfp6n93q4",
+            "administrador": "false",
+            "_id": "vdKSMgGkkMYQGZJg"
+        },
+        {
+            "nome": "André Gabeira",
+            "email": "daniel.casqueira@yahoo.com",
+            "password": "w8n86br78iimhh",
+            "administrador": "false",
+            "_id": "zVfDD1DvROlTtgnv"
+        }
+    ]
+}
