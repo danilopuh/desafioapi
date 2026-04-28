@@ -1,0 +1,222 @@
+{
+    "quantidade": 31,
+    "usuarios": [
+        {
+            "nome": "Robyn Hudson",
+            "email": "Terry_Block@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "0Muzl96IjKb413uZ"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Ana Gomes",
+            "email": "ana.gomes.17773449168583710@mailinator.com",
+            "password": "Qa!17773449168583710",
+            "administrador": "false",
+            "_id": "1qYV9dOJS1yeH4UA"
+        },
+        {
+            "nome": "Larissa Almeida",
+            "email": "larissa.almeida.17773449346591970@mailinator.com",
+            "password": "Qa!17773449346591970",
+            "administrador": "false",
+            "_id": "2bwYfPHfdH0Ax0iP"
+        },
+        {
+            "nome": "Ana Almeida",
+            "email": "ana.almeida.17773449014055109@mailinator.com",
+            "password": "Qa!17773449014055109",
+            "administrador": "true",
+            "_id": "3FnbNc5v1pjq8sDB"
+        },
+        {
+            "nome": "Renata Gomes",
+            "email": "renata.gomes.17773449056537401@mailinator.com",
+            "password": "Qa!17773449056537401",
+            "administrador": "false",
+            "_id": "79qtqNGPsiWSmrSj"
+        },
+        {
+            "nome": "Gabriel Araujo",
+            "email": "gabriel.araujo.17773446946816998@mailinator.com",
+            "password": "Qa!17773446946816998",
+            "administrador": "false",
+            "_id": "EQKb8RdhB6mYlME6"
+        },
+        {
+            "nome": "Fernanda Lima",
+            "email": "fernanda.lima.17773447546832500@mailinator.com",
+            "password": "Qa!17773447546832500",
+            "administrador": "true",
+            "_id": "GFgFKuJML4tIYPZv"
+        },
+        {
+            "nome": "Ana Rocha",
+            "email": "ana.rocha.17773448907768470@mailinator.com",
+            "password": "Qa!17773448907768470",
+            "administrador": "true",
+            "_id": "IepLCSxu6Yyo0vLu"
+        },
+        {
+            "nome": "Ana Almeida",
+            "email": "ana.almeida.17773446111782824@mailinator.com",
+            "password": "Qa!17773446111782824",
+            "administrador": "true",
+            "_id": "K45L4QcmEbwW2j2K"
+        },
+        {
+            "nome": "Marcos Souza",
+            "email": "marcos.souza.17773449168612347@mailinator.com",
+            "password": "Qa!17773449168612347",
+            "administrador": "false",
+            "_id": "LDKi1eFkXVl3oLkU"
+        },
+        {
+            "nome": "Marcos Araujo",
+            "email": "marcos.araujo.17773449068892131@mailinator.com",
+            "password": "Qa!17773449068892131",
+            "administrador": "false",
+            "_id": "OVNjihOjVqKyRl4W"
+        },
+        {
+            "nome": "Marcos Souza",
+            "email": "marcos.souza.17773446155208555@mailinator.com",
+            "password": "Qa!17773446155208555",
+            "administrador": "false",
+            "_id": "PpPsJhxT2PDhnhXA"
+        },
+        {
+            "nome": "Letícia Dorneles",
+            "email": "pablo.aragao@gmail.com",
+            "password": "78hvfddm",
+            "administrador": "false",
+            "_id": "RawBrn1rq3hvoOAD"
+        },
+        {
+            "nome": "Fernanda Rocha",
+            "email": "fernanda.rocha.17773449023723575@mailinator.com",
+            "password": "Qa!17773449023723575",
+            "administrador": "false",
+            "_id": "RnkOX5drBhTudZbM"
+        },
+        {
+            "nome": "Bruno Araujo",
+            "email": "bruno.araujo.17773448920575639@mailinator.com",
+            "password": "Qa!17773448920575639",
+            "administrador": "false",
+            "_id": "WR8SeHzfoYzg26Lp"
+        },
+        {
+            "nome": "Marcos Santos",
+            "email": "marcos.santos.17773446477935052@mailinator.com",
+            "password": "Qa!17773446477935052",
+            "administrador": "false",
+            "_id": "YfseQWnHyNC6TQzs"
+        },
+        {
+            "nome": "Ana Costa",
+            "email": "ana.costa.17773449196318129@mailinator.com",
+            "password": "Qa!17773449196318129",
+            "administrador": "true",
+            "_id": "YxczRgQHTK71LLCn"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "aUHYfKL3Rth0WMBJ"
+        },
+        {
+            "nome": "Camila Araujo",
+            "email": "camila.araujo.17773448957938449@mailinator.com",
+            "password": "Qa!17773448957938449",
+            "administrador": "false",
+            "_id": "daAULpfmTn5gMOFx"
+        },
+        {
+            "nome": "Camila Oliveira",
+            "email": "camila.oliveira.17773449377958614@mailinator.com",
+            "password": "Qa!17773449377958614",
+            "administrador": "false",
+            "_id": "eLWB4tLPHf9ja13V"
+        },
+        {
+            "nome": "Diego Rocha",
+            "email": "diego.rocha.17773446345463685@mailinator.com",
+            "password": "Qa!17773446345463685",
+            "administrador": "true",
+            "_id": "fiRTtZgU8YjtlI20"
+        },
+        {
+            "nome": "Fernanda Rocha",
+            "email": "fernanda.rocha.17773447066354062@mailinator.com",
+            "password": "Qa!17773447066354062",
+            "administrador": "false",
+            "_id": "jepDpNEiXy9hEvm5"
+        },
+        {
+            "nome": "Diego Santos",
+            "email": "diego.santos.17773446272401086@mailinator.com",
+            "password": "Qa!17773446272401086",
+            "administrador": "false",
+            "_id": "jwo6efOjrfk10qza"
+        },
+        {
+            "nome": "Juliana Costa",
+            "email": "juliana.costa.17773445927996060@mailinator.com",
+            "password": "Qa!17773445927996060",
+            "administrador": "false",
+            "_id": "kPnRW9W1MGoYqXnU"
+        },
+        {
+            "nome": "Fernanda Oliveira",
+            "email": "fernanda.oliveira.17773446123711654@mailinator.com",
+            "password": "Qa!17773446123711654",
+            "administrador": "false",
+            "_id": "kaTlErjKEgrZ6XI8"
+        },
+        {
+            "nome": "Diego Costa",
+            "email": "diego.costa.17773446450865944@mailinator.com",
+            "password": "Qa!17773446450865944",
+            "administrador": "false",
+            "_id": "oRZNYV32zvJcEjbR"
+        },
+        {
+            "nome": "Juliana Souza",
+            "email": "juliana.souza.17773449141278739@mailinator.com",
+            "password": "Qa!17773449141278739",
+            "administrador": "false",
+            "_id": "pM3GTE7OmaV9Ibd6"
+        },
+        {
+            "nome": "Fulanos da Silva",
+            "email": "beltranos@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "rGNiKC0NbF6BKAT6"
+        },
+        {
+            "nome": "Camila Gomes",
+            "email": "camila.gomes.17773446849126609@mailinator.com",
+            "password": "Qa!17773446849126609",
+            "administrador": "false",
+            "_id": "whTARJT8gc4MeRCy"
+        },
+        {
+            "nome": "Larissa Gomes",
+            "email": "larissa.gomes.17773449242688174@mailinator.com",
+            "password": "Qa!17773449242688174",
+            "administrador": "true",
+            "_id": "y4Dcgd0tsZemgytt"
+        }
+    ]
+}
