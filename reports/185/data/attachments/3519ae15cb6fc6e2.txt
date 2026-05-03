@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Fernanda Antunes",
+            "email": "ian.espinheira@live.com",
+            "password": "usagb4u7nmcft11n8",
+            "administrador": "false",
+            "_id": "89Nys6skqmYtRJ7f"
+        },
+        {
+            "nome": "Brendan Bosco",
+            "email": "Celine48@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "HYe3sNq9rOmCGUEk"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "ctNx8xVJKPUuulSf"
+        },
+        {
+            "nome": "Dra. Antônio Hermingues",
+            "email": "bryan.macieira@gmail.com",
+            "password": "qqemse527ahmne2l",
+            "administrador": "false",
+            "_id": "eipZkb8DlmIuEeiJ"
+        },
+        {
+            "nome": "Larissa Barreira",
+            "email": "alexandre.ouriques@gmail.com",
+            "password": "bic0pfeg68hyn9ge8",
+            "administrador": "false",
+            "_id": "jD2KyOKNqvIEgkSq"
+        },
+        {
+            "nome": "Sílvia da Cruz Jr.",
+            "email": "helio.hermingues@bol.com.br",
+            "password": "ymlv6uhs1h",
+            "administrador": "false",
+            "_id": "npTQKgQYc8P7ooC6"
+        },
+        {
+            "nome": "Ana Laura Carreira Filho",
+            "email": "joao.dacruz@yahoo.com",
+            "password": "ky6aribv3nw",
+            "administrador": "false",
+            "_id": "soBruIgxhI5EmyaB"
+        }
+    ]
+}
