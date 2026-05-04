@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "luiz",
+            "email": "luizhenrique@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "HEte89q9njR6EXch"
+        },
+        {
+            "nome": "luiz",
+            "email": "luiz.monteiro01@aluno.faesa.br",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "HmZQ6sZA22wJQn7y"
+        },
+        {
+            "nome": "Gabriel Munhoz Neto",
+            "email": "ruan.dasilva@hotmail.com",
+            "password": "p400o3kdaig",
+            "administrador": "false",
+            "_id": "IXqDNGbw19mmH23v"
+        },
+        {
+            "nome": "QA Testing",
+            "email": "qa@testing.com",
+            "password": "test",
+            "administrador": "true",
+            "_id": "SP4m8lJYFNkNvWwm"
+        },
+        {
+            "nome": "Rafaela Ramos",
+            "email": "mariacecilia.barreira@gmail.com",
+            "password": "9dtqngxv2rb",
+            "administrador": "false",
+            "_id": "T8wcy8Vxl3jI8oaM"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "ZrnvUfV8dnopAc6U"
+        },
+        {
+            "nome": "Isabel Esteves",
+            "email": "djalma.albuquerque@gmail.com",
+            "password": "zq0vyfw85afc",
+            "administrador": "false",
+            "_id": "jezVqdLeSBl5PFM0"
+        },
+        {
+            "nome": "luiz",
+            "email": "luiz.garcc0@gmail.com",
+            "password": "hluiz2001",
+            "administrador": "true",
+            "_id": "m35LBeVKmGarJnVQ"
+        },
+        {
+            "nome": "Jane Hammes",
+            "email": "Gay_Jast@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "u8yapnhFVt6itaSR"
+        },
+        {
+            "nome": "Dra. Melissa Corte",
+            "email": "arthurhenrique.casqueira@gmail.com",
+            "password": "0w03i9zt",
+            "administrador": "false",
+            "_id": "unJirrXVwMzQOWgW"
+        },
+        {
+            "nome": "Bruno Mesquita",
+            "email": "teste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zfhJEtUILGX61PfV"
+        }
+    ]
+}
