@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Chad Bailey III",
+            "email": "Sammy_Corwin@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "BfDuY0opi85yiG31"
+        },
+        {
+            "nome": "Fulanos da Silva",
+            "email": "beltranos@qa2.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "NmYTJeE8FpZP1DPQ"
+        },
+        {
+            "nome": "André Moniz",
+            "email": "tomas.rego@hotmail.com",
+            "password": "p3pw9uev99sa",
+            "administrador": "false",
+            "_id": "YEd97MXFNN0HuvDi"
+        },
+        {
+            "nome": "Dra. Maria Júlia Moura",
+            "email": "anthony.nunes@hotmail.com",
+            "password": "8fn3oxr6i0j",
+            "administrador": "false",
+            "_id": "eeW6q4ABCarSrZGS"
+        },
+        {
+            "nome": "Kléber Sales",
+            "email": "lucca.viveiros@gmail.com",
+            "password": "pb76abmavv2r",
+            "administrador": "false",
+            "_id": "imjUhsM2qLRbjPeO"
+        },
+        {
+            "nome": "Fulanos da Silva",
+            "email": "beltranos@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "lkQ2KrTux6IzPTF6"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "mxofUZpiwLhyLlwB"
+        },
+        {
+            "nome": "joao",
+            "email": "joao.test@email.com",
+            "password": "Teste@123",
+            "administrador": "false",
+            "_id": "ohdXW5XeEQ84h7Pg"
+        },
+        {
+            "nome": "Djalma Caseira",
+            "email": "guilherme.grotas@gmail.com",
+            "password": "de612g8yihl3o4jy",
+            "administrador": "false",
+            "_id": "qmGyDcwXbNcbNwin"
+        }
+    ]
+}
