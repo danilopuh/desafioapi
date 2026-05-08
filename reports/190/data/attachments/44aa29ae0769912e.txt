@@ -1,0 +1,425 @@
+{
+    "quantidade": 60,
+    "usuarios": [
+        {
+            "nome": "Sandro Huamán Mendoza",
+            "email": "sandro+0fff18f1-de9b-4450-a68c-333b73947f03@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "0fluAZyMK25s4On9"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Thaiza Teste 1778205858267",
+            "email": "thaiza.1778205858267@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1YTrMokfLeq6vyGN"
+        },
+        {
+            "nome": "Thaiza Teste 1778208163088",
+            "email": "thaiza.1778208163088@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1j1eK5pjHddN5iDX"
+        },
+        {
+            "nome": "Arthur Henrique Passarinho",
+            "email": "joaolucas.araujo@yahoo.com",
+            "password": "x4ytwb7lvub5",
+            "administrador": "false",
+            "_id": "2DQo5WY2ZHvwRQ11"
+        },
+        {
+            "nome": "Thaiza Teste 1778204940747",
+            "email": "thaiza.1778204940747@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3i1TEOuSOgV1PNMR"
+        },
+        {
+            "nome": "Thaiza Teste 1778205607600",
+            "email": "thaiza.1778205607600@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "569gu4MGZNkYHxk9"
+        },
+        {
+            "nome": "Thaiza Teste 1778205839639",
+            "email": "thaiza.1778205839639@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "6y8PHqrA2aizkcRV"
+        },
+        {
+            "nome": "Thaiza Teste 1778205509445",
+            "email": "thaiza.1778205509445@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7GzskTkCaMuT7dLI"
+        },
+        {
+            "nome": "QA Cypress Cadastro",
+            "email": "qa.cypress.cadastro.1778204861737@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "A0hXsaL0MTijrSZP"
+        },
+        {
+            "nome": "Thaiza Teste 1778204951904",
+            "email": "thaiza.1778204951904@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "AzNGH7pFw8kByMxb"
+        },
+        {
+            "nome": "Thaiza Teste 1778205864697",
+            "email": "thaiza.1778205864697@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BHRlktyIdg54Qnfb"
+        },
+        {
+            "nome": "Thaiza Teste 1778206264177",
+            "email": "thaiza.1778206264177@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "BaLKwq03u0s61JiW"
+        },
+        {
+            "nome": "QA Cypress Front",
+            "email": "qa.cypress.carrinho.1778206810937@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "CdFJWekgXv6qlxjG"
+        },
+        {
+            "nome": "Clarice Gomide",
+            "email": "enzogabriel.lima@gmail.com",
+            "password": "x3huplok",
+            "administrador": "false",
+            "_id": "Chw7h1vc3L4QvlA3"
+        },
+        {
+            "nome": "Dr. Rodrigo Espinheira",
+            "email": "luiza.dasilva@live.com",
+            "password": "ohcmz4dm5vj04",
+            "administrador": "false",
+            "_id": "Cmh9DmXu7LBKUNy6"
+        },
+        {
+            "nome": "Thaíza3 Faria",
+            "email": "thaiza3@teste3.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "D35QvozReBjeI9XT"
+        },
+        {
+            "nome": "Thaiza Teste 1778204962475",
+            "email": "thaiza.1778204962475@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DAMyE3ETvJvPnVl6"
+        },
+        {
+            "nome": "Thaiza Teste 1778205623190",
+            "email": "thaiza.1778205623190@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DeuXHob3nqd0Ogrx"
+        },
+        {
+            "nome": "Vitor",
+            "email": "vitorsilva@test.com",
+            "password": "@Test2026",
+            "administrador": "true",
+            "_id": "HrCgqfHpVa2kMtCN"
+        },
+        {
+            "nome": "Thaiza Teste 1778206398166",
+            "email": "thaiza.1778206398166@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "I0t128V0YUvU8gJ9"
+        },
+        {
+            "nome": "QA Cypress Cadastro",
+            "email": "qa.cypress.cadastro.1778207168130@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "I2ZHY3YSFJbE8Ukw"
+        },
+        {
+            "nome": "Júlio de Sá",
+            "email": "carla.sales@live.com",
+            "password": "1x2rgjsx4cqzp",
+            "administrador": "false",
+            "_id": "JGq305tV9JWkh0WV"
+        },
+        {
+            "nome": "QA Cypress Front",
+            "email": "qa.cypress.carrinho.1778206119935@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "JhaCvsfNbIr7pe7B"
+        },
+        {
+            "nome": "Thaiza Teste 1778204929938",
+            "email": "thaiza.1778204929938@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KCvunkjMYOWZFb2Z"
+        },
+        {
+            "nome": "Thaiza Teste 1778205617088",
+            "email": "thaiza.1778205617088@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KghuJEhEQzYsFljA"
+        },
+        {
+            "nome": "Thaiza Teste 1778205498678",
+            "email": "thaiza.1778205498678@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Kp1w1OiW34KppgmC"
+        },
+        {
+            "nome": "Thaiza Teste 1778205487484",
+            "email": "thaiza.1778205487484@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "L0hVTyZCloBnc6dH"
+        },
+        {
+            "nome": "Alex da Silva",
+            "email": "alexo@qa.com.br",
+            "password": "alex",
+            "administrador": "true",
+            "_id": "LiHFaFlM4fbbqY1a"
+        },
+        {
+            "nome": "Thaiza Teste 1778204637003",
+            "email": "thaiza.1778204637003@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "MJ2FQs5KpCC0yhLN"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "QpIwJVczZrLeomV9"
+        },
+        {
+            "nome": "Thaíza2",
+            "email": "thaiza2@teste2.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "SdKUm38k8WQ9lkxe"
+        },
+        {
+            "nome": "Sandro Huaman ",
+            "email": "sandroingsistemas30@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "TLM9gFYIyiIsLEO4"
+        },
+        {
+            "nome": "Thaiza Teste 1778207774962",
+            "email": "thaiza.1778207774962@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "WhyN3UxD87DNF6va"
+        },
+        {
+            "nome": "Thaiza Teste 1778206195668",
+            "email": "thaiza.1778206195668@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "XOfBQniPzYp9kslO"
+        },
+        {
+            "nome": "hellys ferreira",
+            "email": "hellys@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "YbKf1UTx34ri7Atk"
+        },
+        {
+            "nome": "Thaiza Teste 1778205845534",
+            "email": "thaiza.1778205845534@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "YuS3AxAn8f3QaXJo"
+        },
+        {
+            "nome": "QA Cypress Cadastro",
+            "email": "qa.cypress.cadastro.1778205560400@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "ZFlgUOynlj21keDr"
+        },
+        {
+            "nome": "Thaiza Teste 1778205136211",
+            "email": "thaiza.1778205136211@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ZhJIk6vMm29zKDNi"
+        },
+        {
+            "nome": "Sandro put",
+            "email": "sandro+07740c2e-f0c3-4d78-8a50-2e5097fd4965@gmail.com",
+            "password": "nuevo",
+            "administrador": "false",
+            "_id": "agi4FhG6PhcTOBu7"
+        },
+        {
+            "nome": "QA Cypress Front",
+            "email": "qa.cypress.carrinho.1778206147914@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "eCacYAsHjwy2fHvD"
+        },
+        {
+            "nome": "Sandro Huamán Mendoza",
+            "email": "sandro+b6a1b67e-df95-4ace-998e-3c389b8197a3@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "fxKEP3f8UELLgnAf"
+        },
+        {
+            "nome": "Thaiza Teste 1778205981076",
+            "email": "thaiza.1778205981076@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hI1rr2WJIq4704g2"
+        },
+        {
+            "nome": "QA Cypress Cadastro",
+            "email": "qa.cypress.cadastro.1778207613201@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "hXDSh0MZ4b9YhDzz"
+        },
+        {
+            "nome": "QA Cypress Front",
+            "email": "qa.cypress.carrinho.1778206288358@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "hZr0Qz9og25WTHLZ"
+        },
+        {
+            "nome": "Thaiza Teste 1778205154239",
+            "email": "thaiza.1778205154239@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hnrqS1zUnJYcHQUs"
+        },
+        {
+            "nome": "Terry Nicolas",
+            "email": "Eda_Champlin@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "jeKjUOcQsWgKsIgh"
+        },
+        {
+            "nome": "Thaiza Teste 1778208006753",
+            "email": "thaiza.1778208006753@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "lbOFEip82Naw4jsV"
+        },
+        {
+            "nome": "Thaiza Teste 1778208395147",
+            "email": "thaiza.1778208395147@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "n8EMYkuvY1Oics8m"
+        },
+        {
+            "nome": "Sandro Huamán Mendoza",
+            "email": "sandro+aa6ada00-01b8-405b-bd35-a03b1929f086@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "qBCydsNH09dL7NkQ"
+        },
+        {
+            "nome": "Thaiza Teste 1778206465908",
+            "email": "thaiza.1778206465908@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "qWzD5fafpTFksbQO"
+        },
+        {
+            "nome": "Sandro Huamán Mendoza",
+            "email": "sandro+e2e2e2bc-b934-466f-9881-f66da4ddf6d1@gmail.com",
+            "password": "testerQA",
+            "administrador": "true",
+            "_id": "rLSeQjSd2fNGkDvm"
+        },
+        {
+            "nome": "Feliciano Palhares Filho",
+            "email": "lais.dantas@hotmail.com",
+            "password": "ea8lpcuf",
+            "administrador": "false",
+            "_id": "rp0ocfjCN3VYS0RQ"
+        },
+        {
+            "nome": "Thaiza Teste 1778204626779",
+            "email": "thaiza.1778204626779@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tHzdKvYesAPbyt1n"
+        },
+        {
+            "nome": "Thaiza Teste 1778204922561",
+            "email": "thaiza.1778204922561@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tVUYQeV4v16eCsaB"
+        },
+        {
+            "nome": "Thaiza Teste 1778205871792",
+            "email": "thaiza.1778205871792@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "v0vCrvF9smeTe7q5"
+        },
+        {
+            "nome": "Thaiza Teste 1778207807010",
+            "email": "thaiza.1778207807010@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vMp8QEblfojNAEHb"
+        },
+        {
+            "nome": "Thaiza Teste 1778205143598",
+            "email": "thaiza.1778205143598@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "y5nFsglYLYsO6uRN"
+        },
+        {
+            "nome": "QA Cypress Cadastro",
+            "email": "qa.cypress.cadastro.1778205277255@serverest.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "yNGgZm5CjBBQmjNe"
+        },
+        {
+            "nome": "Roberta Marcondes",
+            "email": "tomas.moraes@bol.com.br",
+            "password": "h1u7pzd0jcm",
+            "administrador": "false",
+            "_id": "zl0xTTa5bIbkJ9ge"
+        }
+    ]
+}
