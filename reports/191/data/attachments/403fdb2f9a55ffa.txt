@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Rod Cartwright-Block PhD",
+            "email": "horace_shanahan29@gmail.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "2WSxxv2SDaaqpPtg"
+        },
+        {
+            "nome": "Felipe Ramires Jr.",
+            "email": "malu.veloso@gmail.com",
+            "password": "jgy0oak5chdr",
+            "administrador": "false",
+            "_id": "4qcARvnp9mZbsANx"
+        },
+        {
+            "nome": "Warley de Quadros Neto",
+            "email": "liz.moreno@live.com",
+            "password": "w1ceninom1",
+            "administrador": "false",
+            "_id": "51fQmUjQX1nywXsp"
+        },
+        {
+            "nome": "Tiagosdsdsdsdsds",
+            "email": "fulano@qamail.com",
+            "password": "1234567",
+            "administrador": "false",
+            "_id": "9XvmnGW4nDpOBWyQ"
+        },
+        {
+            "nome": "Dr. Karla Muniz",
+            "email": "lucas.domingues@live.com",
+            "password": "4kg6idfcb8v3",
+            "administrador": "false",
+            "_id": "AVkRJmYCtN4Thtju"
+        },
+        {
+            "nome": "Eduarda Santana",
+            "email": "luizhenrique.danobrega@hotmail.com",
+            "password": "b65shkr5cb",
+            "administrador": "false",
+            "_id": "DfHYPhyR6UK87s7H"
+        },
+        {
+            "nome": "Harold Dietrich",
+            "email": "Quinton.Howell37@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "RfOM3SdDTITfTVr6"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "k9hChtvqN5o2arlt"
+        },
+        {
+            "nome": "Bento Aragão Neto",
+            "email": "marcia.galvao@gmail.com",
+            "password": "nxjovs33ijj",
+            "administrador": "false",
+            "_id": "yLtqP43iXmfHJSm4"
+        }
+    ]
+}

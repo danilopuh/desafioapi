@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Rod Cartwright-Block PhD",
+            "email": "horace_shanahan29@gmail.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "2WSxxv2SDaaqpPtg"
+        },
+        {
+            "nome": "Warley de Quadros Neto",
+            "email": "liz.moreno@live.com",
+            "password": "w1ceninom1",
+            "administrador": "false",
+            "_id": "51fQmUjQX1nywXsp"
+        },
+        {
+            "nome": "Tiagosdsdsdsdsds",
+            "email": "fulano@qamail.com",
+            "password": "1234567",
+            "administrador": "false",
+            "_id": "9XvmnGW4nDpOBWyQ"
+        },
+        {
+            "nome": "Eduarda Santana",
+            "email": "luizhenrique.danobrega@hotmail.com",
+            "password": "b65shkr5cb",
+            "administrador": "false",
+            "_id": "DfHYPhyR6UK87s7H"
+        },
+        {
+            "nome": "Deneval Leiria",
+            "email": "silas.gomide@hotmail.com",
+            "password": "2hvk99ieg96mhdsmd7",
+            "administrador": "false",
+            "_id": "L7ZNTBOJQ1BdDec6"
+        },
+        {
+            "nome": "Harold Dietrich",
+            "email": "Quinton.Howell37@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "RfOM3SdDTITfTVr6"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "k9hChtvqN5o2arlt"
+        }
+    ]
+}
