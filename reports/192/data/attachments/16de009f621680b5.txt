@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Calebe Simões",
+            "email": "bernardo.dapenha@bol.com.br",
+            "password": "c3d0p10vwt4bit",
+            "administrador": "false",
+            "_id": "IocgSpjBAdlNlaDI"
+        },
+        {
+            "nome": "Francis Wiza",
+            "email": "Margot.Haag6@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "Jezp1zR3ZoOu6jkG"
+        },
+        {
+            "nome": "Ana Corrêa",
+            "email": "norberto.beltrao@hotmail.com",
+            "password": "ux7l3opqeirmjs",
+            "administrador": "false",
+            "_id": "LwNlvDSHwyWNMTeM"
+        },
+        {
+            "nome": "Sirineu Veles",
+            "email": "davimiguel.sais@live.com",
+            "password": "e3pt4o2apm4g0i0zs8r",
+            "administrador": "false",
+            "_id": "MOEIfLRwJpOhwN4k"
+        },
+        {
+            "nome": "Márcia Cruz",
+            "email": "raul.espinhosa@gmail.com",
+            "password": "fo797ekee6x05smc1v",
+            "administrador": "false",
+            "_id": "XWwLPTMPWLsXbKcU"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "dG6AS9KBjZBzoobd"
+        },
+        {
+            "nome": "Lucas Duarte Jr.",
+            "email": "mariaalice.menendes@yahoo.com",
+            "password": "md04gdft5y7scjgpzou",
+            "administrador": "false",
+            "_id": "yFlPAGZEZx02UbDB"
+        }
+    ]
+}
