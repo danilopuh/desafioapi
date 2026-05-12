@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Melissa Hermingues",
+            "email": "clarice.fogaca@bol.com.br",
+            "password": "4fw9lh1gicrieiz",
+            "administrador": "false",
+            "_id": "7s5xYdhjR4wsZBcb"
+        },
+        {
+            "nome": "Pietra Mendanha",
+            "email": "pietra.costa@yahoo.com",
+            "password": "jh7c201hig5iybhp5c",
+            "administrador": "false",
+            "_id": "FkdP17cEAyzTPrJH"
+        },
+        {
+            "nome": "Felipe Jaques",
+            "email": "frederico.porteira@yahoo.com",
+            "password": "qhtavw51d5tdy7hz11i",
+            "administrador": "false",
+            "_id": "IPDxtm4objncAGnB"
+        },
+        {
+            "nome": "Taki-teste",
+            "email": "takiteste@qa.com",
+            "password": "12345",
+            "administrador": "true",
+            "_id": "NSTz4e11NiFWHIyC"
+        },
+        {
+            "nome": "Beatriz Meireles",
+            "email": "vicente.caldas@live.com",
+            "password": "j07eud9xi4p",
+            "administrador": "false",
+            "_id": "Sr09V1KNyMRqDYSM"
+        },
+        {
+            "nome": "Dr. Caio Ouriques",
+            "email": "leticia.lessa@bol.com.br",
+            "password": "p8jpdm34nh",
+            "administrador": "false",
+            "_id": "cvmhbPV9iOM1hEyw"
+        },
+        {
+            "nome": "Anne Kunde",
+            "email": "Lea_Bergnaum@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "g1Y8XeGJmbABqbr9"
+        }
+    ]
+}
