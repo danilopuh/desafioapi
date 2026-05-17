@@ -1,0 +1,103 @@
+{
+    "quantidade": 14,
+    "usuarios": [
+        {
+            "nome": "Fulano_Updated_b89feeb0",
+            "email": "fulano_updated_fb73df31@qa.com.br",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "0oeQQHiBcoIeX6b8"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Jeanette Rutherford",
+            "email": "Noah_Stracke44@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "1jWSKQxMRFhR55rO"
+        },
+        {
+            "nome": "Elisa da Maia",
+            "email": "gael.conceicao@bol.com.br",
+            "password": "15w6bnt5vdbbhq23",
+            "administrador": "false",
+            "_id": "2KJvPB16qz7ViiPw"
+        },
+        {
+            "nome": "Rodrigo Veles",
+            "email": "paula.passarinho@gmail.com",
+            "password": "pmj1vg816gt2b",
+            "administrador": "false",
+            "_id": "3bRSuhowVFwSh82U"
+        },
+        {
+            "nome": "Ana Jaques",
+            "email": "murilo.alvares@gmail.com",
+            "password": "m012znge1c0m",
+            "administrador": "false",
+            "_id": "IcY1StDbfNMmXOgQ"
+        },
+        {
+            "nome": "Socorro",
+            "email": "socorro.urias@example.com",
+            "password": "jonjon",
+            "administrador": "false",
+            "_id": "Lgu3m9y3BijwsiMC"
+        },
+        {
+            "nome": "Pedro Tobias Gabeira",
+            "email": "fernanda.modesto@yahoo.com",
+            "password": "nknn527tgvrs",
+            "administrador": "false",
+            "_id": "Q9Z75MEma3isI6mT"
+        },
+        {
+            "nome": "Fulano_69b007af",
+            "email": "fulano_3f3af88b@qa.com.br",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "R3JWQ6lLkLlBJpRd"
+        },
+        {
+            "nome": "Dra. Vicente Junqueira",
+            "email": "carloseduardo.arriaga@hotmail.com",
+            "password": "fqekmr26hewy2pi",
+            "administrador": "false",
+            "_id": "a3KIgzCadzYtfnfd"
+        },
+        {
+            "nome": "Fulano_7b249717",
+            "email": "fulano_0c2392cf@qa.com.br",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "fHuJcdO3EgvV3GPV"
+        },
+        {
+            "nome": "Fulano_31d267aa",
+            "email": "fulano_8099a8af@qa.com.br",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "feag9ZxDNYGNufCk"
+        },
+        {
+            "nome": "Marcos Lima",
+            "email": "marcos.silbeck@gmail.com",
+            "password": "556677@",
+            "administrador": "true",
+            "_id": "pXMeFVWNyIpsZP1M"
+        },
+        {
+            "nome": "Fulano_08e4968d",
+            "email": "fulano_f27eece6@qa.com.br",
+            "password": "test1234",
+            "administrador": "true",
+            "_id": "v5j5Z0NXwyDtxgJM"
+        }
+    ]
+}
