@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Usuario Actualizado",
+            "email": "actualizado@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frankb5522f98-36a2-4825-9d17-3a10d807574d@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1Pz1lRX9UVVRaBk2"
+        },
+        {
+            "nome": "Gabrielly Modesto",
+            "email": "isabelly.viana@hotmail.com",
+            "password": "9hnvv7hak68b",
+            "administrador": "false",
+            "_id": "1k4FVtPTS0SoKZi1"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "franke8d9d783-1a53-468e-ad44-afb32e02cd25@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5SXzPX3mw0Rz9Lf6"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frankcc370834-c504-4ade-9aa1-ee3a708d5d5a@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "5xUgMdDS2ToeMRGQ"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frankbdf3e4ab-9105-4eb6-a4d7-37466b90f69f@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6SGLbnPI3MutlNgE"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "gelado@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6aCO9Cw0OVfm6xU1"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frank261e4f69-3460-4bf7-ad79-c5f5f23a5465@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "6yTOC44AzYtmd3Jn"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "Otilia63@gmail.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "78LoKyebq5cbQWYE"
+        },
+        {
+            "nome": "No Name Here",
+            "email": "many@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Crvp8o6wpuHmaW1W"
+        },
+        {
+            "nome": "Kayla",
+            "email": "kayla.thomas@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "HBhgrAV8T9QElyrO"
+        },
+        {
+            "nome": "Guilherme Araujo",
+            "email": "guiaraujo1433@gmail.com",
+            "password": "3BBuhBuEQgb;5+.",
+            "administrador": "false",
+            "_id": "J1dLIOg0IIAHtu21"
+        },
+        {
+            "nome": "Miguel Bouças",
+            "email": "catarina.doprado@hotmail.com",
+            "password": "b5eu3a761",
+            "administrador": "false",
+            "_id": "JKh1l2FauEKK0i8f"
+        },
+        {
+            "nome": "Isadora Pereira",
+            "email": "louise.macieira@hotmail.com",
+            "password": "nrgrj72wx5hjttuk8b",
+            "administrador": "false",
+            "_id": "QBINRYqV2CqrIISr"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "Lolita.Lesch@yahoo.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "R0NUpNn8TExH1VWv"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "Lenore.Mraz79@hotmail.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "RAgZjo4PQxFNld6K"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "Green.Roberts@hotmail.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "TF3EpnSmHUIiwoAg"
+        },
+        {
+            "nome": "Fernanda Muniz",
+            "email": "marina.damota@live.com",
+            "password": "8d8smqz11bwf14ao9e0",
+            "administrador": "false",
+            "_id": "X75oofwYdEjDx78M"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frank0245b8ae-74cf-4c12-b484-a63ccd6b9f41@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "YoQOsvaTVC4oWzUP"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "Jaren.Wunsch82@yahoo.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "Z9cuPxnlilzRlzyN"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frankb34bda03-9cd1-4a84-8443-02d6198fcc81@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bplePRQdNHeRLYTQ"
+        },
+        {
+            "nome": "Miss Lola Purdy",
+            "email": "Mittie_Leannon@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "cgGfu0BCqkSw4BXI"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frankaf1b1ebc-a654-4b57-b331-b318ec7fbbf0@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "eAhEnFoNAaPlwp7p"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ixM9qgGDqI2YPNKh"
+        },
+        {
+            "nome": "Frank Pozo",
+            "email": "frank00750386-6cab-42be-89da-040615ea1416@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "lCTRs7Ao2Klij7jG"
+        },
+        {
+            "nome": "Otto",
+            "email": "otto.pesola@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "qmWhvNyCN4LnSzmP"
+        },
+        {
+            "nome": "Henry Pedroso",
+            "email": "talita.alves@hotmail.com",
+            "password": "nz1s2xsy79vd",
+            "administrador": "false",
+            "_id": "u9rib6OKMrxbOXBh"
+        }
+    ]
+}
