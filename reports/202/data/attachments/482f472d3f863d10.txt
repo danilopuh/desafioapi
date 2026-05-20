@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sílvia Casqueira",
+            "email": "emanuelly.ximenes@live.com",
+            "password": "inldjn8lgbzi1u33s05",
+            "administrador": "false",
+            "_id": "3boAjAw7ZyjNBAzI"
+        },
+        {
+            "nome": "Janis Hilll",
+            "email": "Antwan27@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "BGFQk8eZ3JPl6Kvx"
+        },
+        {
+            "nome": "Murilo Lobos",
+            "email": "isabella.dapaz@gmail.com",
+            "password": "qvmtk5yc",
+            "administrador": "false",
+            "_id": "OYJFzE0PgX5dLjXI"
+        },
+        {
+            "nome": "Srta. Bárbara Macedo",
+            "email": "sophia.rego@hotmail.com",
+            "password": "ujrhdbdpibc9hi493",
+            "administrador": "false",
+            "_id": "TMCPjIFvdZKnJkFd"
+        },
+        {
+            "nome": "Maria Helena Madeira Filho",
+            "email": "alicia.ouriques@hotmail.com",
+            "password": "acn2pwyl73l8",
+            "administrador": "false",
+            "_id": "XNZfqAz7EU7LqSqX"
+        },
+        {
+            "nome": "João Vitor da Terra Filho",
+            "email": "morgana.aguiar@hotmail.com",
+            "password": "l88ctiu47m0ssz1l",
+            "administrador": "false",
+            "_id": "dKA1If9aicaSiySV"
+        },
+        {
+            "nome": "Yago Teles",
+            "email": "natalia.longuinho@bol.com.br",
+            "password": "7epoir51bpfguuunqn3",
+            "administrador": "false",
+            "_id": "lduq3XFbOQOdQqn1"
+        }
+    ]
+}
