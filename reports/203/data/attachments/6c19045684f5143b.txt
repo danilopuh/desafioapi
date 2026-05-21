@@ -1,0 +1,187 @@
+{
+    "quantidade": 26,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teresa",
+            "email": "teresa.campos@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "2Pf6qpzlS4s4V6L3"
+        },
+        {
+            "nome": "lcsilva1962@gmail.com",
+            "email": "lcsilva1962@gmail.com",
+            "password": "Eld@mt8034",
+            "administrador": "true",
+            "_id": "41d9Xo9pwsanvdQX"
+        },
+        {
+            "nome": "admin",
+            "email": "admin@gmail.com",
+            "password": "admin",
+            "administrador": "true",
+            "_id": "5VP7YmUNEZ1GGlNu"
+        },
+        {
+            "nome": "Ramon",
+            "email": "ramon.santana@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "5tdWBZXjOFwZUmPr"
+        },
+        {
+            "nome": "Teste Curso ABC",
+            "email": "testando@qa.com.br",
+            "password": "123",
+            "administrador": "true",
+            "_id": "6JU7nMeEGLiMPM2L"
+        },
+        {
+            "nome": "Testando2026",
+            "email": "mv@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6NT7Vc9oTmEVbfh4"
+        },
+        {
+            "nome": "Nanna",
+            "email": "nanna.mortensen@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "9xzkxxMxhipf88Ne"
+        },
+        {
+            "nome": "Novo 1779325769531",
+            "email": "novo1779325769531@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "CwPVK0cfpaVzHhAm"
+        },
+        {
+            "nome": "Novo 1779326600375",
+            "email": "novo1779326600375@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "GfOSwZmIdfQaOKpx"
+        },
+        {
+            "nome": "Teste Danilo",
+            "email": "daniloteste@gmail.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "L7d0vWe19ieB1lz4"
+        },
+        {
+            "nome": "Novo 1779326564201",
+            "email": "novo1779326564201@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "N1QLI1v7Hzedu05W"
+        },
+        {
+            "nome": "Ron Murazik",
+            "email": "Dina.Hane@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "PGN7P2Is0m4qKgb6"
+        },
+        {
+            "nome": "Meire Leiria Neto",
+            "email": "yasmin.goulart@live.com",
+            "password": "yyle78r6e3vc",
+            "administrador": "false",
+            "_id": "PeyNuanWp2fUs45G"
+        },
+        {
+            "nome": "Jason",
+            "email": "jason.carpenter@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "Uca6xtfWBxgCwC68"
+        },
+        {
+            "nome": "João Victor Barata Neto",
+            "email": "beatriz.dorneles@live.com",
+            "password": "4hupnal753ptzw7",
+            "administrador": "false",
+            "_id": "W3zUvK63EuUSO3oZ"
+        },
+        {
+            "nome": "پارمیس",
+            "email": "prmys.shylyrd@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "aoQDWNxKzYCea9yy"
+        },
+        {
+            "nome": "Novo 1779326251352",
+            "email": "novo1779326251352@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "biZblJqOU8c6kRlj"
+        },
+        {
+            "nome": "Novo 1779326512167",
+            "email": "novo1779326512167@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "fK3RN43TGR9ic6qn"
+        },
+        {
+            "nome": "testecypress",
+            "email": "testecypress@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "i1T5J7zjsn6ywE1Z"
+        },
+        {
+            "nome": "Lorraine Madeira",
+            "email": "bianca.jaques@hotmail.com",
+            "password": "02p2r2mwa",
+            "administrador": "false",
+            "_id": "iC3hmqcBUiMayaC5"
+        },
+        {
+            "nome": "Leandro",
+            "email": "leandro.magalhaes@ufma.br",
+            "password": "12345678",
+            "administrador": "false",
+            "_id": "johd9jNaI7p0qprt"
+        },
+        {
+            "nome": "Simon",
+            "email": "simon.andersen@example.com",
+            "password": "TesteTeste",
+            "administrador": "false",
+            "_id": "mnOfv9fcED4xIAhx"
+        },
+        {
+            "nome": "Sr. Maria Isis Taveira",
+            "email": "tiago.danobrega@hotmail.com",
+            "password": "i1ulpwm2l4w",
+            "administrador": "false",
+            "_id": "p48r6Ki8pdIE0wMq"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "pRizlrcmeA05uQ3O"
+        },
+        {
+            "nome": "Teste Curso ABC",
+            "email": "testando20@qa.com.br",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "smUnnsOrLnkQDQkm"
+        }
+    ]
+}
