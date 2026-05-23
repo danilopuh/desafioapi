@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luiz Gustavo Teles",
+            "email": "vinicius.diegues@yahoo.com",
+            "password": "6vqqgzqz6e",
+            "administrador": "false",
+            "_id": "3xWCWq54ybp3P4g1"
+        },
+        {
+            "nome": "Letícia Braga Filho",
+            "email": "helio.martim@hotmail.com",
+            "password": "nwzrgiubapk02ri5",
+            "administrador": "false",
+            "_id": "49iAFbiRPhZv1Di6"
+        },
+        {
+            "nome": "Carlos",
+            "email": "carlos6@gmail.com",
+            "password": "abc123",
+            "administrador": "true",
+            "_id": "4QdQShCX0sQI64WX"
+        },
+        {
+            "nome": "Mateo",
+            "email": "mateo6@gmail.com",
+            "password": "ghi345",
+            "administrador": "true",
+            "_id": "7S0Ca3t8QBxJsUgm"
+        },
+        {
+            "nome": "Valeria",
+            "email": "valeria6@gmail.com",
+            "password": "jkl456",
+            "administrador": "true",
+            "_id": "983VYP6OtoVNtT32"
+        },
+        {
+            "nome": "Vicente Xavier",
+            "email": "marcos.batista@bol.com.br",
+            "password": "zizkec5y",
+            "administrador": "false",
+            "_id": "Isb3IovLfmk3Cfeb"
+        },
+        {
+            "nome": "Diego7",
+            "email": "diego14@gmail.com",
+            "password": "13",
+            "administrador": "true",
+            "_id": "LpDWjULSgun47f7g"
+        },
+        {
+            "nome": "Diegi",
+            "email": "diego3@gmail.com",
+            "password": "3",
+            "administrador": "true",
+            "_id": "NBwUF2C3KVbMB8Mh"
+        },
+        {
+            "nome": "Sabrina Stehr MD",
+            "email": "Easton.Schinner@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "PmE9r5Zwx8zyF8mz"
+        },
+        {
+            "nome": "Diegl",
+            "email": "diego4@gmail.com",
+            "password": "4",
+            "administrador": "true",
+            "_id": "U2zU88gUQ2TaHyUC"
+        },
+        {
+            "nome": "Sr. Pietro Viana",
+            "email": "celia.soeira@bol.com.br",
+            "password": "voeokec9gobev",
+            "administrador": "false",
+            "_id": "UJthkXkhg4m7QjG5"
+        },
+        {
+            "nome": "Diego1",
+            "email": "diego8@gmail.com",
+            "password": "7",
+            "administrador": "true",
+            "_id": "UQ1Qufc8qqatMuWy"
+        },
+        {
+            "nome": "Diego2",
+            "email": "diego9@gmail.com",
+            "password": "8",
+            "administrador": "true",
+            "_id": "V0K6uhxJv8b2ZtdU"
+        },
+        {
+            "nome": "Sofia",
+            "email": "sofia6@gmail.com",
+            "password": "def234",
+            "administrador": "true",
+            "_id": "YOx0mYafoypFudn2"
+        },
+        {
+            "nome": "Diego8",
+            "email": "diego15@gmail.com",
+            "password": "14",
+            "administrador": "true",
+            "_id": "YZJop0lMIQ4VpAdh"
+        },
+        {
+            "nome": "João Silveira",
+            "email": "stella.jaques@bol.com.br",
+            "password": "i5d60hgecqrk2vu",
+            "administrador": "false",
+            "_id": "awkzadRuCOvyMeiz"
+        },
+        {
+            "nome": "Diegu",
+            "email": "diego5@gmail.com",
+            "password": "5",
+            "administrador": "true",
+            "_id": "fMyiVHfiiJDNHolq"
+        },
+        {
+            "nome": "Dego",
+            "email": "diego1@gmail.com",
+            "password": "1",
+            "administrador": "true",
+            "_id": "g814kEA86pe8many"
+        },
+        {
+            "nome": "Diego",
+            "email": "diego6@gmail.com",
+            "password": "mno567",
+            "administrador": "true",
+            "_id": "gwdENntWhM0TMVLf"
+        },
+        {
+            "nome": "Srta. Vinicius Bittencourt",
+            "email": "otavio.grotas@bol.com.br",
+            "password": "0v7d85x5",
+            "administrador": "false",
+            "_id": "iJnYxKAGYHYRRFYU"
+        },
+        {
+            "nome": "Diega",
+            "email": "diego7@gmail.com",
+            "password": "6",
+            "administrador": "true",
+            "_id": "lHZXGKa5Ikd0yuMu"
+        },
+        {
+            "nome": "Dieg",
+            "email": "diego2@gmail.com",
+            "password": "2",
+            "administrador": "true",
+            "_id": "ohIgElBQtC751Y8A"
+        },
+        {
+            "nome": "Diego3",
+            "email": "diego10@gmail.com",
+            "password": "9",
+            "administrador": "true",
+            "_id": "opLGhF4Uiz04f1fd"
+        },
+        {
+            "nome": "Diego6",
+            "email": "diego13@gmail.com",
+            "password": "12",
+            "administrador": "true",
+            "_id": "oppK8KOF5vl6Ge7Q"
+        },
+        {
+            "nome": "Diego4",
+            "email": "diego11@gmail.com",
+            "password": "10",
+            "administrador": "true",
+            "_id": "rwfyefY0cpFxvees"
+        },
+        {
+            "nome": "Diego5",
+            "email": "diego12@gmail.com",
+            "password": "11",
+            "administrador": "true",
+            "_id": "vOIte3czVYmgP0oM"
+        }
+    ]
+}
