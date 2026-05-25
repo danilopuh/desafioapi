@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Ttt Sarkis",
+            "email": "ttreste@satsa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "0cGel1YbvNKcgudY"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luke Teixeira",
+            "email": "luke@gato.com",
+            "password": "gatinho",
+            "administrador": "true",
+            "_id": "1BhnkppNqxIiCCNs"
+        },
+        {
+            "nome": "Leia Teixeira",
+            "email": "leia@gato.com",
+            "password": "gatinha",
+            "administrador": "true",
+            "_id": "8aaHmvnujhBE9P5d"
+        },
+        {
+            "nome": "Pietro Ximenes",
+            "email": "silas.ribas@live.com",
+            "password": "h4fph6p1iw9lqvk7",
+            "administrador": "false",
+            "_id": "9zPmOAdBQtn1Lfpb"
+        },
+        {
+            "nome": "Sr. Isabella Barreto",
+            "email": "gabriel@qa.com",
+            "password": "357837",
+            "administrador": "true",
+            "_id": "FMynRcfUG5pywezt"
+        },
+        {
+            "nome": "Vinicius QA",
+            "email": "viniciusqa777@test.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Wes6DJRVC9vRrEOv"
+        },
+        {
+            "nome": "Emerson",
+            "email": "ercastro.qa@gmail.com",
+            "password": "Testqa..",
+            "administrador": "true",
+            "_id": "YJHJytDDVwxPSWO7"
+        },
+        {
+            "nome": "Danilo Barreto",
+            "email": "clarice.pires@yahoo.com",
+            "password": "rr5a84i6",
+            "administrador": "false",
+            "_id": "lUy64ZF6m7OSgZTk"
+        },
+        {
+            "nome": "Pietro Veloso",
+            "email": "joaoguilherme.campos@live.com",
+            "password": "ufhdtobx7skszm",
+            "administrador": "false",
+            "_id": "lnlqOF9njQLoVRd1"
+        },
+        {
+            "nome": "Ivan Mueller III",
+            "email": "Annetta.Schuppe31@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "yDvBdJMe6u2xoQYv"
+        }
+    ]
+}

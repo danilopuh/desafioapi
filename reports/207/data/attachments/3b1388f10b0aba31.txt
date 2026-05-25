@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Ttt Sarkis",
+            "email": "ttreste@satsa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "0cGel1YbvNKcgudY"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luke Teixeira",
+            "email": "luke@gato.com",
+            "password": "gatinho",
+            "administrador": "true",
+            "_id": "1BhnkppNqxIiCCNs"
+        },
+        {
+            "nome": "Dr. Ladislau Oliveira",
+            "email": "mariasophia.matoso@gmail.com",
+            "password": "5p56fpeam",
+            "administrador": "false",
+            "_id": "6BoNmtAqNPZbgbiR"
+        },
+        {
+            "nome": "Leia Teixeira",
+            "email": "leia@gato.com",
+            "password": "gatinha",
+            "administrador": "true",
+            "_id": "8aaHmvnujhBE9P5d"
+        },
+        {
+            "nome": "Sr. Isabella Barreto",
+            "email": "gabriel@qa.com",
+            "password": "357837",
+            "administrador": "true",
+            "_id": "FMynRcfUG5pywezt"
+        },
+        {
+            "nome": "Vinicius QA",
+            "email": "viniciusqa777@test.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Wes6DJRVC9vRrEOv"
+        },
+        {
+            "nome": "Emerson",
+            "email": "ercastro.qa@gmail.com",
+            "password": "Testqa..",
+            "administrador": "true",
+            "_id": "YJHJytDDVwxPSWO7"
+        },
+        {
+            "nome": "Ivan Mueller III",
+            "email": "Annetta.Schuppe31@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "yDvBdJMe6u2xoQYv"
+        }
+    ]
+}
