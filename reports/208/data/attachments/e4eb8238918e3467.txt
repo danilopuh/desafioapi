@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "usuario 7773",
+            "email": "usuariotemporal8699@alexis.com",
+            "password": "contrasenia1999",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Deneval da Fronteira",
+            "email": "benicio.banheira@hotmail.com",
+            "password": "b358d47gsel",
+            "administrador": "false",
+            "_id": "5howvbJf3xfLtxzf"
+        },
+        {
+            "nome": "usuario 3062",
+            "email": "usuariotemporal9414@alexis.com",
+            "password": "contrasenia9521",
+            "administrador": "true",
+            "_id": "HB6s8Z3krnAtaUh7"
+        },
+        {
+            "nome": "Jorge Wiegand",
+            "email": "Electa19@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "T5H9NNtihHmsExEv"
+        },
+        {
+            "nome": "Fulano Camacho",
+            "email": "well@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TUN9cFbmVGnuejBr"
+        },
+        {
+            "nome": "Ciclano da Cruz",
+            "email": "cruz@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ms7Kbhn3OKgfKCaW"
+        }
+    ]
+}

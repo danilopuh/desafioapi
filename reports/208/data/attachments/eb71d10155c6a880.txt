@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "usuario 7773",
+            "email": "usuariotemporal8699@alexis.com",
+            "password": "contrasenia1999",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Allana Caldeira",
+            "email": "mariaclara.teles@yahoo.com",
+            "password": "stcsevlh1phl5h3mm",
+            "administrador": "false",
+            "_id": "9t7gf8P8gwjtfuH2"
+        },
+        {
+            "nome": "Larissa Godinho",
+            "email": "larissa.barreira@yahoo.com",
+            "password": "srpx0ynw7y",
+            "administrador": "false",
+            "_id": "DhM4eDfPfNXMtv82"
+        },
+        {
+            "nome": "usuario 3062",
+            "email": "usuariotemporal9414@alexis.com",
+            "password": "contrasenia9521",
+            "administrador": "true",
+            "_id": "HB6s8Z3krnAtaUh7"
+        },
+        {
+            "nome": "Antonella Quaresma Filho",
+            "email": "anasophia.mangueira@bol.com.br",
+            "password": "z8jeieccpj7ze",
+            "administrador": "false",
+            "_id": "IkbMjdlnDm5N6Cnq"
+        },
+        {
+            "nome": "Jorge Wiegand",
+            "email": "Electa19@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "T5H9NNtihHmsExEv"
+        },
+        {
+            "nome": "Fulano Camacho",
+            "email": "well@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TUN9cFbmVGnuejBr"
+        },
+        {
+            "nome": "Ciclano da Cruz",
+            "email": "cruz@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ms7Kbhn3OKgfKCaW"
+        },
+        {
+            "nome": "Bárbara Leiria",
+            "email": "lucas.simoes@gmail.com",
+            "password": "q9i2m2f9o53rrl",
+            "administrador": "false",
+            "_id": "n8ZnFCc5E1VO2GFs"
+        },
+        {
+            "nome": "Samuel Godinho",
+            "email": "nathan.datena@hotmail.com",
+            "password": "5fahtd36ajozfkqtmee",
+            "administrador": "false",
+            "_id": "yCXDEz9QCtXEg1Yw"
+        }
+    ]
+}
