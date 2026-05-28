@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Den QA Test",
+            "email": "denqatest@email.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "KZsXDteiHpl4SNi8"
+        },
+        {
+            "nome": "Isabela Cabreira Jr.",
+            "email": "adriana.daveiga@yahoo.com",
+            "password": "5rq2yzxgm9g",
+            "administrador": "false",
+            "_id": "Na7cRBaPUNN47B4g"
+        },
+        {
+            "nome": "Meire Ferreira",
+            "email": "marcos.caldas@yahoo.com",
+            "password": "uoiij5j51odykaxjl",
+            "administrador": "false",
+            "_id": "OtfftzwvcATu7OU2"
+        },
+        {
+            "nome": "Helena Rios Filho",
+            "email": "allana.pinto@gmail.com",
+            "password": "xag4qwosm9l",
+            "administrador": "false",
+            "_id": "PYFRDaXkdQxpZMLR"
+        },
+        {
+            "nome": "Sara Geraldes",
+            "email": "isadora.cruz@yahoo.com",
+            "password": "f1n1pm82a5cnn",
+            "administrador": "false",
+            "_id": "jyTb3ZiO87VxBmsd"
+        }
+    ]
+}
