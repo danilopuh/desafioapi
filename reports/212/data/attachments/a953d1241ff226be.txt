@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Carlos Eduardo Santos",
+            "email": "davimiguel.hermingues@hotmail.com",
+            "password": "zwfbth7mtneky",
+            "administrador": "false",
+            "_id": "R5ww37BNsgk6xdqs"
+        },
+        {
+            "nome": "Dr. Alessandro Garcês",
+            "email": "celia.velasques@bol.com.br",
+            "password": "pppc470s02",
+            "administrador": "false",
+            "_id": "Y0SrDXjNUWHASX5v"
+        },
+        {
+            "nome": "Tom Feest",
+            "email": "Archibald46@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "aZud9jHHMXHMOhMC"
+        },
+        {
+            "nome": "Sr. Carolina Matoso",
+            "email": "laura.parreira@yahoo.com",
+            "password": "2xj1fzwka808dbf41n0",
+            "administrador": "false",
+            "_id": "gA2oMcGcVr0UVZqv"
+        },
+        {
+            "nome": "Enzo Miguel Xavier",
+            "email": "bruna.assumpcao@yahoo.com",
+            "password": "5d4c4l9sk05quif",
+            "administrador": "false",
+            "_id": "koNyttCai3yj0qmS"
+        },
+        {
+            "nome": "Enzo Gabriel Mendanha",
+            "email": "gustavo.conceicao@live.com",
+            "password": "jzlzdpv8n95",
+            "administrador": "false",
+            "_id": "tqzuLFo1JQN38lKS"
+        }
+    ]
+}
