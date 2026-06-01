@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Test 1780283803865",
+            "email": "usuario1780283803865@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "EhxHu5PUcSzp7aZg"
+        },
+        {
+            "nome": "Usuario Test 1780283802304",
+            "email": "usuario1780283802304@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "LJm0VrIIk58TUfjE"
+        },
+        {
+            "nome": "Lucas Gabriel Conceição",
+            "email": "janaina.filgueira@yahoo.com",
+            "password": "c41yk6bqtvz",
+            "administrador": "false",
+            "_id": "R6osx9IksRGxWvqf"
+        },
+        {
+            "nome": "Luiz Miguel Coqueiro Jr.",
+            "email": "felix.cerqueira@gmail.com",
+            "password": "7fkf4lgdmqd8w053n",
+            "administrador": "false",
+            "_id": "UBv8StooVl372wMR"
+        },
+        {
+            "nome": "Usuario Test 1780283800976",
+            "email": "usuario1780283800976@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "Zcjxt9sfHOB3r5nN"
+        },
+        {
+            "nome": "Usuario Test 1780283800373",
+            "email": "usuario1780283800373@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "c8pOzprF5j9UJaac"
+        },
+        {
+            "nome": "Srta. Vitor Galvão",
+            "email": "feliciano.antena@live.com",
+            "password": "v55p7eh822gezwfvyh",
+            "administrador": "false",
+            "_id": "cmIm7LAFMp7xViwZ"
+        },
+        {
+            "nome": "Usuario Test 1780283811025",
+            "email": "usuario1780283811025@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "duAjhmBevmetd0BH"
+        },
+        {
+            "nome": "Usuario Test 1780283810426",
+            "email": "usuario1780283810426@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "kIbEnMBgfgdthEzd"
+        },
+        {
+            "nome": "Paula Carneiro",
+            "email": "ricardo.martins@live.com",
+            "password": "9udl48b4z0vs1",
+            "administrador": "false",
+            "_id": "u0rv1eEzTjZrTSyb"
+        },
+        {
+            "nome": "Usuario Test 1780283801718",
+            "email": "usuario1780283801718@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "wyYqL4CDR7ulUK0F"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Test 1780283803865",
+            "email": "usuario1780283803865@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "EhxHu5PUcSzp7aZg"
+        },
+        {
+            "nome": "Usuario Test 1780283802304",
+            "email": "usuario1780283802304@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "LJm0VrIIk58TUfjE"
+        },
+        {
+            "nome": "Luiz Miguel Coqueiro Jr.",
+            "email": "felix.cerqueira@gmail.com",
+            "password": "7fkf4lgdmqd8w053n",
+            "administrador": "false",
+            "_id": "UBv8StooVl372wMR"
+        },
+        {
+            "nome": "Sr. Aurora Quarteira",
+            "email": "davilucca.limeira@yahoo.com",
+            "password": "70kodx11p4mv704wt",
+            "administrador": "false",
+            "_id": "YAuVE3qnyXQJWoQE"
+        },
+        {
+            "nome": "Usuario Test 1780283800976",
+            "email": "usuario1780283800976@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "Zcjxt9sfHOB3r5nN"
+        },
+        {
+            "nome": "Usuario Test 1780283800373",
+            "email": "usuario1780283800373@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "c8pOzprF5j9UJaac"
+        },
+        {
+            "nome": "Usuario Test 1780283811025",
+            "email": "usuario1780283811025@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "duAjhmBevmetd0BH"
+        },
+        {
+            "nome": "Usuario Test 1780283810426",
+            "email": "usuario1780283810426@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "kIbEnMBgfgdthEzd"
+        },
+        {
+            "nome": "Usuario Test 1780283801718",
+            "email": "usuario1780283801718@teste.com",
+            "password": "senha@123",
+            "administrador": "true",
+            "_id": "wyYqL4CDR7ulUK0F"
+        }
+    ]
+}
