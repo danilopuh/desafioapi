@@ -1,0 +1,131 @@
+{
+    "quantidade": 18,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sr. Enrico Matoso",
+            "email": "heloisa.barata@bol.com.br",
+            "password": "vrizpzuyfp",
+            "administrador": "false",
+            "_id": "2C2UvalamD3UxcWW"
+        },
+        {
+            "nome": "Carla Hermingues Filho",
+            "email": "emilly.ordonhes@gmail.com",
+            "password": "cybbkepwe2ncmq",
+            "administrador": "false",
+            "_id": "9dsDPwmuWW5tHtxo"
+        },
+        {
+            "nome": "Luiz Otávio Cruz Filho",
+            "email": "pedromiguel.rolim@bol.com.br",
+            "password": "fhti96q04ljxqs",
+            "administrador": "false",
+            "_id": "B9YF0eQkKMOTq55R"
+        },
+        {
+            "nome": "Alessandro Moreno",
+            "email": "leticia.boucas@live.com",
+            "password": "vw3ujudpoyvo83c53g",
+            "administrador": "false",
+            "_id": "E7L4cWfUINcPyVys"
+        },
+        {
+            "nome": "Alessandra Marins",
+            "email": "alice.barata@live.com",
+            "password": "ttt7uof8y5aoklkrs3",
+            "administrador": "false",
+            "_id": "GQ11FKMk4bkUGKvW"
+        },
+        {
+            "nome": "Bruna Barbosa",
+            "email": "stella.caldeira@live.com",
+            "password": "0g3xeu68vbky9",
+            "administrador": "false",
+            "_id": "HRWS8lFajAwMawWq"
+        },
+        {
+            "nome": "Maria Vitória Garcês",
+            "email": "ofelia.carvalheira@live.com",
+            "password": "muppcpgum2r",
+            "administrador": "false",
+            "_id": "HmGRrL1ffgkEJvo5"
+        },
+        {
+            "nome": "Joana Amoreira Neto",
+            "email": "noah.ferreira@yahoo.com",
+            "password": "hbicous8rh",
+            "administrador": "false",
+            "_id": "KQqdlXK9b3EJnxNR"
+        },
+        {
+            "nome": "Yago Rezende",
+            "email": "lavinia.sanches@yahoo.com",
+            "password": "p3gcej6wo",
+            "administrador": "false",
+            "_id": "QUS9HP6Nhl9rIFcH"
+        },
+        {
+            "nome": "Francisca Siqueira",
+            "email": "deneval.ramires@yahoo.com",
+            "password": "9w9t1rqgvfcy",
+            "administrador": "true",
+            "_id": "VGlAs7a6ttqke0Hf"
+        },
+        {
+            "nome": "Dalila Arriaga",
+            "email": "isabelly.neves@hotmail.com",
+            "password": "96u4m1qd4i",
+            "administrador": "true",
+            "_id": "ZyHKrB2G70fYgMUb"
+        },
+        {
+            "nome": "Gabrielly Mangueira",
+            "email": "adriana.velasques@yahoo.com",
+            "password": "z3uh4nhn758zc",
+            "administrador": "false",
+            "_id": "a3E6H70y9smOZW8w"
+        },
+        {
+            "nome": "Dr. Júlia Modesto",
+            "email": "antonia.damadureira@bol.com.br",
+            "password": "tmf23kprf82tqe",
+            "administrador": "false",
+            "_id": "brOulG3FGbJHIHrd"
+        },
+        {
+            "nome": "Ofélia Mendanha",
+            "email": "tiago.peres@yahoo.com",
+            "password": "jihssymyzj0aeau26",
+            "administrador": "false",
+            "_id": "c1bpbYDDexQbGhXd"
+        },
+        {
+            "nome": "João Samuel Ferraço",
+            "email": "felicia.ramalho@gmail.com",
+            "password": "0cuy6i3hamv8pud",
+            "administrador": "false",
+            "_id": "fBokDB5jzm7Hqh9E"
+        },
+        {
+            "nome": "Deneval Quarteira",
+            "email": "luizmiguel.monteira@bol.com.br",
+            "password": "lv1r86m2aj5",
+            "administrador": "false",
+            "_id": "hLS2kGP3YeEvCyGf"
+        },
+        {
+            "nome": "Fulano 02 ",
+            "email": "teste@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "q9IWdEtSyA2nr8Wa"
+        }
+    ]
+}

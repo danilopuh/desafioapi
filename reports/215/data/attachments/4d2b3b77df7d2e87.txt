@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Carla Hermingues Filho",
+            "email": "emilly.ordonhes@gmail.com",
+            "password": "cybbkepwe2ncmq",
+            "administrador": "false",
+            "_id": "9dsDPwmuWW5tHtxo"
+        },
+        {
+            "nome": "Luiz Otávio Cruz Filho",
+            "email": "pedromiguel.rolim@bol.com.br",
+            "password": "fhti96q04ljxqs",
+            "administrador": "false",
+            "_id": "B9YF0eQkKMOTq55R"
+        },
+        {
+            "nome": "Alessandro Moreno",
+            "email": "leticia.boucas@live.com",
+            "password": "vw3ujudpoyvo83c53g",
+            "administrador": "false",
+            "_id": "E7L4cWfUINcPyVys"
+        },
+        {
+            "nome": "Alessandra Marins",
+            "email": "alice.barata@live.com",
+            "password": "ttt7uof8y5aoklkrs3",
+            "administrador": "false",
+            "_id": "GQ11FKMk4bkUGKvW"
+        },
+        {
+            "nome": "Bruna Barbosa",
+            "email": "stella.caldeira@live.com",
+            "password": "0g3xeu68vbky9",
+            "administrador": "false",
+            "_id": "HRWS8lFajAwMawWq"
+        },
+        {
+            "nome": "Joana Amoreira Neto",
+            "email": "noah.ferreira@yahoo.com",
+            "password": "hbicous8rh",
+            "administrador": "false",
+            "_id": "KQqdlXK9b3EJnxNR"
+        },
+        {
+            "nome": "Francisca Siqueira",
+            "email": "deneval.ramires@yahoo.com",
+            "password": "9w9t1rqgvfcy",
+            "administrador": "true",
+            "_id": "VGlAs7a6ttqke0Hf"
+        },
+        {
+            "nome": "Gabrielly Mangueira",
+            "email": "adriana.velasques@yahoo.com",
+            "password": "z3uh4nhn758zc",
+            "administrador": "false",
+            "_id": "a3E6H70y9smOZW8w"
+        },
+        {
+            "nome": "Deneval Quarteira",
+            "email": "luizmiguel.monteira@bol.com.br",
+            "password": "lv1r86m2aj5",
+            "administrador": "false",
+            "_id": "hLS2kGP3YeEvCyGf"
+        },
+        {
+            "nome": "Fulano 02 ",
+            "email": "teste@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "q9IWdEtSyA2nr8Wa"
+        }
+    ]
+}

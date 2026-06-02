@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dr. Antonella Pinheira",
+            "email": "maria.viana@hotmail.com",
+            "password": "co40bigv9aec4q",
+            "administrador": "false",
+            "_id": "6AXjn8SYs0xZHwvV"
+        },
+        {
+            "nome": "Fulano 02 ",
+            "email": "teste@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "q9IWdEtSyA2nr8Wa"
+        }
+    ]
+}
