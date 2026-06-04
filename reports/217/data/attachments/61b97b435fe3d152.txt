@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Allana Marques Neto",
+            "email": "maya.macedo@bol.com.br",
+            "password": "h85jkimz",
+            "administrador": "false",
+            "_id": "9zDDmRUn7LKwSopK"
+        },
+        {
+            "nome": "User Number 1492",
+            "email": "name.1492@qa.com",
+            "password": "teste&789",
+            "administrador": "true",
+            "_id": "EPzduiXMrT7Ld9iH"
+        },
+        {
+            "nome": "César Ribas Filho",
+            "email": "arthur.ferreira@gmail.com",
+            "password": "734m7u2ym90kfo2ff5",
+            "administrador": "false",
+            "_id": "M4HTOLJgN7sjvQyC"
+        },
+        {
+            "nome": "Sr. Allana Gomide",
+            "email": "kleber.soeira@bol.com.br",
+            "password": "tz8cgrzk6ryt7igfve",
+            "administrador": "false",
+            "_id": "Pzb2Cgp5eL2KVhFr"
+        },
+        {
+            "nome": "Marcos Soares",
+            "email": "malu.conceicao@live.com",
+            "password": "ksi3z0m3hnaytx44",
+            "administrador": "false",
+            "_id": "fCCWV9GHRg4mgIGw"
+        },
+        {
+            "nome": "Vinicius Godins",
+            "email": "karla.carreira@yahoo.com",
+            "password": "ye6np186214gq",
+            "administrador": "false",
+            "_id": "k2nPdWVKQATQnNQ8"
+        },
+        {
+            "nome": "Olivia Bode",
+            "email": "Rasheed_Mills@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "nA91m4vLtRmSwKcN"
+        },
+        {
+            "nome": "User Number 6448",
+            "email": "name.6448@qa.com",
+            "password": "teste&789",
+            "administrador": "true",
+            "_id": "ooUDAAj6y0skExlo"
+        },
+        {
+            "nome": "User Number 4620",
+            "email": "name.4620@qa.com",
+            "password": "teste&789",
+            "administrador": "true",
+            "_id": "tu7UWWhg6t2PZKUz"
+        }
+    ]
+}
