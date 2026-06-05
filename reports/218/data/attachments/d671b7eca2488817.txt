@@ -1,0 +1,40 @@
+{
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Conrad Kiehn",
+            "email": "Jamil43@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "JB7Iu00ac5gOenrg"
+        },
+        {
+            "nome": "Maitê Souza",
+            "email": "ryan.castro@gmail.com",
+            "password": "42l8hyqorftjh1",
+            "administrador": "false",
+            "_id": "MrOMlrXc7qlFgE0R"
+        },
+        {
+            "nome": "João Menendes",
+            "email": "eloah.pinto@live.com",
+            "password": "lep502sf08xu3c8",
+            "administrador": "false",
+            "_id": "mK1yp1te39HIELk8"
+        },
+        {
+            "nome": "Teste Automação Alteração",
+            "email": "Automaçãoalteração@gmail.com",
+            "password": "testealteração01",
+            "administrador": "false",
+            "_id": "xnhw8J3AQxh8NuVk"
+        }
+    ]
+}
