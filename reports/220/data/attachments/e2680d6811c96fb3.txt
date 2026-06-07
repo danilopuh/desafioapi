@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "QA User test 1780800710967",
+            "email": "qa_usertest1780800710967@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "9zsFrbn5kWYBqNV4"
+        },
+        {
+            "nome": "QA User test 1780800710700",
+            "email": "qa_usertest1780800710700@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "HyxhvpKrRpZBNlOg"
+        },
+        {
+            "nome": "QA User test 1780800874825",
+            "email": "qa_usertest1780800874825@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "JPCSjZtsxeflye2g"
+        },
+        {
+            "nome": "Ms. Melba Morissette",
+            "email": "Leslie_Brakus@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "JXcfCJSNZyni8ENX"
+        },
+        {
+            "nome": "QA User test 1780800874494",
+            "email": "qa_usertest1780800874494@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "NmTbk8s13JQt5h1c"
+        },
+        {
+            "nome": "Admin Teste Silva",
+            "email": "admin1780801874861@qa.com",
+            "password": "teste@123",
+            "administrador": "true",
+            "_id": "TOAehy0QECvPhX0b"
+        },
+        {
+            "nome": "Murilo Vinicius Silva",
+            "email": "regular1780801869056@qa.com",
+            "password": "teste@123",
+            "administrador": "false",
+            "_id": "bxDBD1WhqTBBlFya"
+        },
+        {
+            "nome": "QA User test 1780801122721",
+            "email": "qa_usertest1780801122721@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "gUY5ZRhwKyeLmS3Y"
+        },
+        {
+            "nome": "Breno Ximenes",
+            "email": "beatriz.deassuncao@live.com",
+            "password": "48nei8qytovxmg",
+            "administrador": "false",
+            "_id": "vatXqaNkTsco1FyQ"
+        },
+        {
+            "nome": "keycianne montilha",
+            "email": "keyciannemontilha20@gmial.com",
+            "password": "keycianne06",
+            "administrador": "true",
+            "_id": "vyup1IjIaZNwbjDO"
+        },
+        {
+            "nome": "QA User test 1780801122959",
+            "email": "qa_usertest1780801122959@test.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "yk6ph94LKAygA8cJ"
+        }
+    ]
+}
