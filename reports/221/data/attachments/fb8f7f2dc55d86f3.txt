@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lorenzo Tavares",
+            "email": "feliciano.galvao@hotmail.com",
+            "password": "jtyhj6s17ov54t",
+            "administrador": "false",
+            "_id": "5dBtWxaqKOadXuVX"
+        },
+        {
+            "nome": "Francisca Mendes",
+            "email": "carla.antena@bol.com.br",
+            "password": "fe9859xb44m2s",
+            "administrador": "false",
+            "_id": "Kpw3dnNWznLoUDSl"
+        },
+        {
+            "nome": "Ana Beatriz Cabreira",
+            "email": "matheus.hermingues@yahoo.com",
+            "password": "54kf9xplceql5bbt",
+            "administrador": "false",
+            "_id": "WtCu8uTXVvNhQjHP"
+        },
+        {
+            "nome": "Vitor Produtos",
+            "email": "vitor_produtos@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "d5tazOL5TcyYzZ9T"
+        },
+        {
+            "nome": "Sandra Schuppe DDS",
+            "email": "Presley24@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "eTN09XAh0fawpWVI"
+        },
+        {
+            "nome": "Sr. Hugo Ramalho",
+            "email": "maria.xavier@bol.com.br",
+            "password": "7n7ta40uq4qvu",
+            "administrador": "false",
+            "_id": "hX0gLaJ8AzVUJRwC"
+        },
+        {
+            "nome": "Sílvia Godins",
+            "email": "ian.vimaranes@live.com",
+            "password": "vfe6pj0gn7dfxtrs",
+            "administrador": "false",
+            "_id": "igjjPcrTwjDrZfO5"
+        },
+        {
+            "nome": "Davi Luca Viveiros",
+            "email": "meire.franco@yahoo.com",
+            "password": "si32edbi2woog",
+            "administrador": "false",
+            "_id": "lGV7S4gzeQ8ToJbF"
+        }
+    ]
+}

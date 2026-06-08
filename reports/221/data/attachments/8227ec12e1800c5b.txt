@@ -1,0 +1,40 @@
+{
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Norberto Vieira",
+            "email": "julio.dasilva@live.com",
+            "password": "7yepue3wdkiv291hk",
+            "administrador": "false",
+            "_id": "JP3sSxJL4Cofoq0U"
+        },
+        {
+            "nome": "Vitor Produtos",
+            "email": "vitor_produtos@teste.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "d5tazOL5TcyYzZ9T"
+        },
+        {
+            "nome": "Sandra Schuppe DDS",
+            "email": "Presley24@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "eTN09XAh0fawpWVI"
+        },
+        {
+            "nome": "Sr. Hugo Ramalho",
+            "email": "maria.xavier@bol.com.br",
+            "password": "7n7ta40uq4qvu",
+            "administrador": "false",
+            "_id": "hX0gLaJ8AzVUJRwC"
+        }
+    ]
+}
