@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Márcia Paiva",
+            "email": "ruan.antena@hotmail.com",
+            "password": "j1e4c3av1o",
+            "administrador": "false",
+            "_id": "1TCblSw3K63sef4I"
+        },
+        {
+            "nome": "Darnell Zieme DVM",
+            "email": "Arne_Marvin13@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "2vZOomuaqT24VjMY"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "pvcz@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "MqdIDXtHBra0Pqb5"
+        },
+        {
+            "nome": "calie",
+            "email": "calielbaena@gmail.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "SKLH4dIsVGJ2AHua"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "egfn@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "XfDDpN0Gn1nnijJ5"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "prpq@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "ni91LLYuBP8TsAD9"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "wxrz@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "qkJR9ffaj4CXf4aW"
+        }
+    ]
+}
