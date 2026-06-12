@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "QA Admin Teste 742",
+            "email": "qa.admin.teste742@example.com",
+            "password": "QAadmin@742",
+            "administrador": "true",
+            "_id": "991LPqOHw9C7zee9"
+        },
+        {
+            "nome": "Dr. Vitória Veloso",
+            "email": "pedrolucas.boucas@gmail.com",
+            "password": "tb17w7nc85567",
+            "administrador": "false",
+            "_id": "F7pSpmwMa4evIRUF"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "FTnxIc8smtAoatP6"
+        },
+        {
+            "nome": "Meire Brum",
+            "email": "larissa.paes@live.com",
+            "password": "bl6trsolyflvihd4",
+            "administrador": "false",
+            "_id": "SjmvNaX1WUF6icHi"
+        },
+        {
+            "nome": "Verna Thiel",
+            "email": "Consuelo42@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "gKp7NVSdW8O90eRy"
+        },
+        {
+            "nome": "Maria Alice dos Reis",
+            "email": "rafaela.rodrigues@bol.com.br",
+            "password": "c1r3ey3kpdqm6",
+            "administrador": "false",
+            "_id": "ll8QTVWHFaPPvUg8"
+        },
+        {
+            "nome": "Maria Laura Figueira",
+            "email": "vinicius.vidal@gmail.com",
+            "password": "ufel6p53tmhr2jib9x",
+            "administrador": "false",
+            "_id": "m6HbqW7dEkptINs1"
+        },
+        {
+            "nome": "Tomás da Cruz",
+            "email": "vinicius.coqueiro@live.com",
+            "password": "17ye0j0kgwgz8th06",
+            "administrador": "false",
+            "_id": "mKc6aN2mlZhyOtll"
+        },
+        {
+            "nome": "Nene da Silva",
+            "email": "beltrano2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "terhyapfSatrjB2R"
+        }
+    ]
+}

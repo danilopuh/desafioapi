@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "QA Admin Teste 742",
+            "email": "qa.admin.teste742@example.com",
+            "password": "QAadmin@742",
+            "administrador": "true",
+            "_id": "991LPqOHw9C7zee9"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "FTnxIc8smtAoatP6"
+        },
+        {
+            "nome": "Dra. Luna Bomdia",
+            "email": "anajulia.veloso@hotmail.com",
+            "password": "qun9wizj",
+            "administrador": "false",
+            "_id": "L7tVrBwZmdXgvtk4"
+        },
+        {
+            "nome": "Verna Thiel",
+            "email": "Consuelo42@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "gKp7NVSdW8O90eRy"
+        },
+        {
+            "nome": "Nene da Silva",
+            "email": "beltrano2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "terhyapfSatrjB2R"
+        }
+    ]
+}
