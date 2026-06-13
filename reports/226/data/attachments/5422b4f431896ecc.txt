@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lucas Gabriel Fernandes",
+            "email": "joaosamuel.videira@hotmail.com",
+            "password": "a0ge2se12z9ky",
+            "administrador": "true",
+            "_id": "2MlmPHeaRAoBWEtq"
+        },
+        {
+            "nome": "Luiz Henrique Simão",
+            "email": "mariajulia.goncalves@hotmail.com",
+            "password": "sie1dglbu1",
+            "administrador": "false",
+            "_id": "5zNx7lLpDBKd9GO8"
+        },
+        {
+            "nome": "Henrique Nascimento",
+            "email": "eduardo.videira@yahoo.com",
+            "password": "fxyxqev45cww",
+            "administrador": "false",
+            "_id": "9bvRKvb0Bhkgc7m4"
+        },
+        {
+            "nome": "Vicente Laranjeira",
+            "email": "mariafernanda.rocha@bol.com.br",
+            "password": "ijquvusb6agl2msw56d",
+            "administrador": "false",
+            "_id": "Cs6FZLpW4jvJ6Th8"
+        },
+        {
+            "nome": "Sr. Daniel Meireles",
+            "email": "marcela.roseira@hotmail.com",
+            "password": "19hcgzb8mwopuv7",
+            "administrador": "true",
+            "_id": "L2RTzLsaxWOCCkr2"
+        },
+        {
+            "nome": "Bernardo Aragão",
+            "email": "aline.saraiva@yahoo.com",
+            "password": "f1ot3mtmv5",
+            "administrador": "false",
+            "_id": "n6hVE3odCpEQta3s"
+        }
+    ]
+}
