@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sra. Isabela Santana",
+            "email": "benicio.saraiva@live.com",
+            "password": "1qtoi4g3",
+            "administrador": "false",
+            "_id": "FdG3On1de6cvdddD"
+        },
+        {
+            "nome": "Pedro Tobias Nogueira",
+            "email": "kleber.roseira@gmail.com",
+            "password": "kwoi8nontowz",
+            "administrador": "false",
+            "_id": "O5Z5lncrlK3ujUp7"
+        },
+        {
+            "nome": "Joaquim Raia",
+            "email": "isabela.barata@yahoo.com",
+            "password": "g5l4er5bi5ndby",
+            "administrador": "false",
+            "_id": "WPS1jLzIh4BhN88n"
+        },
+        {
+            "nome": "Luiz Henrique Rodrigues",
+            "email": "dalila.roriz@gmail.com",
+            "password": "in3isfgcxhh99gj",
+            "administrador": "false",
+            "_id": "iIoxzguVvnDwTXrN"
+        },
+        {
+            "nome": "Flora Pouros",
+            "email": "Freda48@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "ifuJOTBLqfgC0Zmk"
+        },
+        {
+            "nome": "Amanda Ouriques",
+            "email": "silas.menendes@hotmail.com",
+            "password": "2kdjbq4tothjon3n7",
+            "administrador": "false",
+            "_id": "nLWvnCZ4ujCAZwqm"
+        },
+        {
+            "nome": "Testonildo",
+            "email": "Testonildo@tuamaeaquelaursa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "qxczyQ0qMThuIvye"
+        }
+    ]
+}

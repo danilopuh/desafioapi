@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sra. Isabela Santana",
+            "email": "benicio.saraiva@live.com",
+            "password": "1qtoi4g3",
+            "administrador": "false",
+            "_id": "FdG3On1de6cvdddD"
+        },
+        {
+            "nome": "Pedro Tobias Nogueira",
+            "email": "kleber.roseira@gmail.com",
+            "password": "kwoi8nontowz",
+            "administrador": "false",
+            "_id": "O5Z5lncrlK3ujUp7"
+        },
+        {
+            "nome": "Flora Pouros",
+            "email": "Freda48@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "ifuJOTBLqfgC0Zmk"
+        },
+        {
+            "nome": "João Pedro da Barra Jr.",
+            "email": "talita.viana@hotmail.com",
+            "password": "4pop2rig82j54ld",
+            "administrador": "false",
+            "_id": "laP2qM68MNmF7vCt"
+        },
+        {
+            "nome": "Amanda Ouriques",
+            "email": "silas.menendes@hotmail.com",
+            "password": "2kdjbq4tothjon3n7",
+            "administrador": "false",
+            "_id": "nLWvnCZ4ujCAZwqm"
+        },
+        {
+            "nome": "Testonildo",
+            "email": "Testonildo@tuamaeaquelaursa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "qxczyQ0qMThuIvye"
+        }
+    ]
+}
