@@ -1,0 +1,131 @@
+{
+    "quantidade": 18,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Djalma da Silva",
+            "email": "andre.almeida@hotmail.com",
+            "password": "mixrfi4did05ed8v",
+            "administrador": "false",
+            "_id": "17punDNIEYknUffe"
+        },
+        {
+            "nome": "katherine",
+            "email": "Update@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "1K2v5TSqHrSsNx4G"
+        },
+        {
+            "nome": "Howard Jenkins",
+            "email": "Asha_Champlin34@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "3UGJA0VAJI8cOOj5"
+        },
+        {
+            "nome": "katherine",
+            "email": "Update1@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "3XiCetbM2moBpBQf"
+        },
+        {
+            "nome": "Dra. Pérola Bernardes",
+            "email": "clarice.gomide@hotmail.com",
+            "password": "wde2ogrszot0",
+            "administrador": "false",
+            "_id": "4XsHtbgqDqzqvXVu"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4ou7eEyntwJxTNGJ"
+        },
+        {
+            "nome": "Feliciano da Mota",
+            "email": "emanuelly.xavier@yahoo.com",
+            "password": "fjoes7g22wn7l",
+            "administrador": "false",
+            "_id": "4wj94JlUdAuJcfY9"
+        },
+        {
+            "nome": "Francisco de Lins",
+            "email": "rafaela.garcez@gmail.com",
+            "password": "abtta20k1gdfc",
+            "administrador": "false",
+            "_id": "51Sw2arSm2M2O2Ln"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DakqMh80nCwh8b9s"
+        },
+        {
+            "nome": "Pietro Melo",
+            "email": "pedrolucas.soares@hotmail.com",
+            "password": "q4tqmzdza",
+            "administrador": "false",
+            "_id": "E5pxg4Xp7GE0zJgB"
+        },
+        {
+            "nome": "Maria Luiza Menendes",
+            "email": "frederico.araujo@yahoo.com",
+            "password": "lbsys6jo18ru1r09rx",
+            "administrador": "true",
+            "_id": "GSzkRSh3fBS5dHwP"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba3@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "QCMzJV2YAuy8pLto"
+        },
+        {
+            "nome": "Sr. Ayla Godinho",
+            "email": "fabricia.dabandeira@gmail.com",
+            "password": "5rtf4i852ldhvx6",
+            "administrador": "false",
+            "_id": "VZiiv5AZWqmxWXUp"
+        },
+        {
+            "nome": "Ana Vitória Menendes",
+            "email": "marcia.leiria@bol.com.br",
+            "password": "80h4nkq1uzpxyl7ddiz",
+            "administrador": "true",
+            "_id": "e1PeLk37RJTho1Cx"
+        },
+        {
+            "nome": "Luiza Nascimento Neto",
+            "email": "carlos.soares@yahoo.com",
+            "password": "0eten34xcq6kj5dxni",
+            "administrador": "true",
+            "_id": "evohqHR2qeAvBKtO"
+        },
+        {
+            "nome": "Norberto da Cunha",
+            "email": "felix.brum@live.com",
+            "password": "dn4ghzicj5",
+            "administrador": "false",
+            "_id": "hXLpeneJuxcBfKLd"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba1@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "u3rgbcA8QEQ3B4Dz"
+        }
+    ]
+}

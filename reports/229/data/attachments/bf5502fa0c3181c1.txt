@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Djalma da Silva",
+            "email": "andre.almeida@hotmail.com",
+            "password": "mixrfi4did05ed8v",
+            "administrador": "false",
+            "_id": "17punDNIEYknUffe"
+        },
+        {
+            "nome": "katherine",
+            "email": "Update@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "1K2v5TSqHrSsNx4G"
+        },
+        {
+            "nome": "Howard Jenkins",
+            "email": "Asha_Champlin34@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "3UGJA0VAJI8cOOj5"
+        },
+        {
+            "nome": "katherine",
+            "email": "Update1@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "3XiCetbM2moBpBQf"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4ou7eEyntwJxTNGJ"
+        },
+        {
+            "nome": "Stefany",
+            "email": "Katherine1@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "DakqMh80nCwh8b9s"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba3@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "QCMzJV2YAuy8pLto"
+        },
+        {
+            "nome": "Usuario Test1",
+            "email": "prueba1@test.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "u3rgbcA8QEQ3B4Dz"
+        }
+    ]
+}
