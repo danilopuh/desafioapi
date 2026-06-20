@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Talita Braga Jr.",
+            "email": "otavio.viveiros@gmail.com",
+            "password": "8s1rgtorun3",
+            "administrador": "true",
+            "_id": "7Ics0oNyR6zhsWY4"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "snsfdffs8nss@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "7fYLJdRxDQgYHUqK"
+        },
+        {
+            "nome": "Enrico Carvalho",
+            "email": "arthurgabriel.damata@bol.com.br",
+            "password": "8xkofpw8fr",
+            "administrador": "false",
+            "_id": "Chs9z60L6Hfk88y4"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "snss8nss@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "CtBRIUHQg0vie57I"
+        },
+        {
+            "nome": "Lorenzo Antena",
+            "email": "gabriel.jesus@yahoo.com",
+            "password": "eokptm4lgtdmuli",
+            "administrador": "false",
+            "_id": "EOMYWVI3Sa7U1OPS"
+        },
+        {
+            "nome": "Rafael Mendes",
+            "email": "allana.coutinho@live.com",
+            "password": "ylroo76yvkhisvzk",
+            "administrador": "true",
+            "_id": "Otp8HDTC9LRGonbs"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "snsfs8nss@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "QpCDhatzOiuLarOf"
+        },
+        {
+            "nome": "Ricardo Aroeira",
+            "email": "mariah.almada@live.com",
+            "password": "65asi7yso51pugyht",
+            "administrador": "false",
+            "_id": "mbmDIfP7E3arUBBb"
+        },
+        {
+            "nome": "Ms. Stacey O'Keefe",
+            "email": "Kaleb.Weimann81@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "sleogoP65XsQo6R0"
+        },
+        {
+            "nome": "Srta. Esther Muniz",
+            "email": "analaura.peixoto@live.com",
+            "password": "wup9ugccw",
+            "administrador": "false",
+            "_id": "znhpXi1KwFOj2qVM"
+        }
+    ]
+}
