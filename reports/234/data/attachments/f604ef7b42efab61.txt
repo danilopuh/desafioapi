@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Pedro Miguel Xavier Jr.",
+            "email": "isis.porto@hotmail.com",
+            "password": "zcoashzrqefd60bke",
+            "administrador": "false",
+            "_id": "CTi8a6pAKeGeR43H"
+        }
+    ]
+}
