@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Henrique Caseira",
+            "email": "dalila.freitas@live.com",
+            "password": "r6uiamcs44o6",
+            "administrador": "false",
+            "_id": "4bx9r0vuxGzlP0KZ"
+        },
+        {
+            "nome": "Amanda Neves",
+            "email": "isabela.diegues@bol.com.br",
+            "password": "r9xue80lph",
+            "administrador": "false",
+            "_id": "58BWzb7acKJsEzWE"
+        },
+        {
+            "nome": "Warley Guterres",
+            "email": "tertuliano.cardoso@hotmail.com",
+            "password": "fzyzbrxyvqei0y4",
+            "administrador": "false",
+            "_id": "At6HuA4PJ16rBNib"
+        },
+        {
+            "nome": "João Silva",
+            "email": "gYgFpaAFmdie@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "IB44dhVQoMt7rCIC"
+        },
+        {
+            "nome": "Víctor Corrêa Neto",
+            "email": "vitorhugo.xavier@yahoo.com",
+            "password": "hbrsimdf1",
+            "administrador": "false",
+            "_id": "LZMnS1DcIsUVnvjV"
+        },
+        {
+            "nome": "Dra. Meire Louzada",
+            "email": "melissa.damota@yahoo.com",
+            "password": "vbfoq5nz662e1za8",
+            "administrador": "false",
+            "_id": "QmPD6KaXQGmIVAR3"
+        },
+        {
+            "nome": "João Silva",
+            "email": "gqKaTooPoWmZ@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "amxLM504iujpdJDz"
+        },
+        {
+            "nome": "Loretta Russel",
+            "email": "Linda79@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "pN8eFePiNzcHjqwh"
+        }
+    ]
+}
