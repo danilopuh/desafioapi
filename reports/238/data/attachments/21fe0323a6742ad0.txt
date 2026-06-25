@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Teste",
+            "email": "xrum@emailteste.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "4Og0uEOZpYsaLRjC"
+        },
+        {
+            "nome": "Frederico Teles",
+            "email": "murilo.videira@bol.com.br",
+            "password": "nkfurpm60p6j2fxin",
+            "administrador": "false",
+            "_id": "ZHhtNMLNL4pKvIHA"
+        },
+        {
+            "nome": "Teste",
+            "email": "ymqw@emailteste.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bcWQnpKfdiHVfJD4"
+        },
+        {
+            "nome": "Clara de Lara Filho",
+            "email": "marcio.ribeira@gmail.com",
+            "password": "525bb3h4z7dpf4i",
+            "administrador": "false",
+            "_id": "oxPlmP8EIFi1HHKx"
+        },
+        {
+            "nome": "Clara de Lins",
+            "email": "mariaflor.siqueira@yahoo.com",
+            "password": "qzcqmumuayd95o9",
+            "administrador": "false",
+            "_id": "tI8bskgjj53rj6Xv"
+        },
+        {
+            "nome": "Danilo",
+            "email": "fulano4105@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tl5u1dB3o8mBu0fx"
+        },
+        {
+            "nome": "Ricardo Pires",
+            "email": "giulia.damata@live.com",
+            "password": "itlx7hlxdevpe0pc5c",
+            "administrador": "false",
+            "_id": "wZHUgn40OyWJTYZ6"
+        }
+    ]
+}
