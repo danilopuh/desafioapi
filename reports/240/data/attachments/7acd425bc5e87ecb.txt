@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Alice Goulart",
+            "email": "otavio.viveiros@live.com",
+            "password": "wdkf4syeg4fdovu",
+            "administrador": "false",
+            "_id": "8syIrVE8RPIhtcfF"
+        },
+        {
+            "nome": "Nicolas Mendes",
+            "email": "arthur.menendes@bol.com.br",
+            "password": "mfhv8i2xpd",
+            "administrador": "false",
+            "_id": "JGDP7plzDBFVPksP"
+        },
+        {
+            "nome": "Gabriel Fruchi Carpinteiro",
+            "email": "gabriel.fruchi@gmail.com",
+            "password": "Biel@29012003",
+            "administrador": "true",
+            "_id": "Mho9koInbHaNrKdT"
+        },
+        {
+            "nome": "Geoffrey Kulas",
+            "email": "Lynn_Ernser34@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "SW9sqtxoLGuwWiVG"
+        },
+        {
+            "nome": "Carlos Eduardo da Barra",
+            "email": "andre.almeida@yahoo.com",
+            "password": "ox4z41pk7evn",
+            "administrador": "false",
+            "_id": "aHfm7Uy5OkDI5NjN"
+        },
+        {
+            "nome": "maria",
+            "email": "mariadb@teste.com.br",
+            "password": "36212107",
+            "administrador": "true",
+            "_id": "vsYLfv5tcyeGDXVm"
+        }
+    ]
+}

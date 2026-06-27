@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Dr. José da Conceição",
+            "email": "francisco.regueira@yahoo.com",
+            "password": "4undqvv7fqp",
+            "administrador": "false",
+            "_id": "0unBaUodYeIQrx5d"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Alice Goulart",
+            "email": "otavio.viveiros@live.com",
+            "password": "wdkf4syeg4fdovu",
+            "administrador": "false",
+            "_id": "8syIrVE8RPIhtcfF"
+        },
+        {
+            "nome": "Nicolas Mendes",
+            "email": "arthur.menendes@bol.com.br",
+            "password": "mfhv8i2xpd",
+            "administrador": "false",
+            "_id": "JGDP7plzDBFVPksP"
+        },
+        {
+            "nome": "Gabriel Fruchi Carpinteiro",
+            "email": "gabriel.fruchi@gmail.com",
+            "password": "Biel@29012003",
+            "administrador": "true",
+            "_id": "Mho9koInbHaNrKdT"
+        },
+        {
+            "nome": "Geoffrey Kulas",
+            "email": "Lynn_Ernser34@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "SW9sqtxoLGuwWiVG"
+        },
+        {
+            "nome": "Dalila dos Reis",
+            "email": "laura.hernandes@hotmail.com",
+            "password": "wdm1anpzcs",
+            "administrador": "false",
+            "_id": "a5IQLOPdM8HNPjwy"
+        },
+        {
+            "nome": "Giulia Reis",
+            "email": "mathias.reis@live.com",
+            "password": "0m3spqjjq8b",
+            "administrador": "false",
+            "_id": "djTt9YqYINvjlpep"
+        },
+        {
+            "nome": "Giovanna Batista Neto",
+            "email": "stella.moniz@yahoo.com",
+            "password": "6whdwsyh",
+            "administrador": "false",
+            "_id": "oLDv5UUgoXxKok90"
+        },
+        {
+            "nome": "maria",
+            "email": "mariadb@teste.com.br",
+            "password": "36212107",
+            "administrador": "true",
+            "_id": "vsYLfv5tcyeGDXVm"
+        }
+    ]
+}
