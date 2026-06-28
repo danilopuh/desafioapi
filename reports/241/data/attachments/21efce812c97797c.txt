@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Mr. Hubert Conroy IV",
+            "email": "Alanis7@hotmail.com",
+            "password": "DxVim8jOKX7U34l",
+            "administrador": "false",
+            "_id": "3zIZoRhYzUwGIgGQ"
+        },
+        {
+            "nome": "Zane Ondricka",
+            "email": "Rudolph_McCullough9@gmail.com",
+            "password": "3tqNpwHVg1m2wxI",
+            "administrador": "true",
+            "_id": "OxtmVq1DvRoqHYfa"
+        },
+        {
+            "nome": "Luidy",
+            "email": "luidy.serverest@gmail.com",
+            "password": "serverest",
+            "administrador": "true",
+            "_id": "RCcwpiPR2jo2uXez"
+        },
+        {
+            "nome": "Emanuel Limeira",
+            "email": "mariana.dabarranca@hotmail.com",
+            "password": "nyp5p8a06b",
+            "administrador": "false",
+            "_id": "gwGISTwD2Mi6MXRU"
+        },
+        {
+            "nome": "Mrs. Caroline Gaylord",
+            "email": "Brooklyn32@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "o6eLXQJsuaaA3MDw"
+        },
+        {
+            "nome": "Sylvia Wyman",
+            "email": "Benny.Hamill@hotmail.com",
+            "password": "ELcWKJpA3Gwn3BL",
+            "administrador": "false",
+            "_id": "rwZ8yYjGNjLZkVnA"
+        },
+        {
+            "nome": "Mr. Maximo Kohler",
+            "email": "Salvador_Robel15@yahoo.com",
+            "password": "nA0FWNemgD3rsK8",
+            "administrador": "true",
+            "_id": "sKShnjllSWUC7Y4P"
+        },
+        {
+            "nome": "usuario",
+            "email": "teste@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "tIepCCaBwtYDwPKF"
+        },
+        {
+            "nome": "Matheus Koehler Zanella",
+            "email": "leke@gmail.com",
+            "password": "1q2w3e",
+            "administrador": "false",
+            "_id": "vgeEjhskCotyxJuF"
+        },
+        {
+            "nome": "Matheus Koehler Zanella",
+            "email": "matheuszanella.sma@gmail.com",
+            "password": "1q2w3e",
+            "administrador": "false",
+            "_id": "wfZQx0tjCOfECEMy"
+        }
+    ]
+}
