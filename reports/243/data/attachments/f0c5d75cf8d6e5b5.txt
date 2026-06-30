@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "password": "123456",
+            "administrador": "true",
+            "nome": "Usuário QA",
+            "email": "usuario1782787229341@qa.com.us",
+            "_id": "06w6Pl7tU6ubC9jR"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "usuario1782787362761@argentina.com.ar",
+            "_id": "2LwX06nBHwwFOPAB"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi1782787415214@argentina.com.ar",
+            "_id": "2ZyKDW5MJeUapAfg"
+        },
+        {
+            "nome": "Benito Actualizado",
+            "email": "edit_9d61ff03@test.com",
+            "password": "new123",
+            "administrador": "true",
+            "_id": "9aV5vRuRo67yOGyA"
+        },
+        {
+            "nome": "Usuario Busqueda",
+            "email": "busqueda_6a52b5b3@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "FEZcrDAztV8xwMyi"
+        },
+        {
+            "password": "123456",
+            "administrador": "true",
+            "nome": "Usuário QA",
+            "email": "usuario1782787163289@qa.com.us",
+            "_id": "FtkoQ4uNtL5jJP2K"
+        },
+        {
+            "nome": "Tina Hackett",
+            "email": "Marjory_OKon35@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "NsUHTUsVXk8LF7G7"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi_1782787441170@argentina.com.ar",
+            "_id": "QS8Mv4zbvmjBou0D"
+        },
+        {
+            "nome": "PepeNenem",
+            "email": "pepeenenem@gmail.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "WMF6VzZ28X6IOzAV"
+        },
+        {
+            "nome": "Fulano Teste 1782788791608",
+            "email": "fulano1782788791608@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "kcSA7atPyqQdXToH"
+        },
+        {
+            "nome": "Benito Arones",
+            "email": "benito_11110bf9@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "wGrrbB2R1q3czg27"
+        }
+    ]
+}
