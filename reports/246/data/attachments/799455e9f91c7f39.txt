@@ -1,0 +1,383 @@
+{
+    "quantidade": 54,
+    "usuarios": [
+        {
+            "password": "5771783045159742",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi_1783045159742@argentina.com.ar",
+            "_id": "0Mj7tyt1US8I79Au"
+        },
+        {
+            "nome": "David",
+            "email": "castillo@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0nmltTXaINsdmfvn"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lucas Ferreira",
+            "email": "lais.bonfim@gmail.com",
+            "password": "dx52x9aqiv73wz9",
+            "administrador": "true",
+            "_id": "3t8TEz2c9iQ1FSPl"
+        },
+        {
+            "nome": " Pérez ",
+            "email": "KAAMARNELA@gl.com",
+            "password": "t",
+            "administrador": "false",
+            "_id": "6M207CoxEECcnTgf"
+        },
+        {
+            "nome": "Dr. Davi Bittencourt",
+            "email": "andre.castro@live.com",
+            "password": "epmnqhr3ymzn8ztg6",
+            "administrador": "false",
+            "_id": "7Q4AESNrtUxJ1xgS"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783044920025@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "86UCWn1FXJ3Co2iK"
+        },
+        {
+            "nome": "Beatriz Viana",
+            "email": "bianca.daterra@live.com",
+            "password": "ps9vyztig9rx3szb8mp",
+            "administrador": "false",
+            "_id": "A0Z5SD8xZteBki96"
+        },
+        {
+            "password": "561783046308671",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi_1783046308671@argentina.com.ar",
+            "_id": "CXADtQeCczB8Gvgg"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783044918060@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "DgpsehX1ybmUBdOY"
+        },
+        {
+            "nome": "Hélio Ferraço",
+            "email": "eloah.goncalves@live.com",
+            "password": "ph3h5d2v2df4mnej3",
+            "administrador": "false",
+            "_id": "EWEQl38CvRJFxOdQ"
+        },
+        {
+            "nome": "Ana Vitória Roseira Neto",
+            "email": "mariajulia.videira@hotmail.com",
+            "password": "3a4myzkn1tw9vz",
+            "administrador": "true",
+            "_id": "EbzIjPdiaqYwVfpy"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783044756979@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "HpdF7ET83Lg1PgkN"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Cristiano Ronaldo",
+            "email": "cristiano_1783045090069@portugal.com.pt",
+            "_id": "Hub1aat8X89Yk7TZ"
+        },
+        {
+            "nome": "Samuel Ornelas Neto",
+            "email": "silvia.galvao@yahoo.com",
+            "password": "8s1o231dgv0ha2f",
+            "administrador": "false",
+            "_id": "IQ2pqnsH5LwLMJDT"
+        },
+        {
+            "nome": "Juan",
+            "email": "castillo1@qa.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "JK3jFlC2vwRTsxfs"
+        },
+        {
+            "nome": "Rodrigo Barbosa",
+            "email": "rodrigo.teste@gmail.com",
+            "password": "teste1234",
+            "administrador": "true",
+            "_id": "JjjS2r3YU0Too1Ju"
+        },
+        {
+            "nome": "Mia Loa",
+            "email": "mia@gmail.com",
+            "password": "Mia123L",
+            "administrador": "false",
+            "_id": "KyZz3RikjEi83OBT"
+        },
+        {
+            "nome": " Pérez ",
+            "email": "KAAMARELA@gl.com",
+            "password": "0",
+            "administrador": "false",
+            "_id": "LlffErbIb0IPm98I"
+        },
+        {
+            "nome": "Srta. Lorenzo Espinhosa",
+            "email": "clarice.castelo@bol.com.br",
+            "password": "ieshzqyrftkl03",
+            "administrador": "true",
+            "_id": "NBcYBacYxOoYXzyI"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783045057063@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "NfDuxgwvUU3DypcI"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Cristiano Ronaldo",
+            "email": "cristiano_1783046313800@portugal.com.pt",
+            "_id": "Nh1D23dNIbsdJKE2"
+        },
+        {
+            "nome": "User-",
+            "email": "user66514df6-23cc-4fc0-b78f-461e38bbdc73@email.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "P917sSAlCe1vRPxX"
+        },
+        {
+            "nome": "Juan",
+            "email": "castillo12@qa.br",
+            "password": "1",
+            "administrador": "true",
+            "_id": "RrcsTligHV0tsPg2"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783044754990@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "SkvJrKxsf1tXx4Cr"
+        },
+        {
+            "nome": "User-",
+            "email": "user57f12628-f52d-4634-8aef-9331eca47d54@email.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "T1lCTJwJczro2xRa"
+        },
+        {
+            "nome": "Sr. Fabiano Macedo",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Pablo16@gmail.com",
+            "_id": "TDWM5gKUiqhCmxCP"
+        },
+        {
+            "nome": "User-",
+            "email": "userf2347f5c-0094-4f9d-be31-6a6e5aa8dc8d@email.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "X0nQNHeaPQugynsN"
+        },
+        {
+            "nome": "Sarah Melo",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Morgana33@hotmail.com",
+            "_id": "X5mZTBFds3dXmS9u"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783044691845@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "ZbSVAvIedRt8FzPo"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783044691416@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "ZdLIQKM5d5qdG8Rj"
+        },
+        {
+            "nome": "Beatrice Rolfson",
+            "email": "Savanna_Koepp96@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "cDWi7LDdt2eqyYbR"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Cristiano Ronaldo",
+            "email": "cristiano_1783045164221@portugal.com.pt",
+            "_id": "d6mszYIb6RhTDl1Q"
+        },
+        {
+            "nome": "Dr. João Luca Nogueira",
+            "email": "vitorhugo.solimoes@bol.com.br",
+            "password": "ftjr4gxaw89jkb8",
+            "administrador": "false",
+            "_id": "dBXtis6KHYn9zpuu"
+        },
+        {
+            "nome": "Murilo Santos",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Morgana92@live.com",
+            "_id": "dhYkgcTaSCRZXPGN"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783044959871@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "ecHKNiO2lRbExTrP"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783045079412@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "hMidwv6sAnGovhqB"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "user1783046986884@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "iOGvMCeeWRRreJ2I"
+        },
+        {
+            "nome": " Pérez ",
+            "email": "KAAMAELA@gl.com",
+            "password": "-",
+            "administrador": "false",
+            "_id": "lDJsB1cK8BOkq8dX"
+        },
+        {
+            "nome": "Henry Bouças",
+            "email": "pedro.guedes@hotmail.com",
+            "password": "kpisx8rn8ebo2cja",
+            "administrador": "false",
+            "_id": "mob5gPOoxPzDfCO0"
+        },
+        {
+            "nome": "Maria Helena Modesto",
+            "email": "analuiza.ramalho@yahoo.com",
+            "password": "ixzfkto3izb",
+            "administrador": "false",
+            "_id": "nyO8vXKebcHxsFNk"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783045056546@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "pGtgikAWIP8uy1E6"
+        },
+        {
+            "nome": "Giovanna Souza",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Murilo1@gmail.com",
+            "_id": "pvF7yspBnyJcAqSg"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "usuario.teste.1783045081415@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "rXIHHkdblqmpAaU2"
+        },
+        {
+            "nome": "Gustavo",
+            "email": "gustavo@test.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "rlLmre3wTxMdsWI9"
+        },
+        {
+            "nome": "Isabela Melo",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Roberta.Barros66@bol.com.br",
+            "_id": "rnZYw5cQ6kHXzMW5"
+        },
+        {
+            "nome": "Admin Produto Teste",
+            "email": "admin.produto.1783044957892@serve.rest",
+            "password": "Teste123",
+            "administrador": "true",
+            "_id": "sIQrY7NMALQOFRQ3"
+        },
+        {
+            "nome": "Juan",
+            "email": "castillo@qa.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sa4lnKwn2fYViN7X"
+        },
+        {
+            "nome": "Warley Gomide Filho",
+            "email": "daviluiz.henriques@hotmail.com",
+            "password": "r2h3zh24",
+            "administrador": "false",
+            "_id": "tLrzpW5uSefOSMYp"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "jhosep_1782931709713@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tsqmOYvjHlivsFb4"
+        },
+        {
+            "nome": "Maria Eduarda Souza",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Alicia79@yahoo.com",
+            "_id": "wq1TLBvjYME1B7b5"
+        },
+        {
+            "nome": "Felícia Oliveira",
+            "email": "anavitoria.fogaca@bol.com.br",
+            "password": "i8xhyokybmppwsl0uv3",
+            "administrador": "false",
+            "_id": "yUwdv9WEY9uLYXDJ"
+        },
+        {
+            "password": "1581783045085565",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi_1783045085565@argentina.com.ar",
+            "_id": "zBbL2ZAQMlwtSsTk"
+        },
+        {
+            "nome": "David",
+            "email": "castillo@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "znflvBNmk8tMOgW9"
+        }
+    ]
+}
