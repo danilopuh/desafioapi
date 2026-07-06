@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuário QA 1783306605776",
+            "email": "qa_1783306605776@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "2fFH6vA181a7xfaT"
+        },
+        {
+            "nome": "Usuário QA 1783307142595",
+            "email": "qa_1783307142595@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "9CnGhBXGZbR8Y1DX"
+        },
+        {
+            "nome": "Roderick Johnson",
+            "email": "Dorris.Willms@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "H1gnBIxo7cGAUCwt"
+        },
+        {
+            "nome": "Usuário QA 1783306921036",
+            "email": "qa_1783306921036@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "WOUaH1n8oZEmgamP"
+        },
+        {
+            "nome": "Antônio Roriz",
+            "email": "tomas.teixeira@bol.com.br",
+            "password": "arzul9mtswjt177osu",
+            "administrador": "false",
+            "_id": "XESkLeoNKnnnAP2m"
+        },
+        {
+            "nome": "Otávio Silveira",
+            "email": "noah.dacosta@yahoo.com",
+            "password": "ai5ho6fohrqzqu",
+            "administrador": "false",
+            "_id": "Y7nZFTk6FByRu0RB"
+        },
+        {
+            "nome": "Lorena Barreira",
+            "email": "caua.arantes@bol.com.br",
+            "password": "dwyp58ln",
+            "administrador": "false",
+            "_id": "bk1Sym4cT1f1L30M"
+        },
+        {
+            "nome": "Usuário QA 1783306757323",
+            "email": "qa_1783306757323@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ghiHxPbhJPM3hCN0"
+        },
+        {
+            "nome": "Usuário QA 1783307388734",
+            "email": "qa_1783307388734@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "kX3UG91fcSnhxeAo"
+        },
+        {
+            "nome": "Dr. Francisca Freitas",
+            "email": "luana.carvalho@yahoo.com",
+            "password": "2z54bazik1oysu",
+            "administrador": "false",
+            "_id": "rOiQQ07zffr76UAK"
+        }
+    ]
+}
