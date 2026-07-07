@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Beth Jacobs",
+            "email": "Vicente26@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "5IVXAuIHo33GtHe6"
+        },
+        {
+            "password": "123456789",
+            "administrador": "true",
+            "nome": "Cristiano Ronaldo",
+            "email": "cristiano_1783393024790@portugal.com.pt",
+            "_id": "6sotbLJJEIxrVzhw"
+        },
+        {
+            "nome": "Otávio Nunes",
+            "email": "lucasgabriel.mangueira@gmail.com",
+            "password": "ogbklsqi",
+            "administrador": "false",
+            "_id": "Nq97kCUCcc8sUPck"
+        },
+        {
+            "password": "5321783393015724",
+            "administrador": "true",
+            "nome": "Lionel Messi",
+            "email": "messi_1783393015723@argentina.com.ar",
+            "_id": "Qlho5WPvojbgLyjL"
+        },
+        {
+            "nome": "nilso",
+            "email": "nilso@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "VNr2ORwJk1SJtYM6"
+        },
+        {
+            "nome": "Paula Garcez",
+            "email": "sophia.almada@gmail.com",
+            "password": "p0j9uiicvp",
+            "administrador": "false",
+            "_id": "XJzcft9Ci9tthaXC"
+        },
+        {
+            "nome": "Eduardo da Aldeia",
+            "email": "isabelly.ornelas@live.com",
+            "password": "sj0quyozac2gua",
+            "administrador": "false",
+            "_id": "lUwiQHje7Rkftokn"
+        },
+        {
+            "nome": "Dra. Rodrigo Gomide",
+            "email": "joao.araujo@bol.com.br",
+            "password": "utd99i52kwj7gzh21y",
+            "administrador": "false",
+            "_id": "v4RDu40bq2kklP2U"
+        },
+        {
+            "nome": "Luiz Henrique Castelo Neto",
+            "email": "emanuel.carreira@live.com",
+            "password": "icxuahdy6ybc7",
+            "administrador": "false",
+            "_id": "y5sBNxvfaFX2qiDn"
+        }
+    ]
+}
