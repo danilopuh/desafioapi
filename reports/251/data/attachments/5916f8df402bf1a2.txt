@@ -1,0 +1,103 @@
+{
+    "quantidade": 14,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Silas Banheira",
+            "email": "joaogabriel.coqueiro@gmail.com",
+            "password": "1dzwulpsixo4elxvg",
+            "administrador": "false",
+            "_id": "2edgXM3EXRRa8w0g"
+        },
+        {
+            "nome": "Sra. Frederico Soares",
+            "email": "mariaclara.albuquerque@bol.com.br",
+            "password": "px5gz9c2021a",
+            "administrador": "false",
+            "_id": "5bdRfpKOcdojAZUx"
+        },
+        {
+            "nome": "Mirella Taveira Filho",
+            "email": "felipe.simao@gmail.com",
+            "password": "7h8drqos2ofpnnot",
+            "administrador": "false",
+            "_id": "61MxyOGGMYeLJgNE"
+        },
+        {
+            "nome": "Mirella Galego",
+            "email": "aurora.laranjeira@yahoo.com",
+            "password": "txzoq3e3kp1ha",
+            "administrador": "true",
+            "_id": "Ezl6Vwi82ct90BCj"
+        },
+        {
+            "nome": "Djalma Custódio",
+            "email": "beatriz.junqueira@live.com",
+            "password": "ol9mvarnsqx5s5",
+            "administrador": "false",
+            "_id": "LOwoB33VmHRzdznk"
+        },
+        {
+            "nome": "Lavínia de Quadros",
+            "email": "giulia.arantes@hotmail.com",
+            "password": "6vm9jhpnv0s",
+            "administrador": "false",
+            "_id": "NUH54JipiVdbqPaS"
+        },
+        {
+            "nome": "Paula Monteira",
+            "email": "fabricia.pinheira@gmail.com",
+            "password": "30qy72ua9q9yr4v78r",
+            "administrador": "false",
+            "_id": "Zok1AoXDoWf4Am46"
+        },
+        {
+            "nome": "Pedro Miguel Franco",
+            "email": "suelen.palmeira@yahoo.com",
+            "password": "9ip5bp97oa4y",
+            "administrador": "false",
+            "_id": "iRnggaXR8Je8thw0"
+        },
+        {
+            "nome": "Stella Paiva",
+            "email": "agatha.paiva@hotmail.com",
+            "password": "y3kv0q0g53ejyuwly",
+            "administrador": "true",
+            "_id": "mjs06M6xBWoVQimw"
+        },
+        {
+            "nome": "Isabella Rameira Neto",
+            "email": "patricia.teles@live.com",
+            "password": "npmrltdbn5omaaaxbm",
+            "administrador": "false",
+            "_id": "oenYqGozeVA2Qnc9"
+        },
+        {
+            "nome": "Margarida Paes",
+            "email": "henrique.assumpcao@hotmail.com",
+            "password": "z8yteij9q1m3kkg",
+            "administrador": "false",
+            "_id": "rdOtZmA91fTFJHnJ"
+        },
+        {
+            "nome": "Sr. Maitê Pinheira",
+            "email": "janaina.damota@live.com",
+            "password": "mk7n0msw5p81gg2rk",
+            "administrador": "false",
+            "_id": "wbDc7NvQMxtm7m6R"
+        },
+        {
+            "nome": "Patricia Meira",
+            "email": "celia.nascimento@yahoo.com",
+            "password": "4fwsavde9r",
+            "administrador": "false",
+            "_id": "xzTlPejqNgdLPKNE"
+        }
+    ]
+}
