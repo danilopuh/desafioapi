@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Ana Laura Sais",
+            "email": "mirella.videira@yahoo.com",
+            "password": "wdgmo719pscz8w8",
+            "administrador": "false",
+            "_id": "O4JiMZ7QkhONd9RF"
+        },
+        {
+            "nome": "Velma Goldner",
+            "email": "Verona.Corwin@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "RynbbTq43ofVZtZd"
+        }
+    ]
+}
