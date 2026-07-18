@@ -1,0 +1,152 @@
+{
+    "quantidade": 21,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "juliana ju",
+            "email": "luigi20@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "2roAGVvSrwCBYJ2J"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi3a8d2386-3d09-4e0e-b5da-0e7d6984624a@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "4fEbaHERxJGk9isb"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi99c2a9b5-65f8-4249-8485-1a8279c6d51f@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "5lYDwZc6YsOBcMaO"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi7ca4c284-350f-4ab1-bc8e-c7d0672f09c4@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "729txWUugBvbZGOs"
+        },
+        {
+            "nome": "Cintia teste 08",
+            "email": "cintia.teste.08.1784342831493-55491@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "7dJfwIs1JvdolWm0"
+        },
+        {
+            "nome": "Luig15",
+            "email": "luigiUpdate04f173dd-a8cd-41c7-8102-111cbd11f5ee@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "KM0SPE7eWygxtq11"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi55968469-19f3-412d-9fa3-076c6de3c2e7@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "S7Au6QiQNjlymzg1"
+        },
+        {
+            "nome": "juliana ju",
+            "email": "luigi22mvn@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "ToxhVlqa1uVQm0mO"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi32c54d4a-8535-40bd-a05b-5e79bb7ba76c@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "XASDyrRhkpDCrevI"
+        },
+        {
+            "nome": "luigi helper",
+            "email": "luigi1d1016f8-92d5-42e7-a268-4e1d4d86c268@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "Z6LmMF7O0kqWPvyp"
+        },
+        {
+            "nome": "david rodrigues",
+            "email": "rodriguedavid122@gmail.com",
+            "password": "Meza@222",
+            "administrador": "true",
+            "_id": "ZLV7xoPKMzP2bVQW"
+        },
+        {
+            "nome": "juliana ju",
+            "email": "luigi23@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "jx4H7At0KvJwxDyG"
+        },
+        {
+            "nome": "Luig15",
+            "email": "luigiUpdateeacfb6d1-f77f-4567-9184-a63d3c1b99c9@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "kJ4xjRjXM10n14KM"
+        },
+        {
+            "nome": "Login Test",
+            "email": "login.1784342831647-5668@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "qlHhCtHcCOkVomnl"
+        },
+        {
+            "nome": "Admin User",
+            "email": "admin.1784342832861-13024@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "rSbVrLyP0ucstKgT"
+        },
+        {
+            "nome": "Ms. Jeffery Fisher",
+            "email": "Keshawn.Von@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "sb9wBRrigZq8GSll"
+        },
+        {
+            "nome": "juliana ju",
+            "email": "luigi21@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "vx5pCyhy9xc0s5rR"
+        },
+        {
+            "nome": "Teste Duplicado",
+            "email": "duplicate.1784342833149-97984@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "yj5JiK4hMgYZtZ94"
+        },
+        {
+            "nome": "Luig15",
+            "email": "luigiUpdate18202d32-d9f7-4a65-8e36-3e55a5275bc4@qa.com.br",
+            "password": "tester",
+            "administrador": "true",
+            "_id": "yrA4UkCGmGpgg9qM"
+        },
+        {
+            "nome": "Cintia teste 07",
+            "email": "cintia.teste.07.1784342824162-63578@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "z9Vh3LyYCmqvBUKg"
+        }
+    ]
+}
