@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin Test",
+            "email": "admin.test1784518871502@email.com",
+            "password": "Senha@1234",
+            "administrador": "true",
+            "_id": "1etHnVsWZTWTCdQN"
+        },
+        {
+            "nome": "Mabel Halvorson",
+            "email": "6254fff9-3251-4309-9b45-10a77932acd2@qa.com.br",
+            "password": "IZhZ5iPCJE3W",
+            "administrador": "true",
+            "_id": "1wleuzj8MrJewsCb"
+        },
+        {
+            "nome": "Núbia Camacho",
+            "email": "noah.aragao@live.com",
+            "password": "wzn2o1a8xamldx",
+            "administrador": "false",
+            "_id": "3WBr7Doa3RCg6yea"
+        },
+        {
+            "nome": "Timmy Kuhlman",
+            "email": "6b0bdbcb-1ed2-418f-af40-a785b75a1932@qa.com.br",
+            "password": "1qwuuDDviYgn",
+            "administrador": "false",
+            "_id": "67artNVp03ZvUk28"
+        },
+        {
+            "nome": "Isabel Nascimento",
+            "email": "ana.vieira@live.com",
+            "password": "q70im68tofudyza",
+            "administrador": "false",
+            "_id": "6AZeKSmGhJNzUvU4"
+        },
+        {
+            "nome": "Alonzo Spencer IV",
+            "email": "55b2ed0a-70a5-4f11-95f2-51e57568fa8d@qa.com.br",
+            "password": "RcMW9FxiqU9q",
+            "administrador": "true",
+            "_id": "9Qt0uQU2qmLUycoO"
+        },
+        {
+            "nome": "Grace Gottlieb",
+            "email": "62a98f78-17b7-42a0-9f83-afb7e3c14224@qa.com.br",
+            "password": "qAa1s8XF8qJS",
+            "administrador": "true",
+            "_id": "A8M5U95h7m9tMxAB"
+        },
+        {
+            "nome": "Garrison Larson",
+            "email": "06d192ce-ad03-4968-ae6f-c894bdf0129c@qa.com.br",
+            "password": "7VHGx3qlKNcO",
+            "administrador": "true",
+            "_id": "ASGdpwGFmmX3XntF"
+        },
+        {
+            "nome": "Maria Valentina Marcondes",
+            "email": "oliver.antena@live.com",
+            "password": "gv1osctcb96spz",
+            "administrador": "false",
+            "_id": "IUrvxoeCcKVZxuy0"
+        },
+        {
+            "nome": "William Cole",
+            "email": "ba1bb157-03f3-4e76-9754-eca38b2579c3@qa.com.br",
+            "password": "18aGhHDDdlD7",
+            "administrador": "true",
+            "_id": "IxBqixzm3ONKWjHQ"
+        },
+        {
+            "nome": "Natasha Miller",
+            "email": "c719f6ae-60fb-4879-b87d-83d609298026@qa.com.br",
+            "password": "gjlfkN_cs7OS",
+            "administrador": "true",
+            "_id": "LBopFUzlSDQcSdGB"
+        },
+        {
+            "nome": "Mr. Roger Corkery",
+            "email": "10796af9-461f-42f3-852b-6016347c7108@qa.com.br",
+            "password": "O9PQTL7Cl7XZ",
+            "administrador": "false",
+            "_id": "MaMfKTy1OhNmEbVp"
+        },
+        {
+            "nome": "Jason Mante",
+            "email": "3f658528-759d-4c45-abb9-5e54fa43ad92@qa.com.br",
+            "password": "47OcfGZ3xpIK",
+            "administrador": "false",
+            "_id": "NemcwFMJT091aG16"
+        },
+        {
+            "nome": "Automation",
+            "email": "automation@serverest.dev",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bCxfiH2CvLsbLBuY"
+        },
+        {
+            "nome": "Darla Towne",
+            "email": "40255db3-4e7b-49a1-a2e5-183a651e6808@qa.com.br",
+            "password": "dU1YqxxQeJcW",
+            "administrador": "true",
+            "_id": "bicsGeGVbh8dH0VT"
+        },
+        {
+            "nome": "Cory Fahey",
+            "email": "712a321c-1ebc-45e2-bff3-123d310a812b@qa.com.br",
+            "password": "M7MEoxB53Od1",
+            "administrador": "true",
+            "_id": "getgbM1IFhyAcA1n"
+        },
+        {
+            "nome": "Normal User",
+            "email": "user.normal1784518871502@email.com",
+            "password": "User@1234",
+            "administrador": "false",
+            "_id": "hQ07zl0ohxriI2ug"
+        },
+        {
+            "nome": "Nome Alterado",
+            "email": "b8ed2644-5748-44f8-a658-cb18d7d8fe19@qa.com.br",
+            "password": "Cx6zr4TcqFwd",
+            "administrador": "false",
+            "_id": "k4TT54QuP9Coqgzm"
+        },
+        {
+            "nome": "Danilo Farias",
+            "email": "julia.lopes@live.com",
+            "password": "li2dzba9bu5o",
+            "administrador": "false",
+            "_id": "kZoVy9l50qfuNtUq"
+        },
+        {
+            "nome": "Olive Turcotte",
+            "email": "cc62ec0f-16f5-4245-97df-ad456e6bd647@qa.com.br",
+            "password": "PHjlkItvafSa",
+            "administrador": "true",
+            "_id": "kjgjkW1aV3vm60n6"
+        },
+        {
+            "nome": "Davi Ludmer Jesus Neto",
+            "email": "pedrolucas.brites@live.com",
+            "password": "yv90s2wi9mqzxi9e60",
+            "administrador": "false",
+            "_id": "qm3h2trAHnhdeC4M"
+        },
+        {
+            "nome": "Blair Metz",
+            "email": "5ca4ec28-730d-4650-a94f-a2ad97ab7c62@qa.com.br",
+            "password": "qGlBW69uq4Pu",
+            "administrador": "true",
+            "_id": "sGBbk6oAmq9uYAka"
+        },
+        {
+            "nome": "Sr. Calebe Moreira",
+            "email": "djalma.dantas@hotmail.com",
+            "password": "dtgszjsfwaxf4oll51",
+            "administrador": "false",
+            "_id": "uxQzeJlkLA77Qtty"
+        },
+        {
+            "nome": "Carroll Schaefer",
+            "email": "58b8292f-e3f6-4a5a-bdef-0f8b139c4a6a@qa.com.br",
+            "password": "_DX4NDYwQlAy",
+            "administrador": "false",
+            "_id": "vnd6U3Jaq6KOULre"
+        },
+        {
+            "nome": "Dr. Katrina Rath",
+            "email": "78dbaa7f-a9db-43f6-816a-017f7845b30c@qa.com.br",
+            "password": "VdXqE3lcvnxJ",
+            "administrador": "true",
+            "_id": "wMaAoOPiQOE7Zsx6"
+        },
+        {
+            "nome": "Sara Lockman",
+            "email": "79c0fcce-a371-4bc1-b75e-075174a39229@qa.com.br",
+            "password": "2mWlcEEAYIsj",
+            "administrador": "true",
+            "_id": "yq6d6qwGzp8glKOI"
+        }
+    ]
+}
