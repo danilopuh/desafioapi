@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Nettie Nader",
+            "email": "Duane.Braun@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "1XuBiTFCEe7kw2hs"
+        },
+        {
+            "nome": "Norma Renner",
+            "email": "qa.1784597725095.e2btx@serverest.dev",
+            "password": "nVCATLBz3Gqu",
+            "administrador": "true",
+            "_id": "2LHBGqXAq5ICKhBa"
+        },
+        {
+            "nome": "Usuário Carrinho",
+            "email": "carrinho_1784601397372@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "51YkFbLiFYqNsNXn"
+        },
+        {
+            "nome": "Elmer Rath",
+            "email": "qa.1784597846928.dw0ft@serverest.dev",
+            "password": "0WXQzJjpokMH",
+            "administrador": "true",
+            "_id": "9I1hMMMBwBI6xd4L"
+        },
+        {
+            "nome": "qa-fixture-nome-valido",
+            "email": "qa.fixture.valido@gmail.com",
+            "password": "Senha@12345678",
+            "administrador": "true",
+            "_id": "9woIZ04iuqrsdrMR"
+        },
+        {
+            "nome": "Corey Fisher-Effertz",
+            "email": "qa.1784598507515.ifuhp@serverest.dev",
+            "password": "OZzy8ZY6WD6x",
+            "administrador": "true",
+            "_id": "H8JWIlq28f0kndWY"
+        },
+        {
+            "nome": "Mrs. Victoria Ratke",
+            "email": "qa.1784597474196.llski@serverest.dev",
+            "password": "2D7o2HzHD69p",
+            "administrador": "true",
+            "_id": "HnXywznZIOoWQWIU"
+        },
+        {
+            "nome": "Bruna",
+            "email": "bruna.tecnologia@gmail.com",
+            "password": "Lg!Yq8Df",
+            "administrador": "false",
+            "_id": "WmS2zYCpDpxBIu6L"
+        },
+        {
+            "nome": "Dr. Sabrina Erdman",
+            "email": "qa.1784597587559.kxknn@serverest.dev",
+            "password": "Gb_QE1thxPTN",
+            "administrador": "true",
+            "_id": "b4gtxOaiUNQSJTHL"
+        },
+        {
+            "nome": "Dra. Vinicius Castanho",
+            "email": "carolina.guedes@live.com",
+            "password": "maa8un0wgd447ac3cfy",
+            "administrador": "false",
+            "_id": "q6wK0Vc0CZqvfyLy"
+        },
+        {
+            "nome": "Cindy Runolfsson",
+            "email": "qa.1784598131172.c2jhq@serverest.dev",
+            "password": "qvRiPP14WZ9T",
+            "administrador": "true",
+            "_id": "yCVDVHnFhnT3kkht"
+        }
+    ]
+}
