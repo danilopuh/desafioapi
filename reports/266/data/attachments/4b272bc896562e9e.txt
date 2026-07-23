@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Belinda Herman",
+            "email": "Robbie_DuBuque@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "3RKiZhBGkp5zF4MV"
+        },
+        {
+            "nome": "Dr. João Lobos",
+            "email": "bento.bonfim@yahoo.com",
+            "password": "bgin2pkqqw6ub76qk",
+            "administrador": "false",
+            "_id": "8mgJZJwUbMtv7V31"
+        },
+        {
+            "nome": "Noah Bulhões",
+            "email": "marcos.araujo@yahoo.com",
+            "password": "g2zkqlsbuwa5qt",
+            "administrador": "false",
+            "_id": "JqBMEpeM37cESqha"
+        },
+        {
+            "nome": "Sr. Lara Franco",
+            "email": "vitoria.parreira@yahoo.com",
+            "password": "zz14jin7ko9",
+            "administrador": "false",
+            "_id": "JsiXZKwjGql7YKcu"
+        },
+        {
+            "nome": "Fernando da Maia Filho",
+            "email": "catarina.silva@live.com",
+            "password": "pgafwf6shvg5eij",
+            "administrador": "false",
+            "_id": "K4ntLOeuYK1HR2hY"
+        },
+        {
+            "nome": "Isis da Silveira",
+            "email": "joaosamuel.quarteira@gmail.com",
+            "password": "qgsr3igjma8at",
+            "administrador": "false",
+            "_id": "Nz56KDnH0e71uwrE"
+        },
+        {
+            "nome": "manin",
+            "email": "manin@teste.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "OoY4den957FDYioR"
+        },
+        {
+            "nome": "Sra. Enzo Gabriel Amoreira",
+            "email": "livia.beltrao@hotmail.com",
+            "password": "f10x39t5qrmthn8f",
+            "administrador": "false",
+            "_id": "dhea3rBWpTR0cxXj"
+        },
+        {
+            "nome": "Mateus12",
+            "email": "camilo112345@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "hu3CRerWhx9ntMkH"
+        }
+    ]
+}
