@@ -1,0 +1,145 @@
+{
+    "quantidade": 20,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "fabio",
+            "email": "fabio@g.com.br",
+            "password": "post",
+            "administrador": "true",
+            "_id": "1VsfbG82YkBr71Xz"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "1d8UuEk3HPavMQ5V"
+        },
+        {
+            "nome": "QA User 1784943593968",
+            "email": "qa.email1784943593968@example.com",
+            "password": "Qa1784943593968",
+            "administrador": "true",
+            "_id": "3hnUdG4uHZxEHrto"
+        },
+        {
+            "nome": "QA User 1784943164709",
+            "email": "qa.email1784943164709@example.com",
+            "password": "Qa1784943164709",
+            "administrador": "true",
+            "_id": "7eTWylMxDJcZIQrs"
+        },
+        {
+            "administrador": "true",
+            "email": "test178494018802037550568555@example.com",
+            "nome": "Test User 12709",
+            "password": "Test123!",
+            "_id": "99UmUFvNq0DgfO4E"
+        },
+        {
+            "nome": "gabriel",
+            "email": "gab14@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "CDxcEyFUYShwIC2Q"
+        },
+        {
+            "nome": "Guilherme Soeira Filho",
+            "email": "matheus.pedroso@hotmail.com",
+            "password": "8xqgm5ssb9",
+            "administrador": "false",
+            "_id": "DicPAnGMahnsCFGR"
+        },
+        {
+            "nome": "Fabio",
+            "email": "Fabio@g.com.br",
+            "password": "post",
+            "administrador": "true",
+            "_id": "FUVLiW6GH0zCKxzG"
+        },
+        {
+            "nome": "QA User 1784943588775",
+            "email": "qa.email1784943588775@example.com",
+            "password": "Qa1784943588775",
+            "administrador": "true",
+            "_id": "LIioIm4PYtRRIuwp"
+        },
+        {
+            "nome": "Ethel Mertz",
+            "email": "Lamar_Kuvalis@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "LcI0VL4qMs7HadGD"
+        },
+        {
+            "nome": "QA User 1784939603428",
+            "email": "qa.email1784939603428@example.com",
+            "password": "Qa1784939603428",
+            "administrador": "true",
+            "_id": "Ni4gQ76UysZ8MNdD"
+        },
+        {
+            "nome": "Maria Alice Dorneles",
+            "email": "marina.banheira@live.com",
+            "password": "rs3mge2txzcrg",
+            "administrador": "false",
+            "_id": "OzEHYYizpPdbFh3Z"
+        },
+        {
+            "nome": "Bianca Costa",
+            "email": "clara.bentes@bol.com.br",
+            "password": "f32qnme5j",
+            "administrador": "false",
+            "_id": "UeHk5akDKYJirv97"
+        },
+        {
+            "nome": "Bernardo Gabeira",
+            "email": "ruan.jesus@gmail.com",
+            "password": "m1as026bx",
+            "administrador": "false",
+            "_id": "ejQLQX6iy0TmIB0T"
+        },
+        {
+            "nome": "Célia Silveira Filho",
+            "email": "morgana.cerqueira@gmail.com",
+            "password": "vpjzdfc5",
+            "administrador": "false",
+            "_id": "oVyI6vksy81UOeG7"
+        },
+        {
+            "nome": "QA User 1784943591656",
+            "email": "qa.email1784943591656@example.com",
+            "password": "Qa1784943591656",
+            "administrador": "true",
+            "_id": "q68MPE3HltD7WtDF"
+        },
+        {
+            "nome": "QA User 1784944057288",
+            "email": "qa.email1784944057288@example.com",
+            "password": "Qa1784944057288",
+            "administrador": "true",
+            "_id": "rkAa7CeNuw9Ye0HP"
+        },
+        {
+            "nome": "Suite Admin",
+            "email": "zachary86@example.net",
+            "password": "Admin123!",
+            "administrador": "true",
+            "_id": "vNPrOKB0J4QRMnXB"
+        },
+        {
+            "administrador": "false",
+            "email": "test178494018841507689582581@example.com",
+            "nome": "Test User 607450",
+            "password": "Test123!",
+            "_id": "xmui8ebmpmcOjXlg"
+        }
+    ]
+}
