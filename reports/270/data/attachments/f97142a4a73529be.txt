@@ -1,0 +1,495 @@
+{
+    "quantidade": 70,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Emilly Tavares",
+            "email": "qa_8f8bb4a8@carrefour-teste.com",
+            "password": "6189jsdi",
+            "administrador": "true",
+            "_id": "2Hs4RBMHYG9wYW70"
+        },
+        {
+            "nome": "Adriana da Costa",
+            "email": "qa_cdca6e39@carrefour-teste.com",
+            "password": "h7n5ex9jf",
+            "administrador": "false",
+            "_id": "2mD3uKwxkFoghHiP"
+        },
+        {
+            "nome": "Carla Maria de Souza Lima",
+            "email": "qa_fe65a8cf@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "3utwlN6wzdQGbW6R"
+        },
+        {
+            "nome": "Pablo Espinheira",
+            "email": "qa_934689d3@carrefour-teste.com",
+            "password": "e1l71bpm1056",
+            "administrador": "true",
+            "_id": "4RO9jNAvCcEVFOtD"
+        },
+        {
+            "nome": "Dr. Ana Martins",
+            "email": "qa_92196983@carrefour-teste.com",
+            "password": "vo874v2iu",
+            "administrador": "false",
+            "_id": "5K4kO9aPnQZFDOd0"
+        },
+        {
+            "nome": "Murilo Moniz",
+            "email": "qa_a1e0e93a@carrefour-teste.com",
+            "password": "oj84t5bpg96",
+            "administrador": "true",
+            "_id": "5gVaDwOHIA99PtxN"
+        },
+        {
+            "nome": "Ricardo da Rocha",
+            "email": "qa_d02aa0df@carrefour-teste.com",
+            "password": "v8819g6a8y",
+            "administrador": "false",
+            "_id": "5lNt2EcislHErG8w"
+        },
+        {
+            "nome": "Bruno Comum",
+            "email": "qa_28dd9464@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "6Bz7EHmcfq9v4TlX"
+        },
+        {
+            "nome": "Ana Administradora",
+            "email": "qa_5da6af4c@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "7Z6gMoTyzbKnazPL"
+        },
+        {
+            "nome": "Joana Veloso",
+            "email": "qa_9c042c06@carrefour-teste.com",
+            "password": "7f8hf664",
+            "administrador": "true",
+            "_id": "80zO3d6KYPddLkoJ"
+        },
+        {
+            "nome": "Bruno Comum",
+            "email": "qa_646e7cd1@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "81paVbq239XrOCAK"
+        },
+        {
+            "nome": "Olívia da Cunha Neto",
+            "email": "qa_91c96744@carrefour-teste.com",
+            "password": "b876870vb",
+            "administrador": "true",
+            "_id": "8OEpMANCwdH7g654"
+        },
+        {
+            "nome": "Mércia de Borba",
+            "email": "qa_67fe4f3b@carrefour-teste.com",
+            "password": "6796xv30b5",
+            "administrador": "true",
+            "_id": "9PPKvIkC0suVjVZg"
+        },
+        {
+            "nome": "Dra. Heloísa Castanheira",
+            "email": "norberto.dacosta@yahoo.com",
+            "password": "h7k3j4peo0a5tm5ta",
+            "administrador": "false",
+            "_id": "C6JIZ3KEOZEHHFQ1"
+        },
+        {
+            "nome": "Dra. João Felipe Guedes",
+            "email": "qa_633bb97a@carrefour-teste.com",
+            "password": "qmk93240u5k0",
+            "administrador": "true",
+            "_id": "D6ukNsWKIge9LPte"
+        },
+        {
+            "nome": "Vicente Porto",
+            "email": "qa_2de9ccb5@carrefour-teste.com",
+            "password": "2p9omn89p",
+            "administrador": "false",
+            "_id": "DExf84o9qxMzfEEg"
+        },
+        {
+            "nome": "Dra. Gabrielly Vasques",
+            "email": "qa_35323b6f@carrefour-teste.com",
+            "password": "2k3zf1us7",
+            "administrador": "true",
+            "_id": "Dq2ZLJgenvbehtjP"
+        },
+        {
+            "nome": "Maria Sophia Casqueira",
+            "email": "qa_45c2d37a@carrefour-teste.com",
+            "password": "6y94j82h",
+            "administrador": "true",
+            "_id": "FNcIltxLnZWvl8j2"
+        },
+        {
+            "nome": "Márcio Carreira Neto",
+            "email": "qa_dec68545@carrefour-teste.com",
+            "password": "8c70t62qa80j",
+            "administrador": "false",
+            "_id": "Fb4KxsC4GGQH76Ka"
+        },
+        {
+            "nome": "Gabrielly Carneiro",
+            "email": "qa_39266fe9@carrefour-teste.com",
+            "password": "0ddal54bec",
+            "administrador": "false",
+            "_id": "FhF6sGZTnUYRLZrZ"
+        },
+        {
+            "nome": "Luiz Felipe Marques",
+            "email": "qa_f20f6499@carrefour-teste.com",
+            "password": "23bat0y1yi9",
+            "administrador": "true",
+            "_id": "HG4vUuxCrNsfVVTf"
+        },
+        {
+            "nome": "Carla Maria de Souza Lima",
+            "email": "qa_b9529f8f@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "K3wlEs20GrlEFNjY"
+        },
+        {
+            "nome": "Beatriz de Assunção",
+            "email": "qa_8a527774@carrefour-teste.com",
+            "password": "ya0kgq2n",
+            "administrador": "true",
+            "_id": "LbqXRGtjzH9kBGl0"
+        },
+        {
+            "nome": "Lorraine Fisher",
+            "email": "Imogene_Kling@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "NgTzMawP1LdNQP39"
+        },
+        {
+            "nome": "Ana Administradora",
+            "email": "qa_114f10b8@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "OSpoIbhWAI9DkYXb"
+        },
+        {
+            "nome": "Srta. Luiz Miguel Caldas",
+            "email": "qa_d9f0b3ca@carrefour-teste.com",
+            "password": "0sayp2kkp1",
+            "administrador": "false",
+            "_id": "PjHBEPi9kj0vs1zY"
+        },
+        {
+            "nome": "Luana Modesto",
+            "email": "qa_35a5aa64@carrefour-teste.com",
+            "password": "8np0055l1w",
+            "administrador": "false",
+            "_id": "QGaGXTKOsz6x7AV8"
+        },
+        {
+            "nome": "Dr. Paula Monteiro",
+            "email": "qa_c9122f78@carrefour-teste.com",
+            "password": "ud7w3jv8k",
+            "administrador": "true",
+            "_id": "QeYZns5IQ88BrVlX"
+        },
+        {
+            "nome": "Luiz Henrique Cachoeira",
+            "email": "qa_9be14004@carrefour-teste.com",
+            "password": "nmza3bet45l7",
+            "administrador": "false",
+            "_id": "Qw6dtil7Stt11EDM"
+        },
+        {
+            "nome": "Joaquim Nogueira",
+            "email": "qa_8e71756d@carrefour-teste.com",
+            "password": "4j9ku2kr3q",
+            "administrador": "false",
+            "_id": "RhGvOhHpJmEzDB1V"
+        },
+        {
+            "nome": "Sr. Karla Galego",
+            "email": "qa_4acd62d4@carrefour-teste.com",
+            "password": "i10k6u16pe",
+            "administrador": "true",
+            "_id": "RtkAeikOBaT6BnJp"
+        },
+        {
+            "nome": "Yasmin Viveiros",
+            "email": "qa_942caf27@carrefour-teste.com",
+            "password": "24cl8k27w03",
+            "administrador": "true",
+            "_id": "RxYb0ahsDqnZqGi5"
+        },
+        {
+            "nome": "Pietro Santos",
+            "email": "qa_154ffa72@carrefour-teste.com",
+            "password": "450faj2u513",
+            "administrador": "true",
+            "_id": "SAqRbKZw7lYoNvAJ"
+        },
+        {
+            "nome": "Enzo Thiago Martim Neto",
+            "email": "qa_b6793da4@carrefour-teste.com",
+            "password": "tv9v7s229",
+            "administrador": "false",
+            "_id": "SZbhsQBm91Pqk6CW"
+        },
+        {
+            "nome": "Olívia Ordonhes",
+            "email": "qa_38e11753@carrefour-teste.com",
+            "password": "5tl82k4p8r7x",
+            "administrador": "false",
+            "_id": "TcbuoXVkXU3u5oHI"
+        },
+        {
+            "nome": "Ana Administradora",
+            "email": "qa_ea3639c6@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "UC6RrCGleRT65B1X"
+        },
+        {
+            "nome": "Carla Maria de Souza Lima",
+            "email": "qa_4c5b5bc6@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "V4JTp5naumZyxE1B"
+        },
+        {
+            "nome": "Maria Sophia Barroso",
+            "email": "qa_41cda629@carrefour-teste.com",
+            "password": "nz4o8t0v531",
+            "administrador": "true",
+            "_id": "ViHrYuD0g9q30CBb"
+        },
+        {
+            "nome": "Ana Administradora",
+            "email": "qa_99712415@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "WjEGEmCrUd6TjXWJ"
+        },
+        {
+            "nome": "Isadora Filgueira",
+            "email": "qa_5f552695@carrefour-teste.com",
+            "password": "w6563l324",
+            "administrador": "true",
+            "_id": "WqYWukQeTu4eiO5g"
+        },
+        {
+            "nome": "Luiza de Sá",
+            "email": "qa_669ef01e@carrefour-teste.com",
+            "password": "ey96mjv55",
+            "administrador": "true",
+            "_id": "YSfHwRsYxxH1KI68"
+        },
+        {
+            "nome": "Carla Maria de Souza Lima",
+            "email": "qa_1751b9bf@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "aDGilS3X2m6gwj3k"
+        },
+        {
+            "nome": "Sarah Cruz",
+            "email": "qa_55bcbbbc@carrefour-teste.com",
+            "password": "7ai83n51i",
+            "administrador": "false",
+            "_id": "c2HCnfzlEItE8xBF"
+        },
+        {
+            "nome": "Sr. Bruno Munhoz",
+            "email": "qa_73affa54@carrefour-teste.com",
+            "password": "x2g0dilz84",
+            "administrador": "false",
+            "_id": "cHAcTdM0CNEt5sDb"
+        },
+        {
+            "nome": "Lorenzo Guedes Filho",
+            "email": "qa_28a9a9b7@carrefour-teste.com",
+            "password": "4hy7b40zn3",
+            "administrador": "true",
+            "_id": "dp2lIxuwPDlpJlj4"
+        },
+        {
+            "nome": "Isadora Cachoeira",
+            "email": "qa_71801064@carrefour-teste.com",
+            "password": "g774a3hd",
+            "administrador": "true",
+            "_id": "e34LTeIZuZohbImK"
+        },
+        {
+            "nome": "Bruno Comum",
+            "email": "qa_b39873f4@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "f9tD9fPN07oPxJYa"
+        },
+        {
+            "nome": "Bruno Comum",
+            "email": "qa_f5359241@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "fkFwr7Gf8MSmM7Aj"
+        },
+        {
+            "nome": "Mariana Henriques",
+            "email": "qa_f600d2aa@carrefour-teste.com",
+            "password": "413t866s35",
+            "administrador": "false",
+            "_id": "g0A9G1TsOWMBLbW3"
+        },
+        {
+            "nome": "Dalila Gomide Jr.",
+            "email": "qa_6f541448@carrefour-teste.com",
+            "password": "f2w9z93f6",
+            "administrador": "false",
+            "_id": "gN8F7DYshn7UCfTL"
+        },
+        {
+            "nome": "Theo Freitas",
+            "email": "qa_6aef2702@carrefour-teste.com",
+            "password": "2p0cc32t85",
+            "administrador": "false",
+            "_id": "gVP9J8IOv5IWj7Cn"
+        },
+        {
+            "nome": "Thomas Godins",
+            "email": "qa_dbf40d34@carrefour-teste.com",
+            "password": "r3i6bx0rypjg",
+            "administrador": "true",
+            "_id": "gaYMouRUZTP0hjI2"
+        },
+        {
+            "nome": "Antonella da Rocha",
+            "email": "ryan.barreto@bol.com.br",
+            "password": "2fbnjjfj8lid76roq",
+            "administrador": "false",
+            "_id": "hqFCMRoPm6q3382y"
+        },
+        {
+            "nome": "Warley Taveira",
+            "email": "qa_d7b51e14@carrefour-teste.com",
+            "password": "1d0099h5",
+            "administrador": "false",
+            "_id": "hqub7yyykNWJ82uM"
+        },
+        {
+            "nome": "Carla Maria de Souza Lima",
+            "email": "qa_6a3d736b@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "iMN0tzfl1U6uUAsZ"
+        },
+        {
+            "nome": "Luiz Felipe da Mata Neto",
+            "email": "qa_801b3dc0@carrefour-teste.com",
+            "password": "320n5zo1y",
+            "administrador": "true",
+            "_id": "lzyHGhUsvz7TRjGg"
+        },
+        {
+            "nome": "Washington de Sá",
+            "email": "qa_23d0cda6@carrefour-teste.com",
+            "password": "18wtq1x6o5k4",
+            "administrador": "true",
+            "_id": "mAQK4CPmOZWy6yAg"
+        },
+        {
+            "nome": "Cauã Simão",
+            "email": "qa_f044e76d@carrefour-teste.com",
+            "password": "cpwg13x8o7",
+            "administrador": "true",
+            "_id": "nAHGpqqC6jzf9fNr"
+        },
+        {
+            "nome": "Ana Beatriz Geraldes",
+            "email": "qa_90aa2b7c@carrefour-teste.com",
+            "password": "ygt5t2r6",
+            "administrador": "true",
+            "_id": "nI5uTrDYeIMGyYcD"
+        },
+        {
+            "nome": "Ana Administradora",
+            "email": "qa_b50b2610@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "oBT2gLXUNjmy3uSi"
+        },
+        {
+            "nome": "Eduarda Franco",
+            "email": "qa_ae26c2fe@carrefour-teste.com",
+            "password": "t5dsoo89mfe",
+            "administrador": "true",
+            "_id": "obxG6eH4x5U9tQEf"
+        },
+        {
+            "nome": "Sra. Márcio Rodrigues",
+            "email": "qa_d7fd5309@carrefour-teste.com",
+            "password": "3jl5inv678sx",
+            "administrador": "true",
+            "_id": "paZkex0xA8dmXMKj"
+        },
+        {
+            "nome": "Ian Aguiar Filho",
+            "email": "qa_a0320fef@carrefour-teste.com",
+            "password": "hi9vtb811w1s",
+            "administrador": "true",
+            "_id": "q7a0iUToDyxiUPGW"
+        },
+        {
+            "nome": "Fernando da Gama Neto",
+            "email": "qa_584ef400@carrefour-teste.com",
+            "password": "6uhefbl64t",
+            "administrador": "true",
+            "_id": "ql3M8f2OIjPoAop6"
+        },
+        {
+            "nome": "Tomás Peixoto",
+            "email": "washington.coqueiro@gmail.com",
+            "password": "j9xqt2ywdi3dlc",
+            "administrador": "false",
+            "_id": "tlpwj470EVvzrlrU"
+        },
+        {
+            "nome": "Liz Castelo",
+            "email": "qa_807c2c13@carrefour-teste.com",
+            "password": "uh364ej0",
+            "administrador": "true",
+            "_id": "v7O40BX2gxpPBdsw"
+        },
+        {
+            "nome": "Bruno Comum",
+            "email": "qa_51f839a5@carrefour-teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "vsGdlp7uE9foXahl"
+        },
+        {
+            "nome": "Gabrielly Geraldes",
+            "email": "qa_0ad223ce@carrefour-teste.com",
+            "password": "544t0na55q4x",
+            "administrador": "false",
+            "_id": "x75iAaWg6vocpSn1"
+        },
+        {
+            "nome": "Calebe Madeira Filho",
+            "email": "qa_d71de572@carrefour-teste.com",
+            "password": "p6531735",
+            "administrador": "false",
+            "_id": "y1cAecLP3G9mPwpm"
+        }
+    ]
+}
