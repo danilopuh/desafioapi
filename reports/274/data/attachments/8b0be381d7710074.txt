@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sra. Márcio Resende",
+            "email": "ana.nogueira@hotmail.com",
+            "password": "l6k1np8yqd789",
+            "administrador": "false",
+            "_id": "7a4f7Ln9IhDZ7I2I"
+        }
+    ]
+}
