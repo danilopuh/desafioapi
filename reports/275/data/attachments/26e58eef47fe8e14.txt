@@ -1,0 +1,390 @@
+{
+    "quantidade": 55,
+    "usuarios": [
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Sophie.Dooley@gmail.com",
+            "password": "VD2lbAkORJMIRs8",
+            "_id": "0szbd12R35l9kmNA"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "User sr-92o234ol",
+            "email": "user-xazbe818.1785553129889@example.com",
+            "password": "pw-usr-pcd8qwy7qh",
+            "administrador": "false",
+            "_id": "0ygwbPlcapMoXx6U"
+        },
+        {
+            "nome": "Mrs. Esta Smith",
+            "email": "qa.1785553645950109.leroy.batz@teste.com",
+            "password": "s3vvIGxAiC",
+            "administrador": "true",
+            "_id": "32UQOm59TpGwimNy"
+        },
+        {
+            "nome": "User sr-9hh24lam",
+            "email": "user-030kmiyp.1785553044640@example.com",
+            "password": "pw-usr-5z9f88fzvm",
+            "administrador": "false",
+            "_id": "344DMciN2ikW4cBT"
+        },
+        {
+            "nome": "Admin sr-446w5xhm",
+            "email": "user-kcpwg8zf.1785553053218@example.com",
+            "password": "pw-adm-sqpgt50009",
+            "administrador": "true",
+            "_id": "3XujL1G4rUa8vldI"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "new_Cleta.Rodriguez10@hotmail.com",
+            "password": "nw0Tq1HjZwmUc2l",
+            "_id": "3cpFexXUycnCRtNU"
+        },
+        {
+            "nome": "User sr-vju294c5",
+            "email": "user-m7uqu9fx.1785553044663@example.com",
+            "password": "pw-usr-zunr0ebevp",
+            "administrador": "false",
+            "_id": "3qb4ah20crdnd3DH"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Novella_Leuschke-Schneider@hotmail.com",
+            "password": "0XAnmE64nZagqVQ",
+            "_id": "3z3cz9nd1jtyrbRi"
+        },
+        {
+            "nome": "Melissa Nogueira",
+            "email": "joaoluca.siqueiro@gmail.com",
+            "password": "upyo7x9lzqkjgmh9p9",
+            "administrador": "false",
+            "_id": "5JhPtDTR81a2yQHW"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Jude_Gerlach-Hammes@gmail.com",
+            "password": "aa3AidMeDCPrVCE",
+            "_id": "5Pm7jIdzMUWP58Vb"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "new_Terrill_Tremblay-Donnelly41@yahoo.com",
+            "password": "UElmegNvwoToywf",
+            "_id": "5uich5VGbxkiomlq"
+        },
+        {
+            "nome": "Admin sr-qah8ip4y",
+            "email": "user-oiuc56kj.1785553129892@example.com",
+            "password": "pw-adm-stvq1hjpgt",
+            "administrador": "true",
+            "_id": "6niNrrwNWzOY9MYL"
+        },
+        {
+            "nome": "Lavínia Barata",
+            "email": "pedrohenrique.dorneles@bol.com.br",
+            "password": "i0kd0vycef9tblv",
+            "administrador": "false",
+            "_id": "7pBkKzzlJbW2Jhdw"
+        },
+        {
+            "nome": "Ana Beatriz Bomdia",
+            "email": "arthur.gomide@yahoo.com",
+            "password": "rfcrsy5vk8",
+            "administrador": "false",
+            "_id": "ARw1YkPYrBpW5s37"
+        },
+        {
+            "nome": "Admin sr-jv908imd",
+            "email": "user-rwe125yr.1785553053237@example.com",
+            "password": "pw-adm-9b9pa1c2cr",
+            "administrador": "true",
+            "_id": "CcEJLHNRl7ucnDO5"
+        },
+        {
+            "nome": "User sr-h901v9l1",
+            "email": "user-24oplt94.1785553040036@example.com",
+            "password": "pw-usr-n03shezm5e",
+            "administrador": "false",
+            "_id": "D9mKdSGC96J8Gb6e"
+        },
+        {
+            "nome": "User sr-1ctx2y09",
+            "email": "user-1c2g2m0g.1785553041378@example.com",
+            "password": "pw-usr-rxhi5b0ah1",
+            "administrador": "false",
+            "_id": "DGg0iqUPqQSqF04N"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Patience80@gmail.com",
+            "password": "jQBvTIr5BA_2KCZ",
+            "_id": "E0dlU7FNPJo1PYAH"
+        },
+        {
+            "nome": "User sr-88ci6la7",
+            "email": "user-0zd8yqj5.1785553041507@example.com",
+            "password": "pw-usr-dw67nkv7vn",
+            "administrador": "false",
+            "_id": "HAcnxf2hnusAEZJC"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Pascale.Boyle@hotmail.com",
+            "password": "uWXfdAxDm9GpDRr",
+            "_id": "HDfiiS1OhG7k32R8"
+        },
+        {
+            "nome": "Admin sr-hb3qrd1a",
+            "email": "user-i7hdjc7i.1785553043624@example.com",
+            "password": "pw-adm-4hl730yx8u",
+            "administrador": "true",
+            "_id": "JmR9jx1bCdCcUy8a"
+        },
+        {
+            "nome": "User sr-2dzyw8nb",
+            "email": "user-ayuvejj4.1785553054582@example.com",
+            "password": "pw-usr-k5vhrcolzz",
+            "administrador": "false",
+            "_id": "KzgWpbMkvqqoY7yQ"
+        },
+        {
+            "nome": "User sr-57ykixgn",
+            "email": "user-sjh6aejo.1785553043159@example.com",
+            "password": "pw-usr-brt1t15qt8",
+            "administrador": "false",
+            "_id": "LmFiEVBwVesWedJj"
+        },
+        {
+            "nome": "User sr-5fgt1arc",
+            "email": "user-9yrzfm5b.1785553045122@example.com",
+            "password": "pw-usr-nwirchudgs",
+            "administrador": "false",
+            "_id": "NTDy7TvbWC81TSFg"
+        },
+        {
+            "nome": "User sr-vockc0c5",
+            "email": "user-ble69ccl.1785553044253@example.com",
+            "password": "pw-usr-r6zrn97qxn",
+            "administrador": "false",
+            "_id": "PtyrT49LysCPtzV4"
+        },
+        {
+            "nome": "Admin sr-lxu35y3j",
+            "email": "user-zo8y8l8n.1785553129898@example.com",
+            "password": "pw-adm-jcp32kidnx",
+            "administrador": "true",
+            "_id": "QCcsUS5WWYLZwkE6"
+        },
+        {
+            "nome": "Admin sr-3mm4oi6h",
+            "email": "user-e334tkdt.1785553053204@example.com",
+            "password": "pw-adm-tbnfs3qeei",
+            "administrador": "true",
+            "_id": "Rs2zKVdkXMzgl8rm"
+        },
+        {
+            "nome": "Caio Ramires",
+            "email": "anasophia.damata@live.com",
+            "password": "3m2b9x74cv9gs",
+            "administrador": "false",
+            "_id": "SIoL5sEB5Q2k1LLH"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Jett76@hotmail.com",
+            "password": "JnEKZGsGlbBrgtM",
+            "_id": "SPhXXow5K9Wv4805"
+        },
+        {
+            "nome": "User sr-pr7gqp3v",
+            "email": "user-ruy43vz7.1785553054194@example.com",
+            "password": "pw-usr-c33qb79810",
+            "administrador": "false",
+            "_id": "V79R0HP8024RYIs5"
+        },
+        {
+            "nome": "Admin sr-ezj1s66t",
+            "email": "user-ckadlarn.1785553043616@example.com",
+            "password": "pw-adm-myosvp1cis",
+            "administrador": "true",
+            "_id": "VX9G4Uxv6RZSewUQ"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Laurianne82@gmail.com",
+            "password": "TsbNzEt9IzzxYTy",
+            "_id": "VphvkRWaHt1aODsN"
+        },
+        {
+            "nome": "Admin sr-7r91u4s5",
+            "email": "user-jphuwodl.1785553040018@example.com",
+            "password": "pw-adm-i0dhhbhxnz",
+            "administrador": "true",
+            "_id": "WGf6FwmEnyCBPzk0"
+        },
+        {
+            "nome": "Admin sr-2xr5j5cz",
+            "email": "user-3fbjoqpt.1785553040047@example.com",
+            "password": "pw-adm-ewqkoywzlp",
+            "administrador": "true",
+            "_id": "XT2VZfCK57PmJfAl"
+        },
+        {
+            "nome": "Admin sr-dd844ju7",
+            "email": "user-0uagtfdf.1785553043172@example.com",
+            "password": "pw-adm-7uyu7howeb",
+            "administrador": "true",
+            "_id": "YxYnE3yUwFXe0r32"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Sophia.Kuhic28@hotmail.com",
+            "password": "CdsNq6m1GFyJ1mb",
+            "_id": "ZvUTLllD3SGe9emS"
+        },
+        {
+            "nome": "Admin sr-vmogr670",
+            "email": "user-s9tvq75q.1785553043161@example.com",
+            "password": "pw-adm-t8rjc6njjg",
+            "administrador": "true",
+            "_id": "apVylA0MITNo2WDg"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Ivy38@hotmail.com",
+            "password": "eg9VPZmb2ocWMjZ",
+            "_id": "dmhOTTiMdFPSekYs"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Kayla.Abshire89@gmail.com",
+            "password": "wuYvw0EukSZQwJq",
+            "_id": "ep2v0UYAVIyltFD3"
+        },
+        {
+            "nome": "Admin sr-2sb9irga",
+            "email": "user-lckcdbue.1785553040061@example.com",
+            "password": "pw-adm-umbid9os9o",
+            "administrador": "true",
+            "_id": "gNKoAVWxe98OUiV2"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Lucie.Bogan@hotmail.com",
+            "password": "On3yVTqAjk9UCpQ",
+            "_id": "hE5LKBw7BU5V7v0U"
+        },
+        {
+            "nome": "Admin sr-o2y2lc6o",
+            "email": "user-7n8mf41z.1785553043166@example.com",
+            "password": "pw-adm-eifnnetzxv",
+            "administrador": "true",
+            "_id": "inkxfXJDMU9JFsyK"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Darian.Kautzer23@hotmail.com",
+            "password": "QYsBQvzK6G0QqTq",
+            "_id": "jqT2TLp5VoSBY0CD"
+        },
+        {
+            "nome": "Francisca Peres",
+            "email": "hugo.nogueira@gmail.com",
+            "password": "hanqw5a8h",
+            "administrador": "false",
+            "_id": "kSQHdVrs6yxRi1Yk"
+        },
+        {
+            "nome": "User sr-3t6xa7a5",
+            "email": "user-0te0dhno.1785553043585@example.com",
+            "password": "pw-usr-zso5jfla1k",
+            "administrador": "false",
+            "_id": "nsnGIdUGame1bmwX"
+        },
+        {
+            "nome": "User sr-83kc3isb",
+            "email": "user-f76xwnhm.1785553053252@example.com",
+            "password": "pw-usr-q85gtjl02z",
+            "administrador": "false",
+            "_id": "puZfhyxO5SPVFz21"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Elton47@hotmail.com",
+            "password": "_pA2BwpPWe5eyVD",
+            "_id": "tGVuA1ovzHxiOdwv"
+        },
+        {
+            "nome": "Admin sr-3dcu70sr",
+            "email": "user-37ainbbh.1785553129883@example.com",
+            "password": "pw-adm-du4iy8oxaw",
+            "administrador": "true",
+            "_id": "uq2EFyQoSeldVh7l"
+        },
+        {
+            "nome": "Armando Simonis",
+            "email": "Blanca.Lind68@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "v1TlfgCGVKz58m1X"
+        },
+        {
+            "nome": "User sr-z0plks1y",
+            "email": "user-xzhlvrs9.1785553130870@example.com",
+            "password": "pw-usr-gti8nu8l5j",
+            "administrador": "false",
+            "_id": "vtN4yEJmKK8BDOR5"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "new_Peggie_Dickinson@gmail.com",
+            "password": "bdsIoVC8ZAAt_dw",
+            "_id": "vvCXMDmtffeNGFxd"
+        },
+        {
+            "nome": "User sr-p8kmw54k",
+            "email": "user-nx7ddr3m.1785553130869@example.com",
+            "password": "pw-usr-ejx79kg4l2",
+            "administrador": "false",
+            "_id": "xPNNQl8Gj0hkTGxl"
+        },
+        {
+            "nome": "Admin sr-bfb4reje",
+            "email": "user-u8ttduhm.1785553043659@example.com",
+            "password": "pw-adm-1z8zeipo4q",
+            "administrador": "true",
+            "_id": "y31NHMitIVH4FWlf"
+        },
+        {
+            "nome": "Douglas",
+            "administrador": "true",
+            "email": "Kayley66@gmail.com",
+            "password": "3ql88siw2gh99uq",
+            "_id": "zyf2WAB1zagGZyV5"
+        }
+    ]
+}
