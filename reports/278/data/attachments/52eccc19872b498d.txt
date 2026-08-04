@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Feliciano Ximenes",
+            "email": "enzo.cavalcanti@gmail.com",
+            "password": "s2fyein30tptp3xgccf",
+            "administrador": "false",
+            "_id": "9NYsD2r6FulhNfde"
+        },
+        {
+            "nome": "Dr. Aurora Martins",
+            "email": "lorena.rodrigues@bol.com.br",
+            "password": "5myyydirb",
+            "administrador": "false",
+            "_id": "RKMm9pq8ULChKNwY"
+        },
+        {
+            "nome": "Mrs. Marjorie Reilly DDS",
+            "email": "qa.1785812861028150.bryant_heathcote56@teste.com",
+            "password": "5YaUibI9f8",
+            "administrador": "true",
+            "_id": "fjktRoUw4OMIkcny"
+        },
+        {
+            "nome": "Ian Gutmann",
+            "email": "Dawson_Sipes44@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "gJeGUspVvK2iJrfB"
+        },
+        {
+            "nome": "Chung",
+            "email": "chung12345@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ogJ0EczrMVTh6YYf"
+        },
+        {
+            "nome": "Alice Lima",
+            "email": "rodrigo.dapenha@live.com",
+            "password": "knmeh5vpdgt",
+            "administrador": "false",
+            "_id": "sColYPG7Ps1UXusQ"
+        },
+        {
+            "nome": "Márcio Monteiro Filho",
+            "email": "fernando.veles@gmail.com",
+            "password": "kkdw23z4v2ehs",
+            "administrador": "false",
+            "_id": "wl704jFM9MYdOrOS"
+        },
+        {
+            "nome": "John Lindgren",
+            "email": "qa.1785812862420804.scott.rohan@teste.com",
+            "password": "J_eGb8XYoK",
+            "administrador": "false",
+            "_id": "x0xqEOAh2sLjfaln"
+        }
+    ]
+}
