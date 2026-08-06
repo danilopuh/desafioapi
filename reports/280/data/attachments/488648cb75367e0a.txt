@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Sophie Arantes",
+            "email": "tomas.munhoz@live.com",
+            "password": "xp36zecrmkrbsfxzw",
+            "administrador": "true",
+            "_id": "0hBlRvfCYxYQ5QvJ"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Maria Vitória Espinheira",
+            "email": "melissa.roseira@yahoo.com",
+            "password": "32n0kfhv333nsfbj",
+            "administrador": "false",
+            "_id": "55eZ0CQK6wFPda7C"
+        },
+        {
+            "nome": "Marcia Lessa",
+            "email": "henry.sa@hotmail.com",
+            "password": "tsyzlxotiovl4x0ou",
+            "administrador": "false",
+            "_id": "NrkYFKVe2CnIYKtW"
+        },
+        {
+            "nome": "Beatriz Ferraço",
+            "email": "gabriel.cardoso@bol.com.br",
+            "password": "6nzhgl26s9yf11",
+            "administrador": "false",
+            "_id": "QJ3Lyp1s5vo3ZM6L"
+        },
+        {
+            "nome": "Srta. João Felipe Brites",
+            "email": "lara.rezende@gmail.com",
+            "password": "pptcv1cakzgxxugbcky",
+            "administrador": "true",
+            "_id": "Ztp7aQB9sLiSw6WW"
+        },
+        {
+            "nome": "Manuela Godins Filho",
+            "email": "rafael.palhares@bol.com.br",
+            "password": "tpedxzoztr",
+            "administrador": "false",
+            "_id": "eMJ9qDqhteGZSncr"
+        },
+        {
+            "nome": "Ana Clara Lobos",
+            "email": "theo.rocha@live.com",
+            "password": "k44ifhqm",
+            "administrador": "false",
+            "_id": "hrCOHaNr8OIZ4Mtl"
+        },
+        {
+            "nome": "Sra. Felícia Neves",
+            "email": "yasmin.casqueira@bol.com.br",
+            "password": "u19tymmajcvif7",
+            "administrador": "false",
+            "_id": "iQqipskbWD5Ecazu"
+        },
+        {
+            "nome": "Sra. Henrique Munhoz",
+            "email": "lucas.damadureira@gmail.com",
+            "password": "n4mvnsgaa63xv4z64po",
+            "administrador": "false",
+            "_id": "s9zxqNLRCFOWqd31"
+        },
+        {
+            "nome": "Allana Banheira Filho",
+            "email": "enzothiago.custodio@bol.com.br",
+            "password": "xo9t9yayib79bt39s",
+            "administrador": "true",
+            "_id": "uWY9cMhkrnXvnzXu"
+        }
+    ]
+}
