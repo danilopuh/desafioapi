@@ -1,0 +1,110 @@
+{
+    "quantidade": 15,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva santos",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "email": "test.user.pm22vyt@example.com",
+            "password": "teste",
+            "nome": "Updated Name",
+            "administrador": "true",
+            "_id": "22trtYt6TMvVC5ka"
+        },
+        {
+            "email": "test.user.zjmszho@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "9zrVVkB2eSYrCMUS"
+        },
+        {
+            "nome": "Srta. Guilherme Pedroso",
+            "email": "pietra.crespo@bol.com.br",
+            "password": "htwugt95pwiwmbgso67",
+            "administrador": "false",
+            "_id": "Dod94oxHBQKqfBwF"
+        },
+        {
+            "nome": "TestUser",
+            "email": "test.user.seck9t0@example.com",
+            "password": "Teste123!",
+            "administrador": "true",
+            "_id": "E1HL7J0O2rtFLoYP"
+        },
+        {
+            "nome": "Fernanda Parreira",
+            "email": "agatha.dias@bol.com.br",
+            "password": "rv40jzypm",
+            "administrador": "false",
+            "_id": "JPy8uwEg0032GaMd"
+        },
+        {
+            "nome": "Kristie Rippin",
+            "email": "Blanche_King@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "QGzLXv62z28gSgKg"
+        },
+        {
+            "nome": "Luiz Roseira",
+            "email": "gustavo.ramos@hotmail.com",
+            "password": "3xeyed97qz1i2",
+            "administrador": "false",
+            "_id": "QtU3fgiYT9Ey6evd"
+        },
+        {
+            "nome": "Eduarda Barros",
+            "email": "isadora.rego@live.com",
+            "password": "phjow49nx0mcl4wrn",
+            "administrador": "false",
+            "_id": "gGOqCTftIPUvvJkO"
+        },
+        {
+            "nome": "TestUser",
+            "email": "test.user.0tawfa5@example.com",
+            "password": "Teste123!",
+            "administrador": "true",
+            "_id": "iIufCV3jtyXVV1Dg"
+        },
+        {
+            "email": "test.user.uj82rfi@example.com",
+            "password": "teste",
+            "nome": "Updated Name",
+            "administrador": "true",
+            "_id": "ngkjOi0q3CLC8ifN"
+        },
+        {
+            "email": "test.user.nbmyqu0@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "u5d3my11A2zcpTeA"
+        },
+        {
+            "email": "test.user.dmhy0yl@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "yH4b3IDH02L9LcLN"
+        },
+        {
+            "nome": "Felícia Brites",
+            "email": "norberto.longuinho@bol.com.br",
+            "password": "4bufy40y4",
+            "administrador": "false",
+            "_id": "ylpA8GAlutuE2D33"
+        },
+        {
+            "email": "test.user.v3exk9o@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "yp1Nimu9cNSn0rpF"
+        }
+    ]
+}
