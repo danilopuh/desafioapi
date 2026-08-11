@@ -1,0 +1,194 @@
+{
+    "quantidade": 27,
+    "usuarios": [
+        {
+            "nome": "Srta. Danilo Araujo",
+            "email": "gabriela.palhares@yahoo.com",
+            "password": "29nlwv37h3tb2",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "TestUser",
+            "email": "test.user.ggwghao@example.com",
+            "password": "Teste123!",
+            "administrador": "true",
+            "_id": "1zNps9A87bghDTms"
+        },
+        {
+            "email": "test.user.6s3hyke@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "4XEckdch7hr8p64R"
+        },
+        {
+            "nome": "Sra. Lara Duarte",
+            "email": "arthurmiguel.xavier@live.com",
+            "password": "zjotaw8wqx6lkg0rf",
+            "administrador": "false",
+            "_id": "60gqVeTQZd74xklC"
+        },
+        {
+            "nome": "Camila de Andrade",
+            "email": "camila@teste.com",
+            "password": "28nlwv37h3tb2",
+            "administrador": "true",
+            "_id": "6HYhk0jC5ICIeOdQ"
+        },
+        {
+            "email": "test.user.d53unsy@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "AUQ5s95v5MB6AIiD"
+        },
+        {
+            "nome": "Bryan Zulauf",
+            "email": "Selena8@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "CR29yVJBo0B5qDBU"
+        },
+        {
+            "nome": "Automacao Testes Delete",
+            "password": "teste",
+            "administrador": "true",
+            "email": "portfolio-api-jess3@qa.com.br",
+            "_id": "K0tK3sAkNbPhwU1b"
+        },
+        {
+            "nome": "Otis Hyatt",
+            "email": "Schuyler_OKon51@yahoo.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "MqgSi61ZAoBLR1Ka"
+        },
+        {
+            "nome": "Joey Romaguera",
+            "email": "Meredith_Murphy@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "Stl1smtLwu8Z1FKn"
+        },
+        {
+            "nome": "Theo Lubowitz",
+            "email": "user.1786414954152@qa.com",
+            "password": "newTest",
+            "administrador": "false",
+            "_id": "WNsjfDCtSVcV0Yz1"
+        },
+        {
+            "nome": "Francis Ziemann",
+            "email": "Gabe_Fay38@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "YnLxrBTA5lMm5B1u"
+        },
+        {
+            "nome": "Automacao Testes Alteracao",
+            "password": "teste",
+            "administrador": "true",
+            "email": "portfolio-api-jess2@qa.com.br",
+            "_id": "ZJ8rFPB7gt4a0npi"
+        },
+        {
+            "nome": "TestUser",
+            "email": "test.user.rzaxa7v@example.com",
+            "password": "Teste123!",
+            "administrador": "true",
+            "_id": "ap8hPd79Ah7JDfy1"
+        },
+        {
+            "nome": "Automacao Testes Consulta",
+            "password": "teste",
+            "administrador": "false",
+            "email": "portfolio-api-jess@qa.com.br",
+            "_id": "dhhRO4FFJPnhVCJ4"
+        },
+        {
+            "nome": "Katherine Douglas",
+            "email": "Oscar.Lueilwitz@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "fej5psiCBa22LHCE"
+        },
+        {
+            "nome": "Dr. Elísio Melo",
+            "email": "bruna.costa@yahoo.com",
+            "password": "rq5rve63yw",
+            "administrador": "false",
+            "_id": "hT3BUYN2xghbLvfi"
+        },
+        {
+            "nome": "Caleb Stokes",
+            "email": "Quinn.Schmidt@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "kIHHr44uzfVvnB0s"
+        },
+        {
+            "nome": "Frankie Cassin",
+            "email": "Natalie_Klocko35@serverest.dev",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "mKJHRYmTRuPVzMFa"
+        },
+        {
+            "email": "test.user.zlso65u@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "onMgRSBnUW0IRNRq"
+        },
+        {
+            "email": "test.user.5xsurx6@example.com",
+            "password": "teste",
+            "nome": "Updated Name",
+            "administrador": "true",
+            "_id": "qmOKevnYebhjYtzy"
+        },
+        {
+            "nome": "Gavin McDermott",
+            "email": "user.1786414958940@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "qsTq4YPRG6pF8uum"
+        },
+        {
+            "email": "test.user.ojexxsm@example.com",
+            "password": "teste",
+            "nome": "Updated Name",
+            "administrador": "true",
+            "_id": "rbWW78QWZSE4MGP5"
+        },
+        {
+            "nome": "Theo Lubowitz",
+            "email": "user.1786414953982@qa.com",
+            "password": "newTest",
+            "administrador": "false",
+            "_id": "sZJWwbLyvHprxJiB"
+        },
+        {
+            "nome": "Augustine Collier",
+            "email": "user.1786414958162@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "t1YpzZPDStmsfQWD"
+        },
+        {
+            "nome": "Murilo de Andrade Miranda",
+            "email": "muriloam2013@gmail.com",
+            "password": "Tm1315@",
+            "administrador": "false",
+            "_id": "ws4MnbWtmp8KlycH"
+        },
+        {
+            "email": "test.user.g4h4m6t@example.com",
+            "password": "teste",
+            "nome": "Test User",
+            "administrador": "true",
+            "_id": "xxiPyvvwJWrAADoa"
+        }
+    ]
+}
