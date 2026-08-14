@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Vitória Beltrão",
+            "email": "maite.figueira@yahoo.com",
+            "password": "k4u8sl76",
+            "administrador": "false",
+            "_id": "P4VLVv7pD4Jo6MWS"
+        },
+        {
+            "nome": "Mirella Paiva",
+            "email": "mariaalice.amoreira@bol.com.br",
+            "password": "mr9qnhgbxb4z26amyi",
+            "administrador": "false",
+            "_id": "PBwWaiAuWbuly5NA"
+        },
+        {
+            "nome": "Ana Vitória Marcondes",
+            "email": "joaofelipe.vasques@live.com",
+            "password": "5s5vttdp58gzq",
+            "administrador": "false",
+            "_id": "gzk3VSATFy0gfTRO"
+        },
+        {
+            "nome": "Alessandra Fontinhas",
+            "email": "roberto.damaia@hotmail.com",
+            "password": "y75nlxj3",
+            "administrador": "false",
+            "_id": "rxcf65eTj62samlx"
+        },
+        {
+            "nome": "Sra. Sarah Siqueira",
+            "email": "luizgustavo.costa@live.com",
+            "password": "gkk5860f",
+            "administrador": "false",
+            "_id": "w9lNUZjN8Xg4kNa3"
+        },
+        {
+            "nome": "Alessandra Silveira",
+            "email": "victor.meira@bol.com.br",
+            "password": "7qd6mbsa63v",
+            "administrador": "false",
+            "_id": "x9CEU9fQtVhNt2Cn"
+        }
+    ]
+}
