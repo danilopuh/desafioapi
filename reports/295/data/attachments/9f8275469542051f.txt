@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Davi Lucca Quarteira",
+            "email": "oliver.barros@bol.com.br",
+            "password": "e7wb12tg88vp5e96s7r",
+            "administrador": "false",
+            "_id": "1cgZcRPKRR5iiMWu"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "QC4Vcony0PAGm7Zp"
+        },
+        {
+            "nome": "Cliente ServeRest",
+            "email": "cliente_1787274406094@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "WUEdk7NWStPP7teu"
+        },
+        {
+            "nome": "Italo QA Junior",
+            "email": "italo_testando_1787276937@email.com",
+            "password": "senhasecreta",
+            "administrador": "true",
+            "_id": "WaoNVa79dfWvM5lm"
+        },
+        {
+            "nome": "Cliente ServeRest",
+            "email": "cliente_1787274241337@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "j57PLl3u5Ph3hNea"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano111@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "nD3P5RGPdInIE87Y"
+        }
+    ]
+}
