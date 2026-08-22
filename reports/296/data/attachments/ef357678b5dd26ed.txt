@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Márcio Custódio",
+            "email": "davilucca.deborba@hotmail.com",
+            "password": "u3ivlikkov6tflf5",
+            "administrador": "false",
+            "_id": "N5w1FgqUdCg4yeXc"
+        },
+        {
+            "nome": "LEANDRO QA SANTOS",
+            "email": "leandro.qa.login2026@email.com",
+            "password": "123456789",
+            "administrador": "true",
+            "_id": "eD1dBWgwdMPwJwt1"
+        },
+        {
+            "nome": "Dr. João Gabriel Veloso",
+            "email": "lorena.castanho@hotmail.com",
+            "password": "nw7vhfijp",
+            "administrador": "false",
+            "_id": "lqXpx4bsMpIeujzM"
+        },
+        {
+            "nome": "Paulo Almada",
+            "email": "marli.corte@hotmail.com",
+            "password": "tokrvkt1p",
+            "administrador": "false",
+            "_id": "mgdlohRttAX6jbSs"
+        },
+        {
+            "nome": "Arthur Miguel da Penha",
+            "email": "bento.menendes@gmail.com",
+            "password": "vmfmy845p3geipkp",
+            "administrador": "false",
+            "_id": "sZMRS81jfgIjmN7a"
+        }
+    ]
+}

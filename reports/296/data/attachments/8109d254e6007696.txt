@@ -1,0 +1,33 @@
+{
+    "quantidade": 4,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "LEANDRO QA SANTOS",
+            "email": "leandro.qa.login2026@email.com",
+            "password": "123456789",
+            "administrador": "true",
+            "_id": "eD1dBWgwdMPwJwt1"
+        },
+        {
+            "nome": "Paulo Almada",
+            "email": "marli.corte@hotmail.com",
+            "password": "tokrvkt1p",
+            "administrador": "false",
+            "_id": "mgdlohRttAX6jbSs"
+        },
+        {
+            "nome": "Isabelly Franco",
+            "email": "joao.barros@gmail.com",
+            "password": "irqvcu3vy6",
+            "administrador": "false",
+            "_id": "vbJe2ejS9XYbTJDr"
+        }
+    ]
+}
