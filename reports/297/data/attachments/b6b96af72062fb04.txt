@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Karla Campos",
+            "email": "yago.pedroso@gmail.com",
+            "password": "xi4goaz1k34rn",
+            "administrador": "false",
+            "_id": "8VkQkjWKou8plE4Q"
+        },
+        {
+            "nome": "Kaique Crespo",
+            "email": "leticia.doprado@hotmail.com",
+            "password": "yt4hhhof",
+            "administrador": "false",
+            "_id": "EQW6n9peaj6cV0Hz"
+        },
+        {
+            "nome": "Maria Fernanda Vidal",
+            "email": "eloah.carneiro@bol.com.br",
+            "password": "uh0rvjzb0omhxyj",
+            "administrador": "false",
+            "_id": "ZWXccy0FpUoXkovp"
+        },
+        {
+            "nome": "Enrico Simões",
+            "email": "enrico.crespo@bol.com.br",
+            "password": "uju8mrbap",
+            "administrador": "false",
+            "_id": "bQFz3ntzxDI4dtzy"
+        },
+        {
+            "nome": "Lorenzo Sá",
+            "email": "mariavitoria.dias@live.com",
+            "password": "be3r2i7jr",
+            "administrador": "false",
+            "_id": "iyWAJRtPDrLXU1AZ"
+        },
+        {
+            "nome": "julia",
+            "email": "julia@qa.com.br",
+            "password": "caqui",
+            "administrador": "true",
+            "_id": "tU00yECFcwyG6GcM"
+        }
+    ]
+}
