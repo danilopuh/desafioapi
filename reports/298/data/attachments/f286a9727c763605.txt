@@ -1,0 +1,362 @@
+{
+    "quantidade": 51,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "QA Operador b017b2acb728",
+            "email": "qa-b017b2acb728@flowbench.dev",
+            "password": "flowbench123",
+            "administrador": "true",
+            "_id": "2rOhARcjTnCnEE1O"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Berenice10@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "3BY4RakuIKo3uB6w"
+        },
+        {
+            "nome": "Carla Moraes Jr.",
+            "email": "calebe.aparicio@yahoo.com",
+            "password": "y70dlsh4kk",
+            "administrador": "false",
+            "_id": "3uoAJLlZWJ9NsMIp"
+        },
+        {
+            "nome": "QA Usuario Original",
+            "email": "qa.duplicado.ad15f164-1436-4400-839a-b902ec8c9d47@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "4j7jgUWYYFNVKcFY"
+        },
+        {
+            "nome": "QA Usuario Creado por PUT",
+            "email": "qa.put.inexistente.79617225-199a-43d0-8df1-d6c6c08f6632@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "5D57RnYD6x1KV962"
+        },
+        {
+            "nome": "Admin User clhdlrhk",
+            "email": "admin-clhdlrhk@qastore.example.com",
+            "password": "SrvT3st!99",
+            "administrador": "true",
+            "_id": "60FMgpJfWXvUHzXM"
+        },
+        {
+            "nome": "Operator fc00d4",
+            "email": "op.fc00d4@qa.dev",
+            "password": "pw-fc00d4-secure",
+            "administrador": "true",
+            "_id": "6Q3Z0RWSohM4nO1e"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Layne.Kautzer99@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "9P75bxXckc91ANch"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Zora23@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "AooO6kpReuoH8hsh"
+        },
+        {
+            "nome": "Enzo Gabriel Castelo",
+            "email": "leonardo.chaves@hotmail.com",
+            "password": "42tpq03ndayn",
+            "administrador": "false",
+            "_id": "CUcD0NwnDsOe5Ozj"
+        },
+        {
+            "nome": "QA Usuario Actualizado",
+            "email": "qa.put.actualizado.bd8532ca-e976-4faf-b9a2-1090555ca07e@correo.com",
+            "password": "qa654321",
+            "administrador": "false",
+            "_id": "GRgWPfFzu0LFwlNj"
+        },
+        {
+            "nome": "Buyer mt6bcuhll0ow5g",
+            "email": "buyer-mt6bcuhll0ow5g@qadriver.example.com",
+            "password": "Pwd-mt6bcuhll0ow5g!",
+            "administrador": "true",
+            "_id": "JKgU9zLNOZ1M3piK"
+        },
+        {
+            "nome": "QA Usuario A",
+            "email": "qa.put.a.0e5969d2-d5b7-41bc-b676-d75f22455a68@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "KQTolJCSiuND3i6v"
+        },
+        {
+            "nome": "QA Usuario Creado por PUT",
+            "email": "qa.put.inexistente.da37cd12-abdd-4446-b643-f63e485a8b51@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "NdGRpC2Ke86nF0Bn"
+        },
+        {
+            "nome": "Admin pygtkgys",
+            "email": "admin.pygtkgys@qa-severest-audit.com",
+            "password": "Test@pygtkgys1",
+            "administrador": "true",
+            "_id": "OWCkTdIqDpeHTuHo"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "kalebe@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Pp8ZUzDYqcruz18j"
+        },
+        {
+            "nome": "Leandro QA",
+            "email": "santosesantos.qajr@email.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Q8xsUUa05h0sLUVM"
+        },
+        {
+            "nome": "QA Usuario Helper",
+            "email": "qa.helper.4a1fe161-d34c-4e39-99cc-ef2d7a96cbe1@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "QBmlE0cB9rZfwHTk"
+        },
+        {
+            "nome": "F5 Agent Operator x7q2k9wm",
+            "email": "f5agent.x7q2k9wm@qa-inbox.net",
+            "password": "Str0ng!Passx7q2",
+            "administrador": "true",
+            "_id": "QnJdZTiyk6DX9WYD"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Hollis.Hickle26@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RfsXA9xKongqEBFB"
+        },
+        {
+            "nome": "Heart Monitor Buyer 02413c69c2",
+            "email": "hb02413c69c2@heartmon.io",
+            "password": "pw-02413c69c2-xY9",
+            "administrador": "true",
+            "_id": "TgRi7lLPnqUOOHb5"
+        },
+        {
+            "nome": "QA Usuario Original",
+            "email": "qa.duplicado.b4fddf56-245c-43e6-aa0b-4722301e56e7@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "UfESzkKNAReqe9vv"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Abraham.Douglas@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Ul1Vaj4CONXu2uT4"
+        },
+        {
+            "nome": "QA Usuario B",
+            "email": "qa.put.b.4b068185-e7ba-45a9-9e32-27446ae7a716@correo.com",
+            "password": "qa123456",
+            "administrador": "false",
+            "_id": "VkOaKZe9BREN4iok"
+        },
+        {
+            "nome": "QA Usuario Creado por PUT",
+            "email": "qa.put.inexistente.f6309f9b-3661-4bc7-a996-19d78384212e@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "Vwjpo1BoxoJQTNPM"
+        },
+        {
+            "nome": "QA Usuario A",
+            "email": "qa.put.a.4b068185-e7ba-45a9-9e32-27446ae7a716@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "WxCYFnlwC8v5VcQ4"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Jorge.Mann90@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "X5IJkKvCsXknaGbj"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Vanessa.Romaguera@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Xq9n5eVuP3gcPhNC"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Rex_Purdy5@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Y1cirsqykJAd6ucG"
+        },
+        {
+            "nome": "QA Usuario GET ID",
+            "email": "qa.getid.417f52bb-c089-4420-ac85-5b872b76eda5@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "Y4Vdd3yo2plW0dss"
+        },
+        {
+            "nome": "Run Buyer 0836fa5e",
+            "email": "T55739807084@qaordercheck.dev",
+            "password": "pw-65160798456a",
+            "administrador": "true",
+            "_id": "ZpvmMARNcF5DIKyX"
+        },
+        {
+            "nome": "QA Usuario GET ID",
+            "email": "qa.getid.de5828ea-6808-444e-a740-4f8826cd91b8@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "fH1rlrkDEETbIZHl"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Jonatan.Keeling63@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gUQ1CudHYYCi3XBg"
+        },
+        {
+            "nome": "QA Usuario GET ID",
+            "email": "qa.getid.81f6dbc9-742c-4382-8be6-e6e8a1d79892@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "hyneEQnOS9rWE80D"
+        },
+        {
+            "nome": "QA Usuario Actualizado",
+            "email": "qa.put.actualizado.99eed8bf-741c-4293-bee0-0b1b07fa03a9@correo.com",
+            "password": "qa654321",
+            "administrador": "false",
+            "_id": "iEFJi1RupZgVQZIG"
+        },
+        {
+            "nome": "QA Usuario Actualizado",
+            "email": "qa.put.actualizado.601ba373-5e36-4c93-b732-1d57ff37f8f1@correo.com",
+            "password": "qa654321",
+            "administrador": "false",
+            "_id": "jFbeji7NcqqyYGZ0"
+        },
+        {
+            "nome": "QA Usuario Helper",
+            "email": "qa.helper.ee1960a6-517e-426d-a853-c224143fec3f@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "lNswfvrc6Q5mpDMR"
+        },
+        {
+            "nome": "QA Usuario Original",
+            "email": "qa.duplicado.42162a74-8b86-40be-82db-a44873d22b84@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "mAE581GuOHb7kFQe"
+        },
+        {
+            "nome": "QA Usuario B",
+            "email": "qa.put.b.0e5969d2-d5b7-41bc-b676-d75f22455a68@correo.com",
+            "password": "qa123456",
+            "administrador": "false",
+            "_id": "nGn9qxhRgRKjTqGT"
+        },
+        {
+            "nome": "Maria Audit Patrol",
+            "email": "audit-FkXJDn6J89cdJH5E@qaex.dev",
+            "password": "mariaAudit99",
+            "administrador": "true",
+            "_id": "pJkcdHRdklsZCKUd"
+        },
+        {
+            "nome": "Usuario Teste Frontend",
+            "email": "vefewo3906@kolsea.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "pl3mNEJHFIhKKsHg"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Zetta_Johns47@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "qzAgVZsimZ9zlLqT"
+        },
+        {
+            "nome": "QA Usuario B",
+            "email": "qa.put.b.a0fd66b4-5f7d-4afb-b49c-8ce7e7cab54f@correo.com",
+            "password": "qa123456",
+            "administrador": "false",
+            "_id": "txPRfiMtB38qGlPl"
+        },
+        {
+            "nome": "QA Usuario Helper",
+            "email": "qa.helper.4f893974-f8b1-4b2b-8d86-18f1bf830fd2@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "u4sCJyjN9z7gpGV1"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Mackenzie_Strosin46@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "uGuPDWyZEHLhCXly"
+        },
+        {
+            "nome": "gabriel@gmail.com.br",
+            "email": "gabriel@gmail.com.br",
+            "password": "teste678",
+            "administrador": "true",
+            "_id": "uXwBT4Fb619p2kum"
+        },
+        {
+            "nome": "QA Usuario A",
+            "email": "qa.put.a.a0fd66b4-5f7d-4afb-b49c-8ce7e7cab54f@correo.com",
+            "password": "qa123456",
+            "administrador": "true",
+            "_id": "wGY42NS5Albta3H4"
+        },
+        {
+            "nome": "Admin Flow 007",
+            "email": "admin-flow-007-1787520140@qa-sandbox.io",
+            "password": "FlowPass007!",
+            "administrador": "true",
+            "_id": "x7vdoW8AHCIwZtDT"
+        },
+        {
+            "nome": "ERP Driver a4f1f8adaaa28ecb79575814",
+            "email": "erp_driver_a4f1f8adaaa28ecb79575814@procure-to-cart.dev",
+            "password": "P@ss-a4f1f8adaaa28ecb79575814",
+            "administrador": "true",
+            "_id": "y7g1xxJQk4kd0kxS"
+        },
+        {
+            "nome": "Jonatas Silva",
+            "email": "Lonny_McCullough70@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "zaX9aA0BrJH8g1Ys"
+        }
+    ]
+}
