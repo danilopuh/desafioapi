@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Theo Nunes",
+            "email": "lorena.saraiva@yahoo.com",
+            "password": "3yzjqx0p",
+            "administrador": "false",
+            "_id": "DLWo21oYX277YsxW"
+        },
+        {
+            "nome": "João Luca da Rosa",
+            "email": "bryan.barreira@yahoo.com",
+            "password": "hy32rb0m",
+            "administrador": "false",
+            "_id": "M1VmI7Y306GfPoI0"
+        },
+        {
+            "nome": "Srta. Melissa Siqueira",
+            "email": "marcio.teles@gmail.com",
+            "password": "32u07a40pd6pk",
+            "administrador": "false",
+            "_id": "R5FSm6DK3y5pTcSk"
+        },
+        {
+            "nome": "Hugo Macedo",
+            "email": "arthurmiguel.daaldeia@hotmail.com",
+            "password": "ls7a7i4716042ypw",
+            "administrador": "false",
+            "_id": "jpdHZcB7CjNwsj8H"
+        },
+        {
+            "nome": "Eduarda Menendes Jr.",
+            "email": "allana.silveira@gmail.com",
+            "password": "m83eqlc76vwij10xbvi",
+            "administrador": "false",
+            "_id": "tyjlIXWLKJJkz2ON"
+        },
+        {
+            "nome": "Maria Souza",
+            "email": "luiza.aragao@live.com",
+            "password": "mkjx4w84po2dhfksv7",
+            "administrador": "false",
+            "_id": "zdOToSEB0vsYHTLi"
+        }
+    ]
+}
