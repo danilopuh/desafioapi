@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Clara da Rocha",
+            "email": "henrique.filgueira@hotmail.com",
+            "password": "z4pngwvj",
+            "administrador": "false",
+            "_id": "SSMqYawjZzxEmjV0"
+        },
+        {
+            "nome": "Cauã de Lara",
+            "email": "camila.meira@bol.com.br",
+            "password": "pqe2z16i6hrhcnj5onf",
+            "administrador": "false",
+            "_id": "hyWYj2gMXwRzjs1T"
+        },
+        {
+            "nome": "Maria Fernanda Pedroso",
+            "email": "guilherme.albuquerque@live.com",
+            "password": "ddtpeane0r7o3uhsr",
+            "administrador": "false",
+            "_id": "izAKjpYn9cKE6svt"
+        },
+        {
+            "nome": "João Gabriel Albuquerque",
+            "email": "antonella.soares@hotmail.com",
+            "password": "yh954aqul19",
+            "administrador": "false",
+            "_id": "oBfV7aBCLkIFx1cV"
+        },
+        {
+            "nome": "Sra. Júlia Lima",
+            "email": "arthurgabriel.souza@gmail.com",
+            "password": "enam8l98vrura7po",
+            "administrador": "false",
+            "_id": "rUGtO9bmGAbKIWlA"
+        },
+        {
+            "nome": "Luna Ouriques",
+            "email": "silas.porteira@gmail.com",
+            "password": "t2n0sc98xf6ez22k",
+            "administrador": "false",
+            "_id": "svjQ36zPDxbZ6V7Q"
+        }
+    ]
+}
