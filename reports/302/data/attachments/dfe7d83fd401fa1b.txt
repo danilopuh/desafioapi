@@ -1,0 +1,397 @@
+{
+    "quantidade": 56,
+    "usuarios": [
+        {
+            "nome": "Gretchen Hickle",
+            "email": "gretchen.hickle5@gmail.com",
+            "password": "Jhv1u0HV9bI_EhD",
+            "administrador": "true",
+            "_id": "0mynhaFjC9xi5opq"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Isabela Bernardes Filho",
+            "email": "joaoguilherme.reis@gmail.com",
+            "password": "9klk5we60ve9eb4s9",
+            "administrador": "false",
+            "_id": "2dc5s3JP96aWA7rk"
+        },
+        {
+            "nome": "Matthew Johnston",
+            "email": "matthew.johnston10@yahoo.com",
+            "password": "Jvq9ZTD5kQuOvMC",
+            "administrador": "true",
+            "_id": "2miYIgSDDq0NIq5l"
+        },
+        {
+            "nome": "Davi Lucca Crespo",
+            "email": "maite.tavares@bol.com.br",
+            "password": "c5dq7uqneve2mw9l2",
+            "administrador": "false",
+            "_id": "4RVFErdrSFchByoc"
+        },
+        {
+            "nome": "Maria Fernanda Marins Neto",
+            "email": "qa.17878565213288520@teste.com",
+            "password": "94pw5g4s",
+            "administrador": "true",
+            "_id": "4SBaqUZnnGPHcbxk"
+        },
+        {
+            "nome": "Calebe Castanho",
+            "email": "anabeatriz.dafonseca@live.com",
+            "password": "uojhmez6dzljjt",
+            "administrador": "true",
+            "_id": "51DxcpyeyroinvyZ"
+        },
+        {
+            "nome": "Heartbeat Buyer",
+            "email": "hm891112v0h2v1@x.com",
+            "password": "Pwdvbb8r5a!q7",
+            "administrador": "true",
+            "_id": "6t1TOvGVAifZguuM"
+        },
+        {
+            "email": "misael@qa.com.br",
+            "password": "teste",
+            "nome": "Misael Reis",
+            "administrador": "true",
+            "_id": "74qfGLJzm7x5npCm"
+        },
+        {
+            "nome": "Operador bwh50jbnmgj4",
+            "email": "bwh50jbnmgj4-operator@example.com",
+            "password": "GTG4x3esp9Qxs5IrjnEh",
+            "administrador": "true",
+            "_id": "7nkTqOGemayhpfob"
+        },
+        {
+            "nome": "Auditor tuzs97un",
+            "email": "admin-tuzs97un@audit-store.example.com",
+            "password": "pw-tuzs97un-7Qz",
+            "administrador": "true",
+            "_id": "8Qhpr6NGs6feBqIm"
+        },
+        {
+            "nome": "QA 7a93abb232f8",
+            "email": "qa-7a93abb232f8@flowbench.dev",
+            "password": "flowbench123",
+            "administrador": "true",
+            "_id": "95kL1vQRCHH5IiKB"
+        },
+        {
+            "nome": "Trudie Stokes",
+            "email": "trudie.stokes@yahoo.com",
+            "password": "YAG5KhihYFZn1y0",
+            "administrador": "true",
+            "_id": "BNpYW1Z20WimUMqR"
+        },
+        {
+            "nome": "Márcio da Paz",
+            "email": "giovanna.esteves@bol.com.br",
+            "password": "jbrbgxh1b546k",
+            "administrador": "false",
+            "_id": "D0IS0yJ3qrSULuIs"
+        },
+        {
+            "nome": "Marli da Rosa",
+            "email": "qa.17878564154105842@teste.com",
+            "password": "7kag4h0029s",
+            "administrador": "true",
+            "_id": "IBUrwSVr1IKvX4Bo"
+        },
+        {
+            "nome": "Warley Moura Jr.",
+            "email": "joaovictor.macieira@hotmail.com",
+            "password": "y3jk0wpozz6anxn3kq",
+            "administrador": "false",
+            "_id": "Ka3coBFl3kxoXZu9"
+        },
+        {
+            "nome": "Maria Isis Videira",
+            "email": "gustavo.ornelas@yahoo.com",
+            "password": "4jo8t83wdu6",
+            "administrador": "false",
+            "_id": "KzMgOCOVnZYIWHmW"
+        },
+        {
+            "nome": "Kari Legros",
+            "email": "kari.legros93@gmail.com",
+            "password": "sFsF1TvTYUaK8j8",
+            "administrador": "true",
+            "_id": "LoGwWLu3D61O4nwl"
+        },
+        {
+            "nome": "Francisco Arantes",
+            "email": "qa.17878564136772115@teste.com",
+            "password": "0zalhw76mz",
+            "administrador": "true",
+            "_id": "NIbjCZbPtcjWJesj"
+        },
+        {
+            "nome": "Anderson comprador",
+            "email": "Anderson.comprador40@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "PV80PUVqhv5qNXAz"
+        },
+        {
+            "nome": "Kaique Ouriques",
+            "email": "qa.17878556762089054@teste.com",
+            "password": "n92yh6056865",
+            "administrador": "true",
+            "_id": "PlV03qKs0IWblnJ5"
+        },
+        {
+            "nome": "Clyde Langosh",
+            "email": "clyde.langosh@gmail.com",
+            "password": "dLn5AVBNuOhrbVG",
+            "administrador": "true",
+            "_id": "Q8mCNhSumGsF0aw7"
+        },
+        {
+            "nome": "Lester Quigley",
+            "email": "qa.1787859863846.kl7u3@serverest.dev",
+            "password": "7ltQkYPBH2pI",
+            "administrador": "true",
+            "_id": "Sv4z9KfuqrdVLQzg"
+        },
+        {
+            "nome": "Dra. Vitor Hugo Nunes",
+            "email": "marina.antunes@yahoo.com",
+            "password": "pk4p4kivr91yu7i79",
+            "administrador": "false",
+            "_id": "T9VfTT2pDvny2InJ"
+        },
+        {
+            "nome": "Eduardo da Terra Neto",
+            "email": "patricia.ambrosio@yahoo.com",
+            "password": "at9ogruac2qsr",
+            "administrador": "false",
+            "_id": "THKBhNojiylfBYIQ"
+        },
+        {
+            "nome": "Sra. Paulo Arantes",
+            "email": "nicolas.figueira@bol.com.br",
+            "password": "ai2reg4s33toi",
+            "administrador": "false",
+            "_id": "ThUSbU4jLC7DSwCF"
+        },
+        {
+            "nome": "Jeanie Satterfield",
+            "email": "jeanie_satterfield57@yahoo.com",
+            "password": "bAKPkkYopP_0qIP",
+            "administrador": "true",
+            "_id": "Tk24XkPW09F3QhFd"
+        },
+        {
+            "nome": "Igor Lopes",
+            "email": "margarida.siqueira@live.com",
+            "password": "8w0ekifi2u0wrp",
+            "administrador": "false",
+            "_id": "UdN83gqSEnoUaVQM"
+        },
+        {
+            "nome": "Johnathan Jones",
+            "email": "johnathan.jones15@gmail.com",
+            "password": "6LjJWEXynI5NilQ",
+            "administrador": "true",
+            "_id": "Vsl5Ph98rji3ErJS"
+        },
+        {
+            "nome": "Luan Casqueira",
+            "email": "enzogabriel.bulhoes@yahoo.com",
+            "password": "jkktyal5rp3k",
+            "administrador": "false",
+            "_id": "WLvP8bxbltOQeXRU"
+        },
+        {
+            "nome": "Rapha dono ",
+            "email": "raphadono@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "WUGgKzrGOLG7ZsZu"
+        },
+        {
+            "nome": "Dra. Davi Ludmer Veloso",
+            "email": "larissa.garcez@bol.com.br",
+            "password": "47ymafd1m680awus7",
+            "administrador": "false",
+            "_id": "X0hM2zlTczJNRW30"
+        },
+        {
+            "nome": "Célia Beltrão",
+            "email": "helio.fontinhas@bol.com.br",
+            "password": "vvlhyzow84",
+            "administrador": "false",
+            "_id": "XhXzzqdDbZ5Z4D2J"
+        },
+        {
+            "nome": "E2E Admin 1787877879038047992_23877",
+            "email": "e2e.admin.1787877879038047992_23877@qa.dev",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "bmdXW42Fh2i8SCok"
+        },
+        {
+            "nome": "Thiago Barbosa",
+            "email": "agatha.simao@hotmail.com",
+            "password": "iadvq132g9lcs5j0stn",
+            "administrador": "false",
+            "_id": "bvAWIhWdBzZtaRNl"
+        },
+        {
+            "nome": "Conrad Walter",
+            "email": "qa.1787861295529.ctvwu@serverest.dev",
+            "password": "IgtdNlhrWyc5",
+            "administrador": "true",
+            "_id": "cqbKZZKWxC5n7q4g"
+        },
+        {
+            "nome": "Gustavo",
+            "email": "gustavo@teste.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "dAcUeCtT4iZD4Xoi"
+        },
+        {
+            "nome": "João Martins",
+            "email": "malu.paiva@yahoo.com",
+            "password": "0ecavjred961lcycxml",
+            "administrador": "false",
+            "_id": "f9UDLqOaUZzULvi4"
+        },
+        {
+            "nome": "Cauã da Penha Jr.",
+            "email": "cecilia.cavalcanti@live.com",
+            "password": "ipbfgtup6",
+            "administrador": "false",
+            "_id": "fOS4m0rZtcJjVhPf"
+        },
+        {
+            "nome": "Buyer Admin",
+            "email": "T78511850867@example.com",
+            "password": "Pw!8mQz@2026",
+            "administrador": "true",
+            "_id": "fU5XYgnnwtZ4HFLU"
+        },
+        {
+            "nome": "Valentina da Terra",
+            "email": "giovanna.teixeira@bol.com.br",
+            "password": "9rua2dfhnagwfpsfy3",
+            "administrador": "false",
+            "_id": "fprCPELzXlHLjlxL"
+        },
+        {
+            "nome": "Sra. Mathias da Fonseca",
+            "email": "enzogabriel.longuinho@bol.com.br",
+            "password": "h3mivur1bkqerkbj2",
+            "administrador": "true",
+            "_id": "g3YhlNHvsqINDiD4"
+        },
+        {
+            "nome": "Sabina Breitenberg-Dare",
+            "email": "sabina.breitenberg-dare11@hotmail.com",
+            "password": "8JbKmlf1x_6gaww",
+            "administrador": "true",
+            "_id": "g4i02vzLaHkI0PJa"
+        },
+        {
+            "nome": "Judd Berge",
+            "email": "judd_berge@hotmail.com",
+            "password": "yiJ88u4UNkSDaa2",
+            "administrador": "true",
+            "_id": "h9Ih89i5RCqc7reE"
+        },
+        {
+            "nome": "Misael carro",
+            "email": "misael@carro.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "hiQ3ioS13pNLRPkJ"
+        },
+        {
+            "nome": "Alícia da Conceição",
+            "email": "qa.17878565207425430@teste.com",
+            "password": "39a933d3",
+            "administrador": "true",
+            "_id": "hkofWUOMRUTMx4SG"
+        },
+        {
+            "nome": "Louie Hoeger",
+            "email": "louie_hoeger88@gmail.com",
+            "password": "Pts0IHOqP3fOgFQ",
+            "administrador": "true",
+            "_id": "ht8RTosfayY2BdyZ"
+        },
+        {
+            "nome": "Maria Audit Patrol",
+            "email": "audit-JgJaJNQgt3i362LY@qaex.dev",
+            "password": "MariaPatrol#2026",
+            "administrador": "true",
+            "_id": "iHJ5w9tAbCdyljw4"
+        },
+        {
+            "nome": "Operator fc00d4",
+            "email": "op.fc00d4@qa.dev",
+            "password": "secret-fc00d4",
+            "administrador": "true",
+            "_id": "jFt9ptlRN1Ko7b7R"
+        },
+        {
+            "nome": "Zane Schmeler",
+            "email": "zane_schmeler@yahoo.com",
+            "password": "vKSHlMe2QaKxjMf",
+            "administrador": "true",
+            "_id": "k7XbQ2o34Nhqbxna"
+        },
+        {
+            "nome": "Hugo Collins",
+            "email": "hugo.collins92@gmail.com",
+            "password": "ko733QBedJpySI7",
+            "administrador": "true",
+            "_id": "mOS8jzrnNLGIPzGr"
+        },
+        {
+            "nome": "Cleber Bamba",
+            "email": "monxtro@yahoo.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "mi5zGLrQodCtA6Xu"
+        },
+        {
+            "nome": "Félix Velasques Filho",
+            "email": "carolina.simoes@live.com",
+            "password": "aq28y0osq",
+            "administrador": "false",
+            "_id": "pU6M4Uoo7ZiD6MFv"
+        },
+        {
+            "nome": "Isabela Santos",
+            "email": "qa.17878556768286494@teste.com",
+            "password": "27se2xjye7",
+            "administrador": "true",
+            "_id": "w5hJI3dj5tEiPkNt"
+        },
+        {
+            "nome": "Seth Windler",
+            "email": "seth_windler@hotmail.com",
+            "password": "GZFvVSdt1F1o5IY",
+            "administrador": "true",
+            "_id": "wixwZ3Fk0B6sEpEV"
+        },
+        {
+            "nome": "Admin Flow 007 (178787714442024624)",
+            "email": "adminflow007.178787714442024624@example.org",
+            "password": "Af00719067",
+            "administrador": "true",
+            "_id": "xaKPTHvDccRPqsQS"
+        }
+    ]
+}
