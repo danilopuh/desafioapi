@@ -1,0 +1,201 @@
+{
+    "quantidade": 28,
+    "usuarios": [
+        {
+            "nome": "Sr. Agatha Solimões",
+            "email": "alexandre.crespo@bol.com.br",
+            "password": "gf55xru5dl833ap",
+            "administrador": "false",
+            "_id": "0jOMbXIsYtlyLejX"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Ops Cycle Runner",
+            "email": "opl1788139948255731lab@example.com",
+            "password": "Tz9#LabOps7qBx",
+            "administrador": "false",
+            "_id": "5wV4d3e6FrpTU0k1"
+        },
+        {
+            "nome": "Ana Cecília Pinto",
+            "email": "luna.jesus@gmail.com",
+            "password": "yzpkv14pqo7y66",
+            "administrador": "false",
+            "_id": "66t6ngRQAuswuaUS"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Bbxf8r4b6V5BPYjn"
+        },
+        {
+            "nome": "E2E Full Test User",
+            "email": "e2e.full.test.qortex@gmail.com",
+            "password": "TesteFull@123",
+            "administrador": "false",
+            "_id": "Ct4YUz6JBKf0D2JU"
+        },
+        {
+            "nome": "João Pedro Bulhões",
+            "email": "giulia.meireles@bol.com.br",
+            "password": "qyhd242mgos0a3nbok",
+            "administrador": "false",
+            "_id": "DwPhUYt3Q2cdQ5p4"
+        },
+        {
+            "nome": "ERP Ciclo mtgiwyth",
+            "email": "erp.cycle.mtgiwyth.wsf89z@teste.io",
+            "password": "t3steS3nha",
+            "administrador": "true",
+            "_id": "FqifKZTBM77Hpb2a"
+        },
+        {
+            "nome": "Admin Flow 007",
+            "email": "admin-flow-007-42e31ede@example.com",
+            "password": "Flw7-feca",
+            "administrador": "true",
+            "_id": "GmU0Sk30RJ9rWzlw"
+        },
+        {
+            "nome": "Operator fc00d4",
+            "email": "op.fc00d4@qa.dev",
+            "password": "opfc00d4",
+            "administrador": "true",
+            "_id": "KUgU592YWrIrL4qD"
+        },
+        {
+            "nome": "Fabrícia dos Reis Filho",
+            "email": "arthurgabriel.bittencourt@gmail.com",
+            "password": "qg5ktlqes2orj",
+            "administrador": "false",
+            "_id": "L5Ytt7K9Bgk9rgWu"
+        },
+        {
+            "nome": "Nataniel Franco",
+            "email": "pedrolucas.castro@live.com",
+            "password": "gy8xmpaqoi4oyisg63f",
+            "administrador": "false",
+            "_id": "MbOJSHFRWlwyLhV5"
+        },
+        {
+            "nome": "Shopper Buyer QA",
+            "email": "qa.buyer.246572cc@storeback-ops.com",
+            "password": "Buy4993409",
+            "administrador": "false",
+            "_id": "OxU3o4AmmoTyDvfT"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "qa.17881379780473327@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "UbGqy3M4fECtLsRI"
+        },
+        {
+            "nome": "Misael carro",
+            "email": "misael@carro.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "UpqIN1dGZJIFHwl4"
+        },
+        {
+            "nome": "Beam Bench Operator",
+            "email": "beam.k3mz@qa.com",
+            "password": "Windtunnel-K3mz-2026",
+            "administrador": "false",
+            "_id": "UqqqmfmuevgAsMc9"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano1@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "VWQikg17vqkLFG4Q"
+        },
+        {
+            "nome": "Patrol Owner",
+            "email": "owner-7qo6xwsv@qaex.dev",
+            "password": "patrol1x",
+            "administrador": "false",
+            "_id": "WWHRFvx8RUAwuCCL"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qalol.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Wx2FzGiwS96WrSga"
+        },
+        {
+            "nome": "Ops Admin QA",
+            "email": "qa.admin.d1c8aa3f@storeback-ops.com",
+            "password": "Admf1cf9e9",
+            "administrador": "true",
+            "_id": "Xo6lqB0laRUG1yXw"
+        },
+        {
+            "nome": "Erik Paixõa",
+            "email": "erikteixeira2022@gmail.com",
+            "password": "153045",
+            "administrador": "true",
+            "_id": "bIbey1tUj8u4MF6H"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "qa.17881380360692448@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "g7NvUaBIUoLzzDPw"
+        },
+        {
+            "nome": "Hélio da Cruz",
+            "email": "sophie.goulart@hotmail.com",
+            "password": "vyoqw945nwg1k174",
+            "administrador": "false",
+            "_id": "kOMu5O8arH236BB5"
+        },
+        {
+            "nome": "Usuário QA",
+            "email": "qa.1788138035398814@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "rGM5y0J4vAm6VxxH"
+        },
+        {
+            "nome": "Admin vafoxixb",
+            "email": "vafoxixb@qa.com",
+            "password": "senhavafoxixb",
+            "administrador": "true",
+            "_id": "v4LdapuKLCtx43UK"
+        },
+        {
+            "nome": "Victor",
+            "email": "victor@qa.com.br",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "w8ptqxTAJ50NeFRe"
+        },
+        {
+            "nome": "velvetfox-run-7k3m QA",
+            "email": "velvetfox-run-7k3m@example.com",
+            "password": "VfRun7k3m#2026",
+            "administrador": "true",
+            "_id": "wAmKGiBp7FjKAI94"
+        },
+        {
+            "nome": "Maria Audit Patrol",
+            "email": "audit-WWHRFvx8RUAwuCCL@qaex.dev",
+            "password": "maria1pw",
+            "administrador": "true",
+            "_id": "xHFfOWrpJZRvt3sR"
+        }
+    ]
+}
