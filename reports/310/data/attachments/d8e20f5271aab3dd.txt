@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Suélen Sá",
+            "email": "benicio.fontinhas@yahoo.com",
+            "password": "9rn21mwqfio",
+            "administrador": "false",
+            "_id": "AHzFVfAIMjL9Sl6q"
+        },
+        {
+            "nome": "Fabrício Peixoto",
+            "email": "yasmin.coutinho@live.com",
+            "password": "emddgghrbb7",
+            "administrador": "false",
+            "_id": "GwcaLaFZxpwC5M81"
+        },
+        {
+            "nome": "Isabella Soeira",
+            "email": "roberto.carreira@bol.com.br",
+            "password": "vvumfwoofu0256",
+            "administrador": "false",
+            "_id": "bCXzWjpNQzCD6To0"
+        },
+        {
+            "nome": "Sra. Augusto Barros",
+            "email": "isaac.louzada@bol.com.br",
+            "password": "88b5n92ppqflbj0bdb9",
+            "administrador": "false",
+            "_id": "d2KttUy2j2Iasciw"
+        },
+        {
+            "nome": "Dra. Samuel Marques",
+            "email": "marcos.rameira@live.com",
+            "password": "m73lbnr54g1qwtj8",
+            "administrador": "false",
+            "_id": "vu4nLP2ZF4LLjBWa"
+        },
+        {
+            "nome": "Antonella de Sá",
+            "email": "yago.dabarranca@hotmail.com",
+            "password": "h41ch6hly",
+            "administrador": "false",
+            "_id": "x4nLxHWvgS8hRNmj"
+        }
+    ]
+}
