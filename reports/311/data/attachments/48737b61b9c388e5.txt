@@ -1,0 +1,236 @@
+{
+    "quantidade": 33,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "password": "&@jf%5A%F&k6LA0",
+            "administrador": "false",
+            "nome": "Ignacio Alcala Quintana",
+            "email": "patricio.olivas@example.com",
+            "_id": "5qIVvs9wA8BYUv8g"
+        },
+        {
+            "password": "uI8w0$Y$#WC!",
+            "administrador": "true",
+            "nome": "Marta Báez Lemus",
+            "email": "rosario.aleman@example.com",
+            "_id": "BNOODVLqicJFNMyZ"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867578143716792@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "BP69Hi1rxvTAUzvR"
+        },
+        {
+            "password": "J2g6^@Do",
+            "administrador": "false",
+            "nome": "Caridad León Hernandes",
+            "email": "francisca.barrios@example.com",
+            "_id": "ButcWGiRk2b2fFN4"
+        },
+        {
+            "password": "S@Gy$0gQ1%*L4f",
+            "administrador": "false",
+            "nome": "Mario Guerra Martínez",
+            "email": "andrea.arguello@example.com",
+            "_id": "Dkvm5Ns4Xojw1Fol"
+        },
+        {
+            "password": "7%^#!jY7f3D@v#",
+            "administrador": "true",
+            "nome": "Carmen Berríos Alba",
+            "email": "catalina.altamirano@example.com",
+            "_id": "E5yUJPj9cc1sEfsF"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867577810830396@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "EZbyiaqpEsEeY7zZ"
+        },
+        {
+            "password": "RQ@#s@Y!9TL4MP",
+            "administrador": "true",
+            "nome": "Sra. Ramón Urrutia Rojo",
+            "email": "octavio.dominquez@example.com",
+            "_id": "Jjf5CvkYXFi9BorR"
+        },
+        {
+            "password": "^tnRm*b2!",
+            "administrador": "false",
+            "nome": "Ramón Téllez Padilla",
+            "email": "german.villarreal@example.com",
+            "_id": "NbllefJQIvfhfVPb"
+        },
+        {
+            "nome": "QA Comprador",
+            "email": "qa.crud.comprador.1788675586919609500@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "OCYAn0HsuX27RPrs"
+        },
+        {
+            "password": "7mYl7FL2*",
+            "administrador": "false",
+            "nome": "Eva Ibañez Soria",
+            "email": "daniela.gastelum@example.com",
+            "_id": "OtPRwC14IeFKM5M3"
+        },
+        {
+            "password": "%$Pi@a00X",
+            "administrador": "true",
+            "nome": "Ana María Chavarría Calvillo",
+            "email": "reina.baez@example.com",
+            "_id": "PvHvLQzHb6ToJUGu"
+        },
+        {
+            "nome": "Sra. Letícia Henriques",
+            "email": "erick.delins@gmail.com",
+            "password": "mn0vaj0m93xti",
+            "administrador": "false",
+            "_id": "QeftZ8qmSquNxzew"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867578209032@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "TZGHEzpBxRK3FW0u"
+        },
+        {
+            "nome": "QA Admin",
+            "email": "qa.delprod.admin.1788675630047218200@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "U5WOzSmVzxKWrE7E"
+        },
+        {
+            "nome": "QA Admin",
+            "email": "qa.check2.admin.1788675656748650900@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "Z8WaWDBs9mqAf9Nm"
+        },
+        {
+            "password": "axl^R1#&G",
+            "administrador": "false",
+            "nome": "Irene Guillen Partida",
+            "email": "eloisa.duenas@example.com",
+            "_id": "ZNEs4A0iAxtWXSzi"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867578405859555@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "cT5BPNDXAlpp6xq5"
+        },
+        {
+            "password": "A7*5&eTk",
+            "administrador": "true",
+            "nome": "Rosalia Laboy Correa",
+            "email": "anita.amaya@example.com",
+            "_id": "cmPz9Azwrd6YtwTY"
+        },
+        {
+            "nome": "tmp",
+            "email": "qa.tmp.1788675630047218200@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "ga32uE6iv47EBxlx"
+        },
+        {
+            "password": "%^^$s37B",
+            "administrador": "false",
+            "nome": "Armando Serrato Ulloa",
+            "email": "gabriel.alva@example.com",
+            "_id": "hNBlnTKTIABbFFHO"
+        },
+        {
+            "password": "@$SLS$@&4",
+            "administrador": "false",
+            "nome": "Jerónimo Padilla Rodríquez",
+            "email": "anita.rosas@example.com",
+            "_id": "hre5sI7zNZ5YPTRR"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "m78dL5WX3nSzScfw"
+        },
+        {
+            "password": "%%6hJuby",
+            "administrador": "false",
+            "nome": "Patricio Batista Muro",
+            "email": "carlos.lara@example.com",
+            "_id": "oSg2IBeggr7VUp73"
+        },
+        {
+            "password": "XS*SB4Rq*f23l",
+            "administrador": "true",
+            "nome": "Barbara Canales Leal",
+            "email": "teodoro.gastelum@example.com",
+            "_id": "pJetqPSEviBM0yH8"
+        },
+        {
+            "nome": "QA Admin",
+            "email": "qa.crud.admin.1788675586919609500@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "quTV7ZEooEzwjh2Z"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867578449443236@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "qyPEvkefkfibpBix"
+        },
+        {
+            "nome": "QA CRUD",
+            "email": "qa.crud.1788675555464160500@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "s0tSleJZMWE4CCVu"
+        },
+        {
+            "password": "5f&x1*#XT4&bX^S",
+            "administrador": "false",
+            "nome": "Margarita Olmos Gutiérrez",
+            "email": "oscar.nazario@example.com",
+            "_id": "u2FYkVHP2gSef4NL"
+        },
+        {
+            "nome": "QA Comprador",
+            "email": "qa.cancel.comprador.1788675610491767100@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "u9hqiBjXjeykT4J9"
+        },
+        {
+            "nome": "QA Admin",
+            "email": "qa.cancel.admin.1788675610491767100@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "uKD5J4Rsf01lGf3O"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa.automation.178867578623215469@teste.com",
+            "password": "Senha@123",
+            "administrador": "false",
+            "_id": "uOk6325P2XQG96KS"
+        }
+    ]
+}
