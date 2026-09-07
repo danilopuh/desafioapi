@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Célia Paiva Jr.",
+            "email": "joaquim.dias@hotmail.com",
+            "password": "zy4lxtvg4t6vrfy",
+            "administrador": "false",
+            "_id": "DXP0ulxzJYDnyYZK"
+        },
+        {
+            "nome": "Theo Lopes",
+            "email": "deneval.boucas@live.com",
+            "password": "s5ats1ys",
+            "administrador": "false",
+            "_id": "IH1CbmFlhL6j3Ua8"
+        },
+        {
+            "nome": "Sr. Davi Lucas Palmeira",
+            "email": "helena.hermingues@gmail.com",
+            "password": "7ftjpu61jtddyzdw5",
+            "administrador": "false",
+            "_id": "Sga1RhwElKCwLXlS"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ghkEyQPV4NuotO6o"
+        },
+        {
+            "nome": "Melissa Marcondes",
+            "email": "carlos.lessa@bol.com.br",
+            "password": "33ncr6gvqq6h9yt",
+            "administrador": "false",
+            "_id": "glQTWDzuWHfL9fky"
+        },
+        {
+            "nome": "Luis Goldner V",
+            "email": "Georgiana2@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "if9pF3DuwFCzcde2"
+        },
+        {
+            "nome": "João Vitor das Neves",
+            "email": "beatriz.alves@live.com",
+            "password": "fi5mv114sx",
+            "administrador": "false",
+            "_id": "nY1kdCIlmvTJZRrB"
+        },
+        {
+            "nome": "João Figueira Jr.",
+            "email": "luizgustavo.brites@hotmail.com",
+            "password": "kuei4rajyo",
+            "administrador": "false",
+            "_id": "oLX4rLVYLl56iYSK"
+        }
+    ]
+}
