@@ -1,0 +1,180 @@
+{
+    "quantidade": 25,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Soaint Test 1",
+            "email": "soaintTest1ee0a405a-9456-4fbc-919b-df68ec2cbb75@soainttest.com",
+            "password": "soainttest1",
+            "administrador": "true",
+            "_id": "1twDpPokFL30JY06"
+        },
+        {
+            "nome": "Soaint Test 5",
+            "email": "soaintTest523f500d9-1dfb-414b-a973-6c42ec16fe35@soainttest.com",
+            "password": "soainttest5",
+            "administrador": "false",
+            "_id": "34SNc7fr35zbDzxb"
+        },
+        {
+            "nome": "Тайный Покупатель",
+            "email": "spy_1788848555671@qa.com",
+            "password": "secret123",
+            "administrador": "true",
+            "_id": "6V31cv5ULojRO6dQ"
+        },
+        {
+            "nome": "Soaint Test 2",
+            "email": "soaintTest289f98ed2-91c6-4800-bb80-914adda9f11e@soainttest.com",
+            "password": "soainttest2",
+            "administrador": "true",
+            "_id": "6kjSUPfh6H8phsLC"
+        },
+        {
+            "nome": "Soaint Test 7",
+            "email": "soaintTest7efead4c6-5ecd-4815-81f0-3ee861d6cf70@soainttest.com",
+            "password": "soainttest7",
+            "administrador": "true",
+            "_id": "81hszxBE9Q7duWwb"
+        },
+        {
+            "nome": "Dr. Mércia Ordonhes",
+            "email": "mariana.damata@hotmail.com",
+            "password": "xo2ex4e4l6sosbbg4v",
+            "administrador": "false",
+            "_id": "9LdQohuMQuJwyptm"
+        },
+        {
+            "nome": "Тайный Покупатель",
+            "email": "spy_1788848556046@qa.com",
+            "password": "secret123",
+            "administrador": "true",
+            "_id": "AaRjWnMcX0AZDFUG"
+        },
+        {
+            "nome": "Обновлённый Покупатель",
+            "email": "spy_1788848552997@qa.com",
+            "password": "secret123",
+            "administrador": "false",
+            "_id": "AewUnvBCgw16pqsQ"
+        },
+        {
+            "nome": "Soaint Test 4",
+            "email": "soaintTest44d38f5b0-4e45-4432-a54a-c176db20eed5@soainttest.com",
+            "password": "soainttest4",
+            "administrador": "true",
+            "_id": "ESo0fY0eXnHqAizE"
+        },
+        {
+            "nome": "Soaint Test 7",
+            "email": "soaintTest737bf01c1-4883-492d-a345-b232cba1feef@soainttest.com",
+            "password": "soainttest7",
+            "administrador": "true",
+            "_id": "GqR1iwXMobR959q1"
+        },
+        {
+            "nome": "Soaint Test 5",
+            "email": "soaintTest50bebf079-bd97-4302-9d62-5c84da2a288c@soainttest.com",
+            "password": "soainttest5",
+            "administrador": "true",
+            "_id": "I25S76cMpgZvIzyM"
+        },
+        {
+            "nome": "Lara Palhares",
+            "email": "luiz.beltrao@live.com",
+            "password": "ziccsblw4xpfva2h",
+            "administrador": "false",
+            "_id": "MKGywMAjjV3QeGG8"
+        },
+        {
+            "nome": "Soaint Test 7",
+            "email": "soaintTest7c1130602-4fe2-4ee7-ad48-ee5d6c5cccbc@soainttest.com",
+            "password": "soainttest7",
+            "administrador": "false",
+            "_id": "OFWdKlT9oxZjcXrD"
+        },
+        {
+            "nome": "Soaint Test 2",
+            "email": "soaintTest26d682fc7-3449-48bb-b484-1aa51bfc9113@soainttest.com",
+            "password": "soainttest2",
+            "administrador": "false",
+            "_id": "OeR4ZByogsS9OuSm"
+        },
+        {
+            "nome": "Soaint Test 3",
+            "email": "soaintTest32f3a9b1f-838f-4d88-a1f0-7795f6eaf19e@soainttest.com",
+            "password": "soainttest3",
+            "administrador": "true",
+            "_id": "R0ZyVoZCnLujAhsw"
+        },
+        {
+            "nome": "Soaint Test 10",
+            "email": "soaintTest1084c60e1e-9625-499e-a0d7-a85d3d3a1db6@soainttest.com",
+            "password": "soainttest10",
+            "administrador": "true",
+            "_id": "UxDm3FRjoPTeGztO"
+        },
+        {
+            "nome": "Soaint Test 1",
+            "email": "soaintTest14066ed3f-1f54-462a-a156-0a83a81637f2@soainttest.com",
+            "password": "soainttest1",
+            "administrador": "true",
+            "_id": "XVZNzpn4nwFEjO3m"
+        },
+        {
+            "nome": "Soaint Test 5",
+            "email": "soaintTest58ee974c6-752c-4ca4-af51-b9ead881ace7@soainttest.com",
+            "password": "soainttest5",
+            "administrador": "false",
+            "_id": "XtrlKGxCIllXhrlm"
+        },
+        {
+            "nome": "Soaint Test 8",
+            "email": "soaintTest84cc9a842-2668-4c43-8ef4-7633821cffb3@soainttest.com",
+            "password": "soainttest8",
+            "administrador": "false",
+            "_id": "ZeUcR7EovnZucihs"
+        },
+        {
+            "nome": "Soaint Test 3",
+            "email": "soaintTest359ec8185-4936-4e64-b707-b7349e0afcf9@soainttest.com",
+            "password": "soainttest3",
+            "administrador": "false",
+            "_id": "cbiLBRBGCpkY7z4P"
+        },
+        {
+            "nome": "Soaint Test 9",
+            "email": "soaintTest9f5a25da5-df6b-4fef-badc-b551e3e68d95@soainttest.com",
+            "password": "soainttest9",
+            "administrador": "false",
+            "_id": "eBlf2szJatyYMG1A"
+        },
+        {
+            "nome": "Soaint Test 10",
+            "email": "soaintTest10593ad06c-e8fb-4619-8cbd-fee61a7ee315@soainttest.com",
+            "password": "soainttest10",
+            "administrador": "true",
+            "_id": "mm6VbUTlwFpXIPga"
+        },
+        {
+            "nome": "Tiago Simões",
+            "email": "laura.dasneves@live.com",
+            "password": "drxl5699gieloupr8",
+            "administrador": "false",
+            "_id": "qT9kE7dDdhT6svpD"
+        },
+        {
+            "nome": "Soaint Test 7",
+            "email": "soaintTest79a81e445-1873-47fb-9d26-2224ca9f0d5b@soainttest.com",
+            "password": "soainttest7",
+            "administrador": "true",
+            "_id": "vUFOcpIhx3fvT8vg"
+        }
+    ]
+}
