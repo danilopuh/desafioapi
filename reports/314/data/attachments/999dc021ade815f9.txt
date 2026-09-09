@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Isabella",
+            "email": "isabella.thomsen@example.com",
+            "password": "oakley",
+            "administrador": "false",
+            "_id": "8RmTHMtHvsSpDC2u"
+        },
+        {
+            "nome": "Fernanda Videira",
+            "email": "juliana.parreira@bol.com.br",
+            "password": "uxxo5si1",
+            "administrador": "false",
+            "_id": "Fx2i1BWFCNw3gjAF"
+        },
+        {
+            "nome": "Milena Lima",
+            "email": "bianca.franco@live.com",
+            "password": "chj27mu5qrq",
+            "administrador": "false",
+            "_id": "IAnDDNTC2iADb8Mo"
+        },
+        {
+            "nome": "Ivan Lindgren",
+            "email": "Raquel_Conroy@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "J4LgrIxMLsMKnLLY"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "OzKG0y8xkZVGGAbp"
+        },
+        {
+            "nome": "Dra. Esther da Aldeia",
+            "email": "mariahelena.deborba@bol.com.br",
+            "password": "1571za8haypkjo0h2h",
+            "administrador": "false",
+            "_id": "PxYccNLc7rlXw5o0"
+        }
+    ]
+}

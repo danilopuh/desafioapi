@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Isabella",
+            "email": "isabella.thomsen@example.com",
+            "password": "oakley",
+            "administrador": "false",
+            "_id": "8RmTHMtHvsSpDC2u"
+        },
+        {
+            "nome": "Fernanda Videira",
+            "email": "juliana.parreira@bol.com.br",
+            "password": "uxxo5si1",
+            "administrador": "false",
+            "_id": "Fx2i1BWFCNw3gjAF"
+        },
+        {
+            "nome": "Ivan Lindgren",
+            "email": "Raquel_Conroy@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "J4LgrIxMLsMKnLLY"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "OzKG0y8xkZVGGAbp"
+        },
+        {
+            "nome": "Dra. Esther da Aldeia",
+            "email": "mariahelena.deborba@bol.com.br",
+            "password": "1571za8haypkjo0h2h",
+            "administrador": "false",
+            "_id": "PxYccNLc7rlXw5o0"
+        },
+        {
+            "nome": "Dr. Ofélia da Fontoura",
+            "email": "marcos.macieira@yahoo.com",
+            "password": "6of1bcqeqe64a6e",
+            "administrador": "false",
+            "_id": "TugNahxdpA1JR2vj"
+        },
+        {
+            "nome": "Paula Carvalho",
+            "email": "henry.garcez@yahoo.com",
+            "password": "nfhpx765n",
+            "administrador": "false",
+            "_id": "jYryAcBt6Tk7cgvp"
+        },
+        {
+            "nome": "Sra. João Victor Quarteira",
+            "email": "sarah.roriz@hotmail.com",
+            "password": "3odj1oz8g7d",
+            "administrador": "false",
+            "_id": "nVzGxaKhetG8ZhVT"
+        }
+    ]
+}
