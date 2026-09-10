@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Pietro Lessa",
+            "email": "emanuel.ordonhes@bol.com.br",
+            "password": "tkefk6lqt1",
+            "administrador": "false",
+            "_id": "1cR1jy6OTXwXdEC9"
+        },
+        {
+            "nome": "Davi Ludmer Pinheira",
+            "email": "heloisa.pires@gmail.com",
+            "password": "upcl6894",
+            "administrador": "false",
+            "_id": "DdVfUSy0JJxaAGoD"
+        },
+        {
+            "nome": "Deneval Modesto",
+            "email": "isabel.madeira@yahoo.com",
+            "password": "20zumdcggpd",
+            "administrador": "false",
+            "_id": "MKF0nb3pBo3gDGLJ"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "XeYhcFj6A3YiyBUP"
+        },
+        {
+            "nome": "Marshall Williamson",
+            "email": "Guy.Smitham0@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "oA6PKTDnmFAju1Wn"
+        },
+        {
+            "nome": "Rafaela Esteves",
+            "email": "yago.brum@gmail.com",
+            "password": "2r9e4lqgpx",
+            "administrador": "false",
+            "_id": "oFWk44ula4tQ5h7U"
+        },
+        {
+            "nome": "Giulia Filgueira",
+            "email": "joaoguilherme.ribas@hotmail.com",
+            "password": "fcafjh0vz3",
+            "administrador": "false",
+            "_id": "qSDT0f0bisOpTcDa"
+        },
+        {
+            "nome": "Sophie",
+            "email": "sophie.kowalski@example.com",
+            "password": "beau",
+            "administrador": "false",
+            "_id": "vi1WticJoJDPvZ82"
+        }
+    ]
+}

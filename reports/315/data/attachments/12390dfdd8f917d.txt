@@ -1,0 +1,47 @@
+{
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Davi Ludmer Pinheira",
+            "email": "heloisa.pires@gmail.com",
+            "password": "upcl6894",
+            "administrador": "false",
+            "_id": "DdVfUSy0JJxaAGoD"
+        },
+        {
+            "nome": "Deneval Modesto",
+            "email": "isabel.madeira@yahoo.com",
+            "password": "20zumdcggpd",
+            "administrador": "false",
+            "_id": "MKF0nb3pBo3gDGLJ"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "XeYhcFj6A3YiyBUP"
+        },
+        {
+            "nome": "Marshall Williamson",
+            "email": "Guy.Smitham0@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "oA6PKTDnmFAju1Wn"
+        },
+        {
+            "nome": "Sophie",
+            "email": "sophie.kowalski@example.com",
+            "password": "beau",
+            "administrador": "false",
+            "_id": "vi1WticJoJDPvZ82"
+        }
+    ]
+}
