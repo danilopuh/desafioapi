@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GUYRbGS5zfV26MAH"
+        },
+        {
+            "nome": "Murilo Paes",
+            "email": "valentina.pimenta@bol.com.br",
+            "password": "e6e4h5shary",
+            "administrador": "false",
+            "_id": "Grm3R9Yd8k0wtNPD"
+        },
+        {
+            "nome": "Casey Block",
+            "email": "Keely_Batz92@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "SNqYVUfAconFBmWR"
+        },
+        {
+            "nome": "Ana Laura Aroeira Filho",
+            "email": "deneval.neves@live.com",
+            "password": "rvoxowqfewkoh15pk7a",
+            "administrador": "false",
+            "_id": "UNcdqoMpqK3d8ndt"
+        },
+        {
+            "nome": "Miguel de Lara",
+            "email": "yuri.deassuncao@hotmail.com",
+            "password": "jot804ofwjysmazzza",
+            "administrador": "false",
+            "_id": "eWZFV6aSgmItlEL3"
+        },
+        {
+            "email": "dupchk_1789110087400@qa.com",
+            "nome": "A",
+            "password": "secret123",
+            "administrador": "true",
+            "_id": "vpHfLidXptPJxBKL"
+        }
+    ]
+}
