@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dra. João Miguel Cavalcanti",
+            "email": "beatriz.meira@yahoo.com",
+            "password": "x0kzl1jmiw6f8",
+            "administrador": "false",
+            "_id": "98QSOCsRxnwNW2gU"
+        },
+        {
+            "nome": "Srta. Maria Helena Costa",
+            "email": "pedrolucas.ribas@gmail.com",
+            "password": "mq253bk7kidlvgorr",
+            "administrador": "false",
+            "_id": "Ciihe7Qf3IMNn93T"
+        },
+        {
+            "nome": "Enzo Thiago Paes Filho",
+            "email": "gubio.duarte@hotmail.com",
+            "password": "k51d4kxsx4y44dswrr",
+            "administrador": "false",
+            "_id": "RprqKT2gviOKglPs"
+        },
+        {
+            "nome": "Miss Aubrey Stanton",
+            "email": "Laurel_Volkman58@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bDlbhI1DTQKWhmgD"
+        },
+        {
+            "nome": "Srta. Nicolas da Fontoura",
+            "email": "washington.peres@gmail.com",
+            "password": "os00cb4tp",
+            "administrador": "false",
+            "_id": "l73PCVnusduu2eDj"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ogwNRHlXy3e9bk00"
+        },
+        {
+            "nome": "Ladislau Farias",
+            "email": "nathan.leiria@live.com",
+            "password": "sdjwt49rgz",
+            "administrador": "false",
+            "_id": "sg78akSiJYof2POM"
+        }
+    ]
+}

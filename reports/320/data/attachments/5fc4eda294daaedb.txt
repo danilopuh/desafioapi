@@ -1,0 +1,33 @@
+{
+    "quantidade": 4,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dra. João Miguel Cavalcanti",
+            "email": "beatriz.meira@yahoo.com",
+            "password": "x0kzl1jmiw6f8",
+            "administrador": "false",
+            "_id": "98QSOCsRxnwNW2gU"
+        },
+        {
+            "nome": "Miss Aubrey Stanton",
+            "email": "Laurel_Volkman58@hotmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "bDlbhI1DTQKWhmgD"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ogwNRHlXy3e9bk00"
+        }
+    ]
+}
