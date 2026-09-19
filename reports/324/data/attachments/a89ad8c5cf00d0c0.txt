@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Joel Ramos",
+            "email": "usuario_230ef1e6-ad4c-4824-816a-67832876a189@qa.com",
+            "password": "djTiesto",
+            "administrador": "true",
+            "_id": "0WVtDOsYEMCwirjj"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Bruna Flores",
+            "email": "sflores.bruna@gmail.com",
+            "password": "Qwaszx@@##2014",
+            "administrador": "true",
+            "_id": "538hlxgCynxHsKxl"
+        },
+        {
+            "nome": "Lorenzo Freitas",
+            "email": "morgana.macedo@yahoo.com",
+            "password": "3fhsx41iback",
+            "administrador": "false",
+            "_id": "762sN8Wjprp7yZTf"
+        },
+        {
+            "nome": "Joel Ramos",
+            "email": "joel2064@gmail.com",
+            "password": "djTiesto",
+            "administrador": "true",
+            "_id": "G9DzUXLaNanpcLNm"
+        },
+        {
+            "nome": "Joel Ramos",
+            "email": "usuario_ddf7b1d9-8916-4a5d-9ce8-1f3ead74cf65@qa.com",
+            "password": "djTiesto",
+            "administrador": "true",
+            "_id": "ZLIjhXIK0d0zVkMt"
+        },
+        {
+            "nome": "José Guterres",
+            "email": "bianca.monteiro@hotmail.com",
+            "password": "70dxa8dcbwp",
+            "administrador": "false",
+            "_id": "hAJqKoL9pb7ozBgP"
+        },
+        {
+            "nome": "Dra. Gael Novaes",
+            "email": "norberto.pereira@hotmail.com",
+            "password": "2whr6rnhddte",
+            "administrador": "false",
+            "_id": "jFiKPQnWPnGjQP5G"
+        },
+        {
+            "nome": "Calebe Galvão Neto",
+            "email": "henrique.veles@gmail.com",
+            "password": "9pno6q782k4okh",
+            "administrador": "false",
+            "_id": "ungdlO4xLqnxkvyP"
+        }
+    ]
+}
