@@ -1,0 +1,481 @@
+{
+    "quantidade": 68,
+    "usuarios": [
+        {
+            "nome": "Usuario QA",
+            "email": "qa_1790302621569@test.com",
+            "password": "Test@123",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Vinicius Gasparino vasconcelos",
+            "email": "viniciusgasparino@yahoo.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "1B5I8cPjkuwJPUKC"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "qa_1790299564569@test.com",
+            "password": "Test@123",
+            "administrador": "true",
+            "_id": "3aFwEK9xHCZOrDTH"
+        },
+        {
+            "nome": "Fabio Torres",
+            "email": "qa.reto.b18e598b@teste.com",
+            "password": "Senha@b18e598b",
+            "administrador": "false",
+            "_id": "5wxTkHZ6uAqqBV5m"
+        },
+        {
+            "nome": "Bruno Mendez",
+            "email": "qa.reto.e01340bd@teste.com",
+            "password": "Senha@e01340bd",
+            "administrador": "false",
+            "_id": "7OXKwRkVkbvSDFK1"
+        },
+        {
+            "nome": "Elena Ramos",
+            "email": "qa.reto.3a79f372@teste.com",
+            "password": "Senha@3a79f372",
+            "administrador": "false",
+            "_id": "7hg476EXtuneCpE4"
+        },
+        {
+            "nome": "Krystal Schuppe",
+            "email": "Lincoln_Hessel@hotmail.com",
+            "password": "Oqc8xIqD",
+            "administrador": "true",
+            "_id": "7nj7gWQdk5SPIFDU"
+        },
+        {
+            "nome": "Elena Nunez",
+            "email": "qa.reto.96914e4f@teste.com",
+            "password": "Senha@96914e4f",
+            "administrador": "false",
+            "_id": "814KJFLIXjVV1Zrz"
+        },
+        {
+            "nome": "Julia Mendez",
+            "email": "qa.reto.ea304110@teste.com",
+            "password": "Senha@ea304110",
+            "administrador": "false",
+            "_id": "8Z9F4fxUu2jhcb0k"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "qa_1790301215818@test.com",
+            "password": "Test@123",
+            "administrador": "true",
+            "_id": "9Uxa0GIA67X5pzHw"
+        },
+        {
+            "nome": "Gúbio da Terra",
+            "email": "hugo.espinhosa@hotmail.com",
+            "password": "ycrdwrtdguy7snkj",
+            "administrador": "false",
+            "_id": "9Xe1X2myVC9OA70n"
+        },
+        {
+            "nome": "Elena Ramos",
+            "email": "qa.reto.bc32f319@teste.com",
+            "password": "Senha@bc32f319",
+            "administrador": "false",
+            "_id": "AfHjWBHz3VmxH4YE"
+        },
+        {
+            "nome": "Ivan Salazar",
+            "email": "qa.reto.e8e81c77@teste.com",
+            "password": "Senha@e8e81c77",
+            "administrador": "false",
+            "_id": "BDjQR6PhGCtXSt5r"
+        },
+        {
+            "nome": "Fabio Nunez",
+            "email": "qa.reto.c13fbd72@teste.com",
+            "password": "Senha@c13fbd72",
+            "administrador": "false",
+            "_id": "CG5b0JnVyfTikEVa"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "usuario_1790300723634@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "Exjyka4hcmf6TyKR"
+        },
+        {
+            "nome": "Usuario GET",
+            "email": "get_usuario_1790300719876@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "F7jmPWNm3qjCsAOT"
+        },
+        {
+            "nome": "Diego Mendez",
+            "email": "qa.reto.76d1c2ca@teste.com",
+            "password": "Senha@76d1c2ca",
+            "administrador": "false",
+            "_id": "IGur9MiW0vpUvVyg"
+        },
+        {
+            "nome": "Carla Ramos",
+            "email": "qa.reto.5d4e42ac@teste.com",
+            "password": "Senha@5d4e42ac",
+            "administrador": "false",
+            "_id": "Iy1x65B8BtMa2YJB"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "qa_1790301034998@test.com",
+            "password": "Test@123",
+            "administrador": "true",
+            "_id": "J4W6VPocvUMRvvnG"
+        },
+        {
+            "nome": "Helena Rocha",
+            "email": "qa.reto.51608cd5@teste.com",
+            "password": "Senha@51608cd5",
+            "administrador": "true",
+            "_id": "JDI7J2BWX1TaY3A2"
+        },
+        {
+            "nome": "Thomas Hermingues",
+            "email": "mirella.moreira@live.com",
+            "password": "21o9uj3vz14a1po",
+            "administrador": "false",
+            "_id": "JfSYEgWOYPPxl4R7"
+        },
+        {
+            "nome": "Ana Nunez",
+            "email": "qa.reto.e0cd91d1@teste.com",
+            "password": "Senha@e0cd91d1",
+            "administrador": "false",
+            "_id": "Jt5Jy4yH6Lgc5IcN"
+        },
+        {
+            "nome": "Julia Nunez",
+            "email": "qa.reto.eb8fc294@teste.com",
+            "password": "Senha@eb8fc294",
+            "administrador": "false",
+            "_id": "JzQzIjTKm1ULiOiV"
+        },
+        {
+            "nome": "Carla Alvarez",
+            "email": "qa.reto.64535b36@teste.com",
+            "password": "Senha@64535b36",
+            "administrador": "false",
+            "_id": "KId8apIwyemUbxoJ"
+        },
+        {
+            "nome": "Diego Mendez",
+            "email": "qa.reto.eb74e15f@teste.com",
+            "password": "Senha@eb74e15f",
+            "administrador": "true",
+            "_id": "KJC96205a44V6EjP"
+        },
+        {
+            "nome": "Srta. Cauã Videira",
+            "email": "roberto.castanheira@live.com",
+            "password": "6yu03vxu",
+            "administrador": "false",
+            "_id": "KeHFL56Y4QUbaZPJ"
+        },
+        {
+            "nome": "Ana Torres",
+            "email": "qa.reto.7a6dbe3d@teste.com",
+            "password": "Senha@7a6dbe3d",
+            "administrador": "false",
+            "_id": "LO3QbGj11iVorA9Q"
+        },
+        {
+            "nome": "Usuario PUT Actualizado",
+            "email": "put_usuario_1790300143690@test.com",
+            "password": "Updated123!",
+            "administrador": "false",
+            "_id": "Ml4URKXgxPbb2RsH"
+        },
+        {
+            "nome": "Deanna Bosco",
+            "email": "Toni_Wilkinson6@yahoo.com",
+            "password": "b03h7LQ1",
+            "administrador": "true",
+            "_id": "MvHrJNUZaOVqxAdh"
+        },
+        {
+            "nome": "Diego Torres",
+            "email": "qa.reto.f75dc755@teste.com",
+            "password": "Senha@f75dc755",
+            "administrador": "false",
+            "_id": "QNuc3rxmzOMeLGEf"
+        },
+        {
+            "nome": "Elena Mendez",
+            "email": "qa.reto.267bd6ff@teste.com",
+            "password": "Senha@267bd6ff",
+            "administrador": "false",
+            "_id": "R5SM2TkzuTe4nDkF"
+        },
+        {
+            "nome": "Usuario PUT Duplicado",
+            "email": "put_duplicado_1790300145351@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "RH85PcAqdpMjnOeT"
+        },
+        {
+            "nome": "Carla Mendez",
+            "email": "qa.reto.7676b711@teste.com",
+            "password": "Senha@7676b711",
+            "administrador": "false",
+            "_id": "RN1l5daHmjPWIInB"
+        },
+        {
+            "nome": "Usuario PUT Actualizado",
+            "email": "put_usuario_1790300726008@test.com",
+            "password": "Updated123!",
+            "administrador": "false",
+            "_id": "RwYJh1Z9NFME1NRR"
+        },
+        {
+            "nome": "Paulette Lehner",
+            "email": "Salvatore25@yahoo.com",
+            "password": "3nmFHLge",
+            "administrador": "true",
+            "_id": "SW9eYPZ7cWL7sy4r"
+        },
+        {
+            "nome": "Gustavo Ramos",
+            "email": "qa.reto.f231f5ba@teste.com",
+            "password": "Senha@f231f5ba",
+            "administrador": "false",
+            "_id": "SYxiib808fBseVYz"
+        },
+        {
+            "nome": "Carla Duarte",
+            "email": "qa.reto.172377f9@teste.com",
+            "password": "Senha@172377f9",
+            "administrador": "false",
+            "_id": "TA3K0KJaebBCZeg6"
+        },
+        {
+            "nome": "Helena Torres",
+            "email": "qa.reto.66a0db68@teste.com",
+            "password": "Senha@66a0db68",
+            "administrador": "false",
+            "_id": "TL5xIcGDy1ETojFP"
+        },
+        {
+            "nome": "Julia Torres",
+            "email": "qa.reto.13608270@teste.com",
+            "password": "Senha@13608270",
+            "administrador": "false",
+            "_id": "VFKz9Mvjlmql6gnB"
+        },
+        {
+            "nome": "Diego Duarte",
+            "email": "qa.reto.c2ebb3b4@teste.com",
+            "password": "Senha@c2ebb3b4",
+            "administrador": "false",
+            "_id": "WMcWc7YbT2HdN4YJ"
+        },
+        {
+            "nome": "Bruno Mendez",
+            "email": "qa.reto.3fa7b1a7@teste.com",
+            "password": "Senha@3fa7b1a7",
+            "administrador": "true",
+            "_id": "X9KYvQCYj9caBuGd"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "usuario_1790302057168@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "XXVp2UjDqBUSaICU"
+        },
+        {
+            "nome": "Usuario GET",
+            "email": "get_usuario_1790302052459@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "Zf9fxqJ4LW560miw"
+        },
+        {
+            "nome": "Elena Nunez",
+            "email": "qa.reto.1687049f@teste.com",
+            "password": "Senha@1687049f",
+            "administrador": "false",
+            "_id": "ZfQbm3PBC9sjqf9k"
+        },
+        {
+            "nome": "Helena Torres",
+            "email": "qa.reto.a547fe9c@teste.com",
+            "password": "Senha@a547fe9c",
+            "administrador": "false",
+            "_id": "arGEqfW9KU0rBcz5"
+        },
+        {
+            "nome": "Carla Duarte",
+            "email": "qa.reto.d732926a@teste.com",
+            "password": "Senha@d732926a",
+            "administrador": "false",
+            "_id": "asjPJzDlhd3F6X0i"
+        },
+        {
+            "nome": "Usuario PUT Email Invalido",
+            "email": "put_invalido_1790300147795@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "e2P9jXa5z6lUWu0p"
+        },
+        {
+            "nome": "Elena Salazar",
+            "email": "qa.reto.cdc4655d@teste.com",
+            "password": "Senha@cdc4655d",
+            "administrador": "false",
+            "_id": "e8ccqSJ8BeMxyUAZ"
+        },
+        {
+            "nome": "Usuario Test",
+            "email": "usuario_1790300142008@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "gVu0bRmv9m05PDS8"
+        },
+        {
+            "nome": "Ivan Duarte",
+            "email": "qa.reto.f8a8cd8e@teste.com",
+            "password": "Senha@f8a8cd8e",
+            "administrador": "false",
+            "_id": "hsgVfj1vLjRXTeTw"
+        },
+        {
+            "nome": "Diego Mendez",
+            "email": "qa.reto.f006d9df@teste.com",
+            "password": "Senha@f006d9df",
+            "administrador": "true",
+            "_id": "kXpdiEAIeRSrkRAe"
+        },
+        {
+            "nome": "Ana Alvarez",
+            "email": "qa.reto.4ea73a96@teste.com",
+            "password": "Senha@4ea73a96",
+            "administrador": "true",
+            "_id": "kYdipBUCS1ETyNx5"
+        },
+        {
+            "nome": "Julia Alvarez",
+            "email": "qa.reto.a2363ea2@teste.com",
+            "password": "Senha@a2363ea2",
+            "administrador": "false",
+            "_id": "kmxCltuNyvarJJ16"
+        },
+        {
+            "nome": "Elena Nunez",
+            "email": "qa.reto.583bb7c2@teste.com",
+            "password": "Senha@583bb7c2",
+            "administrador": "false",
+            "_id": "lTS1zz1nAqGF1LEd"
+        },
+        {
+            "nome": "Ismael Schuppe",
+            "email": "Clotilde_Windler@gmail.com",
+            "password": "gFMmaUCV",
+            "administrador": "true",
+            "_id": "m0t5Sjs9fx5LKbyW"
+        },
+        {
+            "nome": "Ana Salazar",
+            "email": "qa.reto.9e429ef1@teste.com",
+            "password": "Senha@9e429ef1",
+            "administrador": "false",
+            "_id": "mPPIdhuQLhJImWwC"
+        },
+        {
+            "nome": "Usuario GET",
+            "email": "get_usuario_1790300135868@test.com",
+            "password": "Test123!",
+            "administrador": "true",
+            "_id": "oBVEgARuCG2qySjN"
+        },
+        {
+            "nome": "User sr-8pi50hbw",
+            "email": "user-xda5kh51.1790290110883@example.com",
+            "password": "pw-usr-43agi1r7c4",
+            "administrador": "false",
+            "_id": "rZJHjw64ySdMpQkn"
+        },
+        {
+            "nome": "Diego Rocha",
+            "email": "qa.reto.c4fc7cae@teste.com",
+            "password": "Senha@c4fc7cae",
+            "administrador": "false",
+            "_id": "rf4LDyIXsyRTk9P5"
+        },
+        {
+            "nome": "Breno Dantas",
+            "email": "mariafernanda.albuquerque@gmail.com",
+            "password": "11nrb0noabgh2x4kgr",
+            "administrador": "false",
+            "_id": "s5Z3mazKlWh9ijdU"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "qa_1790302621040@test.com",
+            "password": "Test@123",
+            "administrador": "true",
+            "_id": "sLap914H4tsT5kan"
+        },
+        {
+            "nome": "Elena Duarte",
+            "email": "qa.reto.111921f9@teste.com",
+            "password": "Senha@111921f9",
+            "administrador": "false",
+            "_id": "sX6kkkQNmzHvqzPM"
+        },
+        {
+            "nome": "Ana Duarte",
+            "email": "qa.reto.26e40de4@teste.com",
+            "password": "Senha@26e40de4",
+            "administrador": "true",
+            "_id": "vHKmvUtnZYcrHffh"
+        },
+        {
+            "nome": "Bruno Ramos",
+            "email": "qa.reto.54dae1af@teste.com",
+            "password": "Senha@54dae1af",
+            "administrador": "false",
+            "_id": "x2w0ecYRQWbu3GAg"
+        },
+        {
+            "nome": "Diego Duarte",
+            "email": "qa.reto.75bebc07@teste.com",
+            "password": "Senha@75bebc07",
+            "administrador": "false",
+            "_id": "xLKAr9etvI662KNx"
+        },
+        {
+            "nome": "Ivan Mendez",
+            "email": "qa.reto.96324d90@teste.com",
+            "password": "Senha@96324d90",
+            "administrador": "true",
+            "_id": "xPHx3n0TcTwcePXg"
+        },
+        {
+            "nome": "Usuario PUT Mismo Email",
+            "email": "put_usuario_1790302058841@test.com",
+            "password": "Updated123!",
+            "administrador": "false",
+            "_id": "yTU0FkW0WLXQkUAb"
+        },
+        {
+            "nome": "Helena Mendez",
+            "email": "qa.reto.0c67b7b9@teste.com",
+            "password": "Senha@0c67b7b9",
+            "administrador": "false",
+            "_id": "z6mLxTQoje1b49UQ"
+        }
+    ]
+}
