@@ -1,0 +1,285 @@
+{
+    "quantidade": 40,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Aníbal Martins Neto",
+            "email": "anibalbh@gmail.com",
+            "password": "Netomartins10",
+            "administrador": "true",
+            "_id": "2V56D1ZAAIDmtjwW"
+        },
+        {
+            "nome": "Lula_Friesen",
+            "email": "Madonna_Brakus14@yahoo.com",
+            "password": "735553738",
+            "administrador": "true",
+            "_id": "376sXuMptMFRtEBX"
+        },
+        {
+            "nome": "Lula32",
+            "email": "Maxine78@gmail.com",
+            "password": "468354546",
+            "administrador": "true",
+            "_id": "399NdZsLUk0LdMha"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790642605820@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "3sHw9Br8EloCxUn4"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790643079109@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "6fHzi5VZmDS59z3s"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640333498@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "7L1k4kZrFYHGrUkn"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790643733528@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "CMFQLKhHoqXgEDZB"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790643914767@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "FCglBqv9l2kvb20y"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790647811019@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "GEv0OhQdiZLvDwd3"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790641093351@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "GzTRLsgxZDDUFByS"
+        },
+        {
+            "nome": "Sta. Teodoro Lebrón Maya",
+            "email": "karate.qa.1790633770890@serverest-test.com",
+            "password": "%$3PyD1D8n6e",
+            "administrador": "true",
+            "_id": "I0hvHNK7t7SmV2m5"
+        },
+        {
+            "nome": "Sim Runner da5cfaa6c6731760",
+            "email": "simrun-da5cfaa6c6731760@qa.dev",
+            "password": "simrunner123",
+            "administrador": "true",
+            "_id": "Ifpb4BxGRNe6COaU"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640426417@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "JIUck1YiPKRUkZay"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640745390@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "K0UhWGNQRrz6HOna"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790642607827911@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "MvhzsSMLf13l1Yie"
+        },
+        {
+            "nome": "Sim Runner 7f6da5d07abba4c9",
+            "email": "simrun-7f6da5d07abba4c9@qa.dev",
+            "password": "S3cureRunner2024!",
+            "administrador": "true",
+            "_id": "N4oPhT6KAf05F2Hi"
+        },
+        {
+            "nome": "Vincenzo.Goyette",
+            "email": "Candice76@hotmail.com",
+            "password": "992177432",
+            "administrador": "true",
+            "_id": "NuNpGSvAJSLVQCUA"
+        },
+        {
+            "nome": "Sim Runner 5f95005e3b9e510a",
+            "email": "simrun-5f95005e3b9e510a@qa.dev",
+            "password": "rUnnEr99!",
+            "administrador": "true",
+            "_id": "QCmlJVh3uTc35ylj"
+        },
+        {
+            "nome": "Simeon20",
+            "email": "Paolo.Jerde@yahoo.com",
+            "password": "807545211",
+            "administrador": "true",
+            "_id": "RHEU9MZLutxnNWH5"
+        },
+        {
+            "nome": "Frederico Beltrão",
+            "email": "julio.soeira@hotmail.com",
+            "password": "t3s4qd1z",
+            "administrador": "false",
+            "_id": "S5t6Nxi6HjLpA1fm"
+        },
+        {
+            "nome": "Sim Runner 2a208475c0c4864d",
+            "email": "simrun-2a208475c0c4864d@qa.dev",
+            "password": "simrunner123",
+            "administrador": "true",
+            "_id": "SxAeDiEr6T6KIMj2"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790642691041@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "XRt4YA7nQYITY1c1"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790645794743@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "XcAwwr30YJCxSnzq"
+        },
+        {
+            "nome": "Sim Runner <fd3c97a3b2854d1f>",
+            "email": "simrun-fd3c97a3b2854d1f@qa.dev",
+            "password": "SimRunnerfd3c97a3b2854d1f!Ok7",
+            "administrador": "true",
+            "_id": "fPbIidTJStgR09NF"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640601583@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "h2U6q4t99pGJDdfG"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790647812906421@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "jlrEdeLOLIIyRPAE"
+        },
+        {
+            "nome": "Sim Runner <1a13fc8c571a2ea1>",
+            "email": "simrun-1a13fc8c571a2ea1@qa.dev",
+            "password": "SimRunner!qa2024",
+            "administrador": "true",
+            "_id": "kJyUK4qhyWn5ysRw"
+        },
+        {
+            "nome": "Sim Runner a26840fb88a277a8",
+            "email": "simrun-a26840fb88a277a8@qa.dev",
+            "password": "test",
+            "administrador": "true",
+            "_id": "pbrtxDtghoS4dAwq"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790641559269@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "qdYVsZZykSQABYiW"
+        },
+        {
+            "nome": "Beatriz Silva",
+            "email": "beatriz.silva@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "qogk6cIUCfx6G57n"
+        },
+        {
+            "nome": "Bruno Ramos",
+            "email": "qa.reto.910c5c79@teste.com",
+            "password": "Senha@910c5c79",
+            "administrador": "true",
+            "_id": "r8vQG7OSZUM96tPv"
+        },
+        {
+            "nome": "Sim Runner e18548903a8d7f56",
+            "email": "simrun-e18548903a8d7f56@qa.dev",
+            "password": "Senha123!",
+            "administrador": "true",
+            "_id": "sqba14dK8ne538ZJ"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640807938@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "tpGP6A68m1DXuYx6"
+        },
+        {
+            "nome": "Lucas Simbelis Teixeira",
+            "email": "lucas.simbelis.teixeira@gmail.com",
+            "password": "123654",
+            "administrador": "false",
+            "_id": "wI26uGySRCDqZhUE"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790642674022@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "x7bPOnpvdD5JITFw"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790640707083@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "xMrr572N9a7PMO6F"
+        },
+        {
+            "nome": "Sandra Orn",
+            "email": "Branson_Baumbach-Kuhlman@yahoo.com",
+            "password": "7MR5b_wQ",
+            "administrador": "true",
+            "_id": "yJz1obmyyMXcRFmG"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1790647814296489@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "zKLjbeyD27mHmbLu"
+        },
+        {
+            "nome": "Alexandra Hammes",
+            "email": "Dangelo_Sawayn63@hotmail.com",
+            "password": "Zb2BkC3a",
+            "administrador": "true",
+            "_id": "zpRBjAlR3Qi5fD3U"
+        }
+    ]
+}
