@@ -1,0 +1,96 @@
+{
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "cc",
+            "email": "78601083565@qq.com",
+            "password": "99337032",
+            "administrador": "true",
+            "_id": "1qGajTHAgYAwPX4t"
+        },
+        {
+            "nome": "Srta. Nicole Macieira",
+            "email": "giovanna.carvalheira@bol.com.br",
+            "password": "cq79b19kzho",
+            "administrador": "false",
+            "_id": "3nFD8WxG940gYPOy"
+        },
+        {
+            "nome": "Mirella Roseira",
+            "email": "lorenzo.peres@live.com",
+            "password": "48ca1mnhus6w038kv5",
+            "administrador": "false",
+            "_id": "9t4VnZlCmluMxgSF"
+        },
+        {
+            "nome": "cc",
+            "email": "57812606989@qq.com",
+            "password": "11410274",
+            "administrador": "false",
+            "_id": "HYcGGjiZvHDZB2NC"
+        },
+        {
+            "nome": "nome cliente",
+            "email": "email@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "IgVpbNBFr4Lt2zXh"
+        },
+        {
+            "nome": "Stella Velasques Filho",
+            "email": "benicio.neves@gmail.com",
+            "password": "47fvgecge8",
+            "administrador": "false",
+            "_id": "MB2Gpmke39T2QP9S"
+        },
+        {
+            "nome": "Catarina Cruz",
+            "email": "juliana.custodio@bol.com.br",
+            "password": "x3gdvy2oqm",
+            "administrador": "false",
+            "_id": "WkUjoFvqAGc9Re6k"
+        },
+        {
+            "nome": "cc",
+            "email": "40630232540@qq.com",
+            "password": "80971747",
+            "administrador": "true",
+            "_id": "bBE0p0bMtIkdvpTw"
+        },
+        {
+            "nome": "cc",
+            "email": "79446997145@qq.com",
+            "password": "20857996",
+            "administrador": "true",
+            "_id": "eoc3anHU9z4HzSEG"
+        },
+        {
+            "nome": "cc",
+            "email": "17439678223@qq.com",
+            "password": "71172591",
+            "administrador": "true",
+            "_id": "fe6zm6vD3dYNANBQ"
+        },
+        {
+            "nome": "cc",
+            "email": "47176221903@qq.com",
+            "password": "63709280",
+            "administrador": "true",
+            "_id": "kpR9FoluO5C8jksY"
+        },
+        {
+            "nome": "Elsa Herman V",
+            "email": "Johnpaul.Quigley51@yahoo.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "v4KOszdFTaKPJnTR"
+        }
+    ]
+}
