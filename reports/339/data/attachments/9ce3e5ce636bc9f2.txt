@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin sr-vukmbt3x",
+            "email": "user-fxgszbdp.1791100439715@example.com",
+            "password": "pw-adm-3h9rb33h4c",
+            "administrador": "true",
+            "_id": "1IvIsn8gk31sgJeE"
+        },
+        {
+            "nome": "Sra. Davi Luiz Ramires",
+            "email": "elisio.lima@bol.com.br",
+            "password": "orxtr4t7dfg",
+            "administrador": "false",
+            "_id": "6g71ca97ntVQy152"
+        },
+        {
+            "nome": "Admin sr-j056od4t",
+            "email": "user-juowgrv0.1791100439670@example.com",
+            "password": "pw-adm-f0v4cgfx7v",
+            "administrador": "true",
+            "_id": "94v6m8Ecng2d7uzx"
+        },
+        {
+            "nome": "Admin sr-0m26s86y",
+            "email": "user-t5861t3m.1791100439715@example.com",
+            "password": "pw-adm-910qlzrnmy",
+            "administrador": "true",
+            "_id": "GtbQcq59FByoUU3a"
+        },
+        {
+            "nome": "User sr-u7in2wjp",
+            "email": "user-jg8wzaku.1791100439680@example.com",
+            "password": "pw-usr-o9nvez3j6f",
+            "administrador": "false",
+            "_id": "IoqHArvPjWf3XwBf"
+        },
+        {
+            "nome": "Vinicius da Fronteira",
+            "email": "analuiza.louzada@yahoo.com",
+            "password": "umyk31qwzetafo3dva",
+            "administrador": "false",
+            "_id": "LDV6vib6q3xYdvxG"
+        },
+        {
+            "nome": "User sr-zqggcz64",
+            "email": "user-4s01im42.1791100440544@example.com",
+            "password": "pw-usr-v067mkdbvr",
+            "administrador": "false",
+            "_id": "N9NX4GuJbOyqf6Jt"
+        },
+        {
+            "nome": "User sr-52cm7jmc",
+            "email": "user-8krq8h5p.1791100441061@example.com",
+            "password": "pw-usr-7y95nawvh2",
+            "administrador": "false",
+            "_id": "OOyc2p4Hmjmify2S"
+        },
+        {
+            "nome": "Srta. Lorena Espinheira",
+            "email": "henry.garcez@hotmail.com",
+            "password": "cup21ib4fj",
+            "administrador": "false",
+            "_id": "ZU5sRnY52TMUkYnf"
+        },
+        {
+            "nome": "Luiza Longuinho",
+            "email": "pietro.dabandeira@bol.com.br",
+            "password": "6qtlku6y6rxb5",
+            "administrador": "false",
+            "_id": "w6cjKa9XTpd0iA4o"
+        }
+    ]
+}
