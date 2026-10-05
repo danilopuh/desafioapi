@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Enzo Thiago da Cruz",
+            "email": "vicente.pinheira@yahoo.com",
+            "password": "1bogwmpdh",
+            "administrador": "false",
+            "_id": "813CXvcDzl4Oysft"
+        },
+        {
+            "nome": "Dr. Natália Saraiva",
+            "email": "roberta.veles@hotmail.com",
+            "password": "mbtyfeej5sdkbgvow",
+            "administrador": "false",
+            "_id": "9nqmYYiaAMem2KgE"
+        },
+        {
+            "nome": "Isaac Aparício",
+            "email": "stella.paes@yahoo.com",
+            "password": "ph9k8qnqd",
+            "administrador": "false",
+            "_id": "NwowZszhSRjKVnUB"
+        },
+        {
+            "nome": "João Bomdia Neto",
+            "email": "mariasophia.rezende@bol.com.br",
+            "password": "5ez8sn7rhugxb2",
+            "administrador": "false",
+            "_id": "ZTeR5CwFQHX3WmgC"
+        },
+        {
+            "nome": "Pedro Henrique Moniz Jr.",
+            "email": "lavinia.ambrosio@yahoo.com",
+            "password": "yg0qpko46u6",
+            "administrador": "false",
+            "_id": "nrCpIIX81vm5AKel"
+        },
+        {
+            "nome": "Benjamin da Maia",
+            "email": "danilo.dafontoura@bol.com.br",
+            "password": "7pzole9d80tmn1rpmi",
+            "administrador": "false",
+            "_id": "t9B4qXHj2MEY2wew"
+        }
+    ]
+}
