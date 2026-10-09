@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Sophie Albuquerque Jr.",
+            "email": "noah.carneiro@bol.com.br",
+            "password": "5zfbelylb",
+            "administrador": "false",
+            "_id": "2dpQbWmXcXHP68WH"
+        },
+        {
+            "nome": "Admin sr-6wyx7hx8",
+            "email": "user-xcdt321e.1791534919858@example.com",
+            "password": "pw-adm-x7nlj4vx7e",
+            "administrador": "true",
+            "_id": "9IGsP8HjHlNSjHp7"
+        },
+        {
+            "nome": "Antonella Sá",
+            "email": "joaopedro.moreira@live.com",
+            "password": "okiusu1qkey8i",
+            "administrador": "false",
+            "_id": "DEubvspWC7Ic4dRq"
+        },
+        {
+            "nome": "Bruna de Quadros Jr.",
+            "email": "mariacecilia.ramalho@hotmail.com",
+            "password": "y5crn8821xqsf1xj3ix",
+            "administrador": "false",
+            "_id": "MvgCDnUUX6GHyEyE"
+        },
+        {
+            "nome": "User sr-dylf6ayc",
+            "email": "user-of43run4.1791534919882@example.com",
+            "password": "pw-usr-ultm5uqgfs",
+            "administrador": "false",
+            "_id": "NefSFID4KDF4BZRe"
+        },
+        {
+            "nome": "Sr. Vitor Hugo Banheira",
+            "email": "ian.veloso@live.com",
+            "password": "gm8781rh",
+            "administrador": "false",
+            "_id": "S0NxMw6vahfCHpRJ"
+        },
+        {
+            "nome": "Clara de Quadros",
+            "email": "gabrielly.lopes@gmail.com",
+            "password": "nz66wlhh",
+            "administrador": "false",
+            "_id": "cDvfxYNtHL80L8E9"
+        },
+        {
+            "nome": "Gabriela Limeira",
+            "email": "salvador.guterres@live.com",
+            "password": "fn16nl2034",
+            "administrador": "false",
+            "_id": "jEH0XaaVbR5MnzwY"
+        },
+        {
+            "nome": "User sr-u5qrm08c",
+            "email": "user-bhdtno3j.1791534926145@example.com",
+            "password": "pw-usr-btfxwuxcsv",
+            "administrador": "false",
+            "_id": "p3cOTsp0lnZ1I6pI"
+        },
+        {
+            "nome": "Admin sr-mpok2k6y",
+            "email": "user-zlqe6riz.1791534919847@example.com",
+            "password": "pw-adm-nlbz51oaxr",
+            "administrador": "true",
+            "_id": "vRbp0rUSLE23v99M"
+        }
+    ]
+}

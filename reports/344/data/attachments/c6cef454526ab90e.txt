@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin sr-6wyx7hx8",
+            "email": "user-xcdt321e.1791534919858@example.com",
+            "password": "pw-adm-x7nlj4vx7e",
+            "administrador": "true",
+            "_id": "9IGsP8HjHlNSjHp7"
+        },
+        {
+            "nome": "Bruna de Quadros Jr.",
+            "email": "mariacecilia.ramalho@hotmail.com",
+            "password": "y5crn8821xqsf1xj3ix",
+            "administrador": "false",
+            "_id": "MvgCDnUUX6GHyEyE"
+        },
+        {
+            "nome": "User sr-dylf6ayc",
+            "email": "user-of43run4.1791534919882@example.com",
+            "password": "pw-usr-ultm5uqgfs",
+            "administrador": "false",
+            "_id": "NefSFID4KDF4BZRe"
+        },
+        {
+            "nome": "Sophie Datena",
+            "email": "sara.bittencourt@hotmail.com",
+            "password": "c2m43p616x4",
+            "administrador": "false",
+            "_id": "SJ3r9MKxKCe8OPQh"
+        },
+        {
+            "nome": "Gabriela Limeira",
+            "email": "salvador.guterres@live.com",
+            "password": "fn16nl2034",
+            "administrador": "false",
+            "_id": "jEH0XaaVbR5MnzwY"
+        },
+        {
+            "nome": "User sr-u5qrm08c",
+            "email": "user-bhdtno3j.1791534926145@example.com",
+            "password": "pw-usr-btfxwuxcsv",
+            "administrador": "false",
+            "_id": "p3cOTsp0lnZ1I6pI"
+        },
+        {
+            "nome": "Admin sr-mpok2k6y",
+            "email": "user-zlqe6riz.1791534919847@example.com",
+            "password": "pw-adm-nlbz51oaxr",
+            "administrador": "true",
+            "_id": "vRbp0rUSLE23v99M"
+        }
+    ]
+}
