@@ -1,0 +1,96 @@
+{
+    "quantidade": 13,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Melissa da Conceição",
+            "email": "anacecilia.correa@bol.com.br",
+            "password": "cmexcmte",
+            "administrador": "false",
+            "_id": "9EF40k5NQybUnd1J"
+        },
+        {
+            "nome": "Ana Sophia Roriz",
+            "email": "ofelia.martins@gmail.com",
+            "password": "h8iqnh2a6u2d0",
+            "administrador": "false",
+            "_id": "EMdKLv9mKeVIl07c"
+        },
+        {
+            "nome": "Helena Monteiro",
+            "email": "pietra.viana@gmail.com",
+            "password": "j39vn2gg3q",
+            "administrador": "false",
+            "_id": "GMsysQFwa66hVkGz"
+        },
+        {
+            "nome": "Rafael Godins",
+            "email": "helena.casqueira@live.com",
+            "password": "q155qf7o6",
+            "administrador": "false",
+            "_id": "JMdtjTwYMlGGIGSE"
+        },
+        {
+            "nome": "Ryan Amoreira",
+            "email": "joaopedro.mangueira@yahoo.com",
+            "password": "kwlfn9cb5gh41",
+            "administrador": "false",
+            "_id": "Nbl5h6md0TGtj5kE"
+        },
+        {
+            "nome": "Dr. Clarice Nogueira",
+            "email": "oliver.peixoto@bol.com.br",
+            "password": "14566s37eztps",
+            "administrador": "false",
+            "_id": "WnQXzvehVtjuAiDZ"
+        },
+        {
+            "nome": "Maria Flor Corte",
+            "email": "vinicius.filgueira@gmail.com",
+            "password": "zsoklfcwex",
+            "administrador": "false",
+            "_id": "bHeYfXihiW1aFr0j"
+        },
+        {
+            "nome": "Marcia Quarteira",
+            "email": "joao.bonfim@live.com",
+            "password": "h0ppd4rzolc4",
+            "administrador": "true",
+            "_id": "jFGkxNGIiWmZwOTg"
+        },
+        {
+            "nome": "Manuela Rameira Jr.",
+            "email": "cesar.sa@live.com",
+            "password": "uexpqzramvjrpfx",
+            "administrador": "true",
+            "_id": "m9lz7147Ys1C9ygS"
+        },
+        {
+            "nome": "Francisco Munhoz Neto",
+            "email": "maya.custodio@gmail.com",
+            "password": "h4byoocl542h1zsrck8",
+            "administrador": "false",
+            "_id": "qfxRiutXxKKqVoYN"
+        },
+        {
+            "nome": "Dr. Pedro Henrique Munhoz",
+            "email": "otavio.palhares@live.com",
+            "password": "qrxbwbgdw35h89",
+            "administrador": "true",
+            "_id": "t7j8t88Bt38KiQ8t"
+        },
+        {
+            "nome": "Lucca Siqueira Filho",
+            "email": "isaac.taveira@bol.com.br",
+            "password": "lopqupg5wstd",
+            "administrador": "false",
+            "_id": "xQ9XwI65XElwQ8bn"
+        }
+    ]
+}
