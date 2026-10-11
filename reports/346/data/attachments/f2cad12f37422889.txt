@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Roberto Castanheira",
+            "email": "luan.moraes@bol.com.br",
+            "password": "n2n39w3zpyyc33",
+            "administrador": "false",
+            "_id": "55Ulq2rRWQYmgIPz"
+        },
+        {
+            "nome": "Warley Junqueira",
+            "email": "theo.mendanha@bol.com.br",
+            "password": "3j2pgqw60dlv0b8dx",
+            "administrador": "false",
+            "_id": "BkPHdMBO0s3wDImw"
+        },
+        {
+            "nome": "Pérola Caldeira",
+            "email": "marialuiza.dafronteira@bol.com.br",
+            "password": "lfvbagk3nj0kf",
+            "administrador": "false",
+            "_id": "H8OIywXoW4WsaY07"
+        },
+        {
+            "nome": "Srta. Davi Luiz Vasques",
+            "email": "benicio.parreira@hotmail.com",
+            "password": "6cmrc1iir30",
+            "administrador": "false",
+            "_id": "VuYsXqMDBdZHxz0u"
+        },
+        {
+            "nome": "Lucas Caldeira",
+            "email": "aline.gomide@live.com",
+            "password": "76d0flvpb69t0tt52",
+            "administrador": "false",
+            "_id": "ZOjWFrvq2vkDrMlc"
+        },
+        {
+            "nome": "Margarida Cardoso Filho",
+            "email": "caio.gabeira@bol.com.br",
+            "password": "3h0j8j88pgl",
+            "administrador": "false",
+            "_id": "qgokKrspd1oAcoGi"
+        }
+    ]
+}
