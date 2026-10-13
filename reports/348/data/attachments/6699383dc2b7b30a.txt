@@ -1,0 +1,26 @@
+{
+    "quantidade": 3,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Fernanda da Fronteira",
+            "email": "eduardo.bulhoes@bol.com.br",
+            "password": "i7550j1wgj7iszgu",
+            "administrador": "false",
+            "_id": "CPVtaR2fCLInX8xq"
+        },
+        {
+            "nome": "Raul Laranjeira",
+            "email": "silas.teles@bol.com.br",
+            "password": "7b3enuu46zodg5fxa8",
+            "administrador": "false",
+            "_id": "Zbg4e4uxweaa0qPB"
+        }
+    ]
+}

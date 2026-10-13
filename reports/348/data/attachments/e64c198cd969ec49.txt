@@ -1,0 +1,82 @@
+{
+    "quantidade": 11,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Breno da Costa",
+            "email": "marcia.regueira@bol.com.br",
+            "password": "cpdi84w3c",
+            "administrador": "false",
+            "_id": "4chPFSmSCsR4SlpI"
+        },
+        {
+            "nome": "Maria Rocha",
+            "email": "gabriela.brites@yahoo.com",
+            "password": "4957msbyy1dv",
+            "administrador": "false",
+            "_id": "7dn4gpvoPomiPlVW"
+        },
+        {
+            "nome": "Fernanda da Fronteira",
+            "email": "eduardo.bulhoes@bol.com.br",
+            "password": "i7550j1wgj7iszgu",
+            "administrador": "false",
+            "_id": "CPVtaR2fCLInX8xq"
+        },
+        {
+            "nome": "Davi Luiz Taveira",
+            "email": "vinicius.leiria@yahoo.com",
+            "password": "1ys8lnure",
+            "administrador": "false",
+            "_id": "Dxea2gRmFMRCvqJx"
+        },
+        {
+            "nome": "Joaquim da Rosa",
+            "email": "pedro.ximenes@hotmail.com",
+            "password": "fub6b2iy95r73ju",
+            "administrador": "false",
+            "_id": "ETC0Px19fpfyjchL"
+        },
+        {
+            "nome": "Raul Laranjeira",
+            "email": "silas.teles@bol.com.br",
+            "password": "7b3enuu46zodg5fxa8",
+            "administrador": "false",
+            "_id": "Zbg4e4uxweaa0qPB"
+        },
+        {
+            "nome": "Maria Valentina Dorneles",
+            "email": "catarina.aparicio@yahoo.com",
+            "password": "wvqb2ydwzlmexa8",
+            "administrador": "false",
+            "_id": "awOqGEuTVsN2s0fR"
+        },
+        {
+            "nome": "Lavínia Matoso",
+            "email": "cesar.jesus@hotmail.com",
+            "password": "018mxbt6njqvm8lrrg",
+            "administrador": "true",
+            "_id": "fbEMrSvNk7nxgoer"
+        },
+        {
+            "nome": "Ryan Aguiar Jr.",
+            "email": "mariaeduarda.campos@hotmail.com",
+            "password": "7o8xaogv531m",
+            "administrador": "false",
+            "_id": "qxr74PX4pFcv6OfA"
+        },
+        {
+            "nome": "Yago da Mata",
+            "email": "emanuelly.hermingues@gmail.com",
+            "password": "rhr84j2w239o9",
+            "administrador": "false",
+            "_id": "uSwpyjnNQ06aGZ7t"
+        }
+    ]
+}

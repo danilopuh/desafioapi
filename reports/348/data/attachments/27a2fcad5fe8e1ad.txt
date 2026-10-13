@@ -1,0 +1,131 @@
+{
+    "quantidade": 18,
+    "usuarios": [
+        {
+            "nome": "Arthur Miguel Matoso",
+            "email": "ladislau.pimenta@gmail.com",
+            "password": "e9ao6kpx6p0leq",
+            "administrador": "false",
+            "_id": "0kLv6FDYUhovx4U3"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Yuri Fontinhas",
+            "email": "helena.vimaranes@live.com",
+            "password": "burfkoexff3lrxqm",
+            "administrador": "false",
+            "_id": "2X3pUnwFVF0YcGBC"
+        },
+        {
+            "nome": "Breno da Costa",
+            "email": "marcia.regueira@bol.com.br",
+            "password": "cpdi84w3c",
+            "administrador": "false",
+            "_id": "4chPFSmSCsR4SlpI"
+        },
+        {
+            "nome": "Maria Rocha",
+            "email": "gabriela.brites@yahoo.com",
+            "password": "4957msbyy1dv",
+            "administrador": "false",
+            "_id": "7dn4gpvoPomiPlVW"
+        },
+        {
+            "nome": "Fernanda da Fronteira",
+            "email": "eduardo.bulhoes@bol.com.br",
+            "password": "i7550j1wgj7iszgu",
+            "administrador": "false",
+            "_id": "CPVtaR2fCLInX8xq"
+        },
+        {
+            "nome": "Davi Luiz Taveira",
+            "email": "vinicius.leiria@yahoo.com",
+            "password": "1ys8lnure",
+            "administrador": "false",
+            "_id": "Dxea2gRmFMRCvqJx"
+        },
+        {
+            "nome": "Joaquim da Rosa",
+            "email": "pedro.ximenes@hotmail.com",
+            "password": "fub6b2iy95r73ju",
+            "administrador": "false",
+            "_id": "ETC0Px19fpfyjchL"
+        },
+        {
+            "nome": "Dr. Letícia Soares",
+            "email": "giulia.dapaz@yahoo.com",
+            "password": "ac68qx7tr8w0mob4j",
+            "administrador": "false",
+            "_id": "HYjPqTkpUJm2tCmc"
+        },
+        {
+            "nome": "Daniel Xavier",
+            "email": "vinicius.vasques@bol.com.br",
+            "password": "q142tpehbi8lrggqayz",
+            "administrador": "true",
+            "_id": "INwH0pGuB1b2unM3"
+        },
+        {
+            "nome": "Djalma Jaques",
+            "email": "kaue.nogueira@yahoo.com",
+            "password": "4w3wthkcfk6wvdw",
+            "administrador": "false",
+            "_id": "KGhQWhWRrMuKeduE"
+        },
+        {
+            "nome": "Clara Munhoz Jr.",
+            "email": "lara.meireles@gmail.com",
+            "password": "fge7wbtv8quhk",
+            "administrador": "false",
+            "_id": "QzV1fyRmqVqGsmE8"
+        },
+        {
+            "nome": "Raul Laranjeira",
+            "email": "silas.teles@bol.com.br",
+            "password": "7b3enuu46zodg5fxa8",
+            "administrador": "false",
+            "_id": "Zbg4e4uxweaa0qPB"
+        },
+        {
+            "nome": "Maria Valentina Dorneles",
+            "email": "catarina.aparicio@yahoo.com",
+            "password": "wvqb2ydwzlmexa8",
+            "administrador": "false",
+            "_id": "awOqGEuTVsN2s0fR"
+        },
+        {
+            "nome": "Dr. Eduarda Ornelas",
+            "email": "allana.aparicio@gmail.com",
+            "password": "g3mkyjyg98v",
+            "administrador": "false",
+            "_id": "cuEewPEoZI5tuFW4"
+        },
+        {
+            "nome": "Lavínia Matoso",
+            "email": "cesar.jesus@hotmail.com",
+            "password": "018mxbt6njqvm8lrrg",
+            "administrador": "true",
+            "_id": "fbEMrSvNk7nxgoer"
+        },
+        {
+            "nome": "Ryan Aguiar Jr.",
+            "email": "mariaeduarda.campos@hotmail.com",
+            "password": "7o8xaogv531m",
+            "administrador": "false",
+            "_id": "qxr74PX4pFcv6OfA"
+        },
+        {
+            "nome": "Yago da Mata",
+            "email": "emanuelly.hermingues@gmail.com",
+            "password": "rhr84j2w239o9",
+            "administrador": "false",
+            "_id": "uSwpyjnNQ06aGZ7t"
+        }
+    ]
+}
