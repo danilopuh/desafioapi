@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Srta. Norberto Aguiar",
+            "email": "sara.almeida@live.com",
+            "password": "ib1h79kelclsiiay",
+            "administrador": "false",
+            "_id": "Aq6b3hwoFEeHvw4u"
+        },
+        {
+            "nome": "William",
+            "email": "william12355@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "Iq9vpLDqfJxy14S3"
+        },
+        {
+            "nome": "Peter Parker",
+            "email": "peter@email.com.br",
+            "password": "peterparker@123",
+            "administrador": "false",
+            "_id": "RIJCRT0jvJpkrVH9"
+        },
+        {
+            "nome": "awd",
+            "email": "will32@teste.com",
+            "password": "12323",
+            "administrador": "true",
+            "_id": "VWYJTOxeDe0cd8ED"
+        },
+        {
+            "nome": "Usuario QA d146c02f",
+            "email": "qa.karate.d146c02fe54d4e75bbcdc7daa96a3457@example.com",
+            "password": "Qa!d146c02fe5",
+            "administrador": "false",
+            "_id": "rOQfjzM4WNuGS0dZ"
+        },
+        {
+            "nome": "William",
+            "email": "Admin28794@teste.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "tPirpba8rA0TTx2F"
+        },
+        {
+            "nome": "Luiz Miguel Viveiros Jr.",
+            "email": "ana.videira@live.com",
+            "password": "10fdia7n98whd0sit",
+            "administrador": "false",
+            "_id": "vhYSmgbZSxyxG58F"
+        }
+    ]
+}

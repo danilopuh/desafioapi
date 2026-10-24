@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Alice da Barranca",
+            "email": "anajulia.coutinho@bol.com.br",
+            "password": "pqov4tlta2gc2qorw8",
+            "administrador": "false",
+            "_id": "F3rCniHp0AFo6UHc"
+        },
+        {
+            "nome": "William",
+            "email": "william12355@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "Iq9vpLDqfJxy14S3"
+        },
+        {
+            "nome": "Peter Parker",
+            "email": "peter@email.com.br",
+            "password": "peterparker@123",
+            "administrador": "false",
+            "_id": "RIJCRT0jvJpkrVH9"
+        },
+        {
+            "nome": "awd",
+            "email": "will32@teste.com",
+            "password": "12323",
+            "administrador": "true",
+            "_id": "VWYJTOxeDe0cd8ED"
+        },
+        {
+            "nome": "Usuario QA d146c02f",
+            "email": "qa.karate.d146c02fe54d4e75bbcdc7daa96a3457@example.com",
+            "password": "Qa!d146c02fe5",
+            "administrador": "false",
+            "_id": "rOQfjzM4WNuGS0dZ"
+        },
+        {
+            "nome": "William",
+            "email": "Admin28794@teste.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "tPirpba8rA0TTx2F"
+        },
+        {
+            "nome": "Luiz Miguel Viveiros Jr.",
+            "email": "ana.videira@live.com",
+            "password": "10fdia7n98whd0sit",
+            "administrador": "false",
+            "_id": "vhYSmgbZSxyxG58F"
+        },
+        {
+            "nome": "Usuario QA e6acc8b7",
+            "email": "qa.karate.e6acc8b7ab534cff954f8d62d24fa368@example.com",
+            "password": "Qa!e6acc8b7ab",
+            "administrador": "false",
+            "_id": "xq6kToh9YD62fStq"
+        }
+    ]
+}

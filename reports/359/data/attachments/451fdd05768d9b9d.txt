@@ -1,0 +1,68 @@
+{
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Alice da Barranca",
+            "email": "anajulia.coutinho@bol.com.br",
+            "password": "pqov4tlta2gc2qorw8",
+            "administrador": "false",
+            "_id": "F3rCniHp0AFo6UHc"
+        },
+        {
+            "nome": "Sílvia Ferreira",
+            "email": "lorenzo.hernandes@bol.com.br",
+            "password": "m5xpl2bmdmkc5t",
+            "administrador": "false",
+            "_id": "HsXisdkAdWoP0UBG"
+        },
+        {
+            "nome": "William",
+            "email": "william12355@teste.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "Iq9vpLDqfJxy14S3"
+        },
+        {
+            "nome": "Peter Parker",
+            "email": "peter@email.com.br",
+            "password": "peterparker@123",
+            "administrador": "false",
+            "_id": "RIJCRT0jvJpkrVH9"
+        },
+        {
+            "nome": "awd",
+            "email": "will32@teste.com",
+            "password": "12323",
+            "administrador": "true",
+            "_id": "VWYJTOxeDe0cd8ED"
+        },
+        {
+            "nome": "Ana Vitória da Nóbrega",
+            "email": "adriana.gomes@live.com",
+            "password": "rnbqrstwd1",
+            "administrador": "false",
+            "_id": "oLG6GmVJfy60G8Wu"
+        },
+        {
+            "nome": "William",
+            "email": "Admin28794@teste.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "tPirpba8rA0TTx2F"
+        },
+        {
+            "nome": "Luiz Miguel Viveiros Jr.",
+            "email": "ana.videira@live.com",
+            "password": "10fdia7n98whd0sit",
+            "administrador": "false",
+            "_id": "vhYSmgbZSxyxG58F"
+        }
+    ]
+}
