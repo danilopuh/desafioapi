@@ -1,0 +1,33 @@
+{
+    "quantidade": 4,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Roberto Barata Jr.",
+            "email": "gael.aragao@yahoo.com",
+            "password": "o8gmdxdlifp6v",
+            "administrador": "false",
+            "_id": "4QIB2jA8OH0LALYN"
+        },
+        {
+            "nome": "Dra. Nicolas Melo",
+            "email": "analivia.coqueiro@live.com",
+            "password": "dkcgho22143efzy5",
+            "administrador": "false",
+            "_id": "D9asaUDK1qAMURnw"
+        },
+        {
+            "nome": "Dr. Davi Ludmer Ouriques",
+            "email": "giovanna.roseira@yahoo.com",
+            "password": "eredbcbb34gp0iw",
+            "administrador": "false",
+            "_id": "S4Gy7LFDu8lSGL4b"
+        }
+    ]
+}
