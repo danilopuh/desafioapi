@@ -1,0 +1,124 @@
+{
+    "quantidade": 17,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lucas Deola",
+            "email": "gordo@gmail.com",
+            "password": "teste.com",
+            "administrador": "true",
+            "_id": "8kliB7mxcpxCtTgD"
+        },
+        {
+            "nome": "jose",
+            "email": "jose2003@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "Br26mOQek9MmIp2X"
+        },
+        {
+            "nome": "erick3",
+            "email": "user_f5412ff1-6302-4014-aeee-677ae2759f48@qa.com",
+            "password": "xander1234",
+            "administrador": "false",
+            "_id": "HmXRXlrUYwlDmwj8"
+        },
+        {
+            "nome": "Beatriz Teixeira",
+            "email": "biaqa@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "MfNEH32l6nkCuhRY"
+        },
+        {
+            "nome": "Tony Stark",
+            "email": "stark@email.com",
+            "password": "@tony123@",
+            "administrador": "true",
+            "_id": "QGU6gaZyEEMAhYRK"
+        },
+        {
+            "nome": "Marli Ribeira",
+            "email": "ana.sa@yahoo.com",
+            "password": "e8umq2i6d",
+            "administrador": "false",
+            "_id": "RIBWz7yA5dlXm9xE"
+        },
+        {
+            "nome": "Lucas Deola",
+            "email": "lucas.teste@gmail.com",
+            "password": "teste.com",
+            "administrador": "true",
+            "_id": "RjBl9McA7itA1su3"
+        },
+        {
+            "nome": "jose",
+            "email": "jose@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "SNUpoJenouNFxJxt"
+        },
+        {
+            "nome": "erick4",
+            "email": "user_6b0c8b3f-c7e3-4cdf-9d28-43f2b6ea9db2@qa.com",
+            "password": "xander1234",
+            "administrador": "false",
+            "_id": "SQ1y8Ih5JClZYLyA"
+        },
+        {
+            "nome": "erick1",
+            "email": "user_0e0babfb-43fc-4483-abc1-1f4fee3b47b2@qa.com",
+            "password": "xander1234",
+            "administrador": "true",
+            "_id": "Y0jTA3enYNGrA8S4"
+        },
+        {
+            "nome": "Lucas Deola",
+            "email": "lucas.deola@gmail.com",
+            "password": "teste.deola",
+            "administrador": "true",
+            "_id": "fuQEfUGuUG8lG7ga"
+        },
+        {
+            "nome": "jose",
+            "email": "testejose@gmail.com",
+            "password": "jose",
+            "administrador": "true",
+            "_id": "k1OGu2Sa25yqQa2Q"
+        },
+        {
+            "nome": "Peter Parker",
+            "email": "parker@email.com",
+            "password": "@peter123@",
+            "administrador": "false",
+            "_id": "kqBR49M5ntOG4hks"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano1793321398@qa.com.br",
+            "password": "12",
+            "administrador": "true",
+            "_id": "lCP049MGOwF9hLOt"
+        },
+        {
+            "nome": "erick2",
+            "email": "user_65397000-140f-42c8-9c3c-15f638beeb1c@qa.com",
+            "password": "xander1234",
+            "administrador": "true",
+            "_id": "qFr6ebYLhEZ7DZ6Q"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "yx17q7n9jbOssCEI"
+        }
+    ]
+}
