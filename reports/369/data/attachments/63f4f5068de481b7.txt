@@ -1,0 +1,145 @@
+{
+    "quantidade": 20,
+    "usuarios": [
+        {
+            "nome": "Srta. Maria Martins",
+            "email": "yasmin.fontinhas@gmail.com",
+            "password": "601wvnho",
+            "administrador": "false",
+            "_id": "00sFcLwuIjLatD43"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Tony Stark",
+            "email": "stark@email.com",
+            "password": "@tony123@",
+            "administrador": "true",
+            "_id": "6W3a0zgGWcjtrH0O"
+        },
+        {
+            "nome": "Evilin",
+            "email": "evilin@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Eb9DsvBFpZBMtS5B"
+        },
+        {
+            "nome": "Homer Kirlin",
+            "email": "Jennie_Lubowitz@yahoo.com",
+            "password": "6s2nEOET",
+            "administrador": "true",
+            "_id": "HuHjzPtWgiLn0gi5"
+        },
+        {
+            "nome": "Talita",
+            "email": "talitapavao02@icloud.com",
+            "password": "Ta180291*",
+            "administrador": "false",
+            "_id": "KNQHcGLmPqRioD3y"
+        },
+        {
+            "nome": "Andrielly Maria Damasio",
+            "email": "beltraninha123@qa.com.br",
+            "password": "1234567",
+            "administrador": "true",
+            "_id": "NtMjqgy6QXz1DwOs"
+        },
+        {
+            "nome": "Dr. Davi Luiz da Fonseca",
+            "email": "yango.marques@yahoo.com",
+            "password": "zzhkdikv94",
+            "administrador": "false",
+            "_id": "OCjWLiIOpATQRWCR"
+        },
+        {
+            "nome": "Giovanna Menendes Neto",
+            "email": "bruno.datena@hotmail.com",
+            "password": "72mu11iwku34055",
+            "administrador": "false",
+            "_id": "TGpagI5p3XlQUDBO"
+        },
+        {
+            "nome": "Mrs. Tawanda Windler",
+            "email": "katelyn.leuschke@yahoo.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "VXKcJvELn6EaRQJH"
+        },
+        {
+            "nome": "Marina Brum",
+            "email": "carolina.cardoso@live.com",
+            "password": "87inc09dw51ii6sr",
+            "administrador": "false",
+            "_id": "WLZKd4FetuOkd6J5"
+        },
+        {
+            "nome": "Rodrigo Monteira Neto",
+            "email": "bento.batista@yahoo.com",
+            "password": "5cipnfp89nw",
+            "administrador": "false",
+            "_id": "a3IC3nQWBn8BnXox"
+        },
+        {
+            "nome": "Ms. Kyle Lesch",
+            "email": "genaro.ortiz@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "dQp36AhMW9UifSfm"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "iK5RdCyuiIDX3pDE"
+        },
+        {
+            "nome": "Salvatore Dickens-Pfannerstill",
+            "email": "Annamae46@yahoo.com",
+            "password": "0028yVWK",
+            "administrador": "true",
+            "_id": "io7jfX9zIgs2Dtde"
+        },
+        {
+            "nome": "Cathie Lynch",
+            "email": "lilliana.pacocha@gmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "mP6HGdPU4QHjJjaP"
+        },
+        {
+            "nome": "Peter Pan",
+            "email": "pan@email.com",
+            "password": "@pan123@",
+            "administrador": "true",
+            "_id": "o7FKQcCa6Fz0wm4Y"
+        },
+        {
+            "nome": "Incrivel Hulk",
+            "email": "hulk@email.com",
+            "password": "@hulk123@",
+            "administrador": "false",
+            "_id": "x25UXvg8YCFIPK7L"
+        },
+        {
+            "nome": "Andrielly Maria Damasio",
+            "email": "beltraninha12@qa.com.br",
+            "password": "1234567",
+            "administrador": "true",
+            "_id": "xZ7pMS8SR4rBVsvx"
+        },
+        {
+            "nome": "Peter Parker",
+            "email": "parker@email.com",
+            "password": "@peter123@",
+            "administrador": "false",
+            "_id": "ytXlBbereh9oplNl"
+        }
+    ]
+}
