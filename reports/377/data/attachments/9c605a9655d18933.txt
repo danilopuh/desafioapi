@@ -1,0 +1,75 @@
+{
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0MeFAyzmmM3OVOLp"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Mariani ADM",
+            "email": "mariani.adm@example.com",
+            "password": "teste12345",
+            "administrador": "true",
+            "_id": "CUHtYdCb1qjUi6xT"
+        },
+        {
+            "nome": "João Samuel Campos Jr.",
+            "email": "qa.c09b86c6@serverest.dev",
+            "password": "wnbg%*%7#OB$Ac",
+            "administrador": "true",
+            "_id": "HcwUIFzBg8mZBYlX"
+        },
+        {
+            "nome": "Abuble",
+            "email": "Abubledasilva67@abuble.com",
+            "password": "senhasenha",
+            "administrador": "true",
+            "_id": "TVvERReT5HPnIkoR"
+        },
+        {
+            "nome": "Mariani Admin",
+            "email": "mariani@example.com",
+            "password": "teste12345",
+            "administrador": "true",
+            "_id": "aFB9A17pQmBVS03z"
+        },
+        {
+            "nome": "Hugo alterado",
+            "email": "fulanodeassis@qa.com",
+            "password": "administrator",
+            "administrador": "true",
+            "_id": "qnbJBMJpvCFxA0HH"
+        },
+        {
+            "nome": "Pedro Tobias Caseira",
+            "email": "lucas.carreira@yahoo.com",
+            "password": "cr2v5l4fu",
+            "administrador": "false",
+            "_id": "ueiz0YNdaX38Ncc7"
+        },
+        {
+            "nome": "Mariani Teste",
+            "email": "mariani.teste@example.com",
+            "password": "teste12345",
+            "administrador": "true",
+            "_id": "wBSxavDvymXZTnTd"
+        },
+        {
+            "nome": "eduardo",
+            "email": "dmail@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wRoXNhQnCMlYZzRQ"
+        }
+    ]
+}
