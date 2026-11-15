@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Isabella Madeira",
+            "email": "valentina.bentes@hotmail.com",
+            "password": "yvvb0vv99",
+            "administrador": "false",
+            "_id": "02gxZUpcIQ4zh0rk"
+        },
+        {
+            "nome": "Ana Luiza Bentes",
+            "email": "nicolas.ximenes@gmail.com",
+            "password": "570r3etqdu97",
+            "administrador": "false",
+            "_id": "0dWstbTnXnkucZ94"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Luiz Gustavo Modesto",
+            "email": "ricardo.garces@gmail.com",
+            "password": "4o3twfm85",
+            "administrador": "false",
+            "_id": "H7OOAYLBv9Q3ZF4G"
+        },
+        {
+            "nome": "Yasmin Rezende",
+            "email": "alice.palmeira@bol.com.br",
+            "password": "oulr87cbwqz",
+            "administrador": "false",
+            "_id": "LvUtWnUDR7PC4Cpd"
+        },
+        {
+            "nome": "Rodrigo da Gama",
+            "email": "vinicius.soares@bol.com.br",
+            "password": "i5wze855njftut",
+            "administrador": "false",
+            "_id": "WFTZ5PdRK5Js6caM"
+        },
+        {
+            "nome": "Gabrielly Palhares",
+            "email": "feliciano.crespo@live.com",
+            "password": "crcfr3kufwy8pi",
+            "administrador": "false",
+            "_id": "Y8J8T5xemArB1nhM"
+        }
+    ]
+}
