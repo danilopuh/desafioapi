@@ -1,0 +1,61 @@
+{
+    "quantidade": 8,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Letícia Coutinho",
+            "email": "yasmin.desa@live.com",
+            "password": "10nw055p7sw6uxr",
+            "administrador": "false",
+            "_id": "0ywCPD3ntCMDrfsy"
+        },
+        {
+            "nome": "Sra. Marcia Bulhões",
+            "email": "ryan.goulart@gmail.com",
+            "password": "wrel8v5l23lyg1sg",
+            "administrador": "false",
+            "_id": "34N45CLQ79lwdvM8"
+        },
+        {
+            "nome": "Alexandre Ventura",
+            "email": "alexandre@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "8UASp2LKbCjSK9eK"
+        },
+        {
+            "nome": "Aurora Bulhões Filho",
+            "email": "daviluca.hernandes@live.com",
+            "password": "pdvsi965pgr0g",
+            "administrador": "false",
+            "_id": "95ICCumdMvXquFGV"
+        },
+        {
+            "nome": "Bruno Tester 11",
+            "email": "bm_tester_2@dev.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "PK9HRUYl6xvkFEO4"
+        },
+        {
+            "nome": "Dr. Oliver Cavalcanti",
+            "email": "bianca.laranjeira@yahoo.com",
+            "password": "a809jrh34wpala6",
+            "administrador": "false",
+            "_id": "SCRDcj6Qyelrh79r"
+        },
+        {
+            "nome": "Bruno Tester 111",
+            "email": "bm_tester_1@dev.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "tuqVpb44zHviUKJO"
+        }
+    ]
+}
