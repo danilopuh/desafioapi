@@ -1,0 +1,89 @@
+{
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Luiz Otávio Castro",
+            "email": "marina.ramires@gmail.com",
+            "password": "3nl1he4mblkj36rcd",
+            "administrador": "false",
+            "_id": "iNzaN8laplI8tdQS"
+        },
+        {
+            "nome": "Laís Dantas",
+            "email": "mariaflor.pinheira@gmail.com",
+            "password": "xl6ecjkrgcdesnmdv",
+            "administrador": "false",
+            "_id": "ObtYLWlUqU3nYSqq"
+        },
+        {
+            "nome": "Deneval da Fonseca",
+            "email": "mariaeduarda.barreto@bol.com.br",
+            "password": "y5ibtn2ygeqo7m7d3w2",
+            "administrador": "false",
+            "_id": "neFyp1P9dtJxiLcA"
+        },
+        {
+            "nome": "Maria Eduarda Viana",
+            "email": "tomas.jaques@live.com",
+            "password": "a1otk3ex3l0",
+            "administrador": "false",
+            "_id": "1XKuJyx0Ku72srDG"
+        },
+        {
+            "nome": "MrOk",
+            "email": "k@qa.com",
+            "password": "123",
+            "administrador": "false",
+            "_id": "mGA13ezUhmkU9cDL"
+        },
+        {
+            "nome": "Teste UsuarioAPI",
+            "email": "usuarioapio@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "TXim53rzS9yzIx1E"
+        },
+        {
+            "nome": "QA Com Carrinho",
+            "email": "comcarrinho_{timestamp}@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "fYSeYRsEJrkL86Kf"
+        },
+        {
+            "nome": "MrOk",
+            "email": "MrOk@qa.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "7vyQYjxR6zvl60ny"
+        },
+        {
+            "nome": "Rogelio Schmeler Jr.",
+            "email": "katheleen.stiedemann@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "GmfWPpx38EQiArnO"
+        },
+        {
+            "nome": "Samella Legros",
+            "email": "heike.rogahn@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "vh52VNOgRMg2hcVE"
+        },
+        {
+            "nome": "Sarina Stehr DVM",
+            "email": "jame.williamson@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "Qv224z90ZATANnlF"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        }
+    ]
+}
