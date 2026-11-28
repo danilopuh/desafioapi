@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Alícia da Conceição Filho",
+            "email": "luizfelipe.rocha@hotmail.com",
+            "password": "i7zmwr1t97s1rko",
+            "administrador": "false",
+            "_id": "DRmpaBpThPpq8cSS"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "quantidade": 2,
+    "usuarios": [
+        {
+            "nome": "Emanuelly Laranjeira",
+            "email": "pablo.gomide@hotmail.com",
+            "password": "dzv899hcdwhmtmlgpf",
+            "administrador": "false",
+            "_id": "lqqCjoTIeTBGksig"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        }
+    ]
+}
